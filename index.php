@@ -43,15 +43,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<header>
 		<div class="w3ls-header"><!--header-one--> 
 			<div class="w3ls-header-left">
-				<p><a href="mobileapp.html"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
+				<p><a href="mobileapp.php"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
 			</div>
 			<div class="w3ls-header-right">
 				<ul>
 					<li class="dropdown head-dpdn">
-						<a href="signin.html" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
+						<a href="signin.php" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<a href="help.html"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+						<a href="help.php"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
 					</li>
 					<li class="dropdown head-dpdn">
 						<a href="#"><span class="active uls-trigger"><i class="fa fa-language" aria-hidden="true"></i>languages</span></a>
@@ -461,7 +461,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agile-its-header">
 				<div class="logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="agileits_search">
 					<form action="#" method="post">
@@ -484,7 +484,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<i class="fa fa-search" aria-hidden="true"> </i>
 						</button>
 					</form>
-				<a class="post-w3layouts-ad" href="post-ad.html">Post Free Ad</a>
+				<a class="post-w3layouts-ad" href="post-ad.php">Post Free Ad</a>
 				</div>	
 				<div class="clearfix"></div>
 			</div>
@@ -497,31 +497,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<li>
 					<div class="w3ls-slide-text">
 						<h3>Sell or Advertise anything online</h3>
-						<a href="categories.html" class="w3layouts-explore-all">Browse all Categories</a>
+						<a href="categories.php" class="w3layouts-explore-all">Browse all Categories</a>
 					</div>
 				</li>
 				<li>
 					<div class="w3ls-slide-text">
 						<h3>Find the Best Deals Here</h3>
-						<a href="categories.html" class="w3layouts-explore">Explore</a>
+						<a href="categories.php" class="w3layouts-explore">Explore</a>
 					</div>
 				</li>
 				<li>
 					<div class="w3ls-slide-text">
 						<h3>Lets build the home of your dreams</h3>
-						<a href="real-estate.html" class="w3layouts-explore">Explore</a>
+						<a href="real-estate.php" class="w3layouts-explore">Explore</a>
 					</div>
 				</li>
 				<li>
 					<div class="w3ls-slide-text">
 						<h3>Find your dream ride</h3>
-						<a href="bikes.html" class="w3layouts-explore">Explore</a>
+						<a href="bikes.php" class="w3layouts-explore">Explore</a>
 					</div>
 				</li>
 				<li>
 					<div class="w3ls-slide-text">
 						<h3>The Easiest Way to get a Job</h3>
-						<a href="jobs.html" class="w3layouts-explore">Find a Job</a>
+						<a href="jobs.php" class="w3layouts-explore">Find a Job</a>
 					</div>
 				</li>
 			</ul>
@@ -534,7 +534,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="container">
 					<div class="col-md-3">
 						<div class="focus-grid w3layouts-boder1">
-							<a class="btn-8" href="categories.html">
+							<a class="btn-8" href="categories.php">
 								<div class="focus-border">
 									<div class="focus-layout">
 										<div class="focus-image"><i class="fa fa-mobile"></i></div>
@@ -546,7 +546,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 						<div class="focus-grid w3layouts-boder2">	
-						<a class="btn-8" href="categories.html#parentVerticalTab2">
+						<a class="btn-8" href="categories.php#parentVerticalTab2">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-laptop"></i></div>
@@ -558,7 +558,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder3">
-						<a class="btn-8" href="categories.html#parentVerticalTab3">
+						<a class="btn-8" href="categories.php#parentVerticalTab3">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-car"></i></div>
@@ -570,7 +570,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder4">
-						<a class="btn-8" href="categories.html#parentVerticalTab4">
+						<a class="btn-8" href="categories.php#parentVerticalTab4">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-motorcycle"></i></div>
@@ -582,7 +582,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder5">
-						<a class="btn-8" href="categories.html#parentVerticalTab5">
+						<a class="btn-8" href="categories.php#parentVerticalTab5">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-wheelchair"></i></div>
@@ -594,7 +594,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder6">
-						<a class="btn-8" href="categories.html#parentVerticalTab6">
+						<a class="btn-8" href="categories.php#parentVerticalTab6">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-paw"></i></div>
@@ -606,7 +606,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder7">
-						<a class="btn-8" href="categories.html#parentVerticalTab7">
+						<a class="btn-8" href="categories.php#parentVerticalTab7">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-book"></i></div>
@@ -618,7 +618,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder8">
-						<a class="btn-8" href="categories.html#parentVerticalTab8">
+						<a class="btn-8" href="categories.php#parentVerticalTab8">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-asterisk"></i></div>
@@ -630,7 +630,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder9">
-						<a class="btn-8" href="categories.html#parentVerticalTab9">
+						<a class="btn-8" href="categories.php#parentVerticalTab9">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-gamepad"></i></div>
@@ -642,7 +642,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder10">
-						<a class="btn-8" href="categories.html#parentVerticalTab10">
+						<a class="btn-8" href="categories.php#parentVerticalTab10">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-shield"></i></div>
@@ -654,7 +654,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder11">
-						<a class="btn-8" href="categories.html#parentVerticalTab11">
+						<a class="btn-8" href="categories.php#parentVerticalTab11">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-at"></i></div>
@@ -666,7 +666,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3">
 					<div class="focus-grid w3layouts-boder12">
-						<a class="btn-8" href="categories.html#parentVerticalTab12">
+						<a class="btn-8" href="categories.php#parentVerticalTab12">
 							<div class="focus-border">
 								<div class="focus-layout">
 									<div class="focus-image"><i class="fa fa-home"></i></div>
@@ -689,9 +689,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="over-image"></div>
 						</div>
 						<div class="portfolio-description">
-						   <h4><a href="cars.html">Latest Cars</a></h4>
+						   <h4><a href="cars.php">Latest Cars</a></h4>
 						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="cars.html">
+							<a href="cars.php">
 								<span>Explore</span>
 							</a>
 						</div>
@@ -703,9 +703,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							 <div class="over-image"></div>
 						</div>
 						<div class="portfolio-description">
-						   <h4><a href="real-estate.html">Apartments for Sale</a></h4>
+						   <h4><a href="real-estate.php">Apartments for Sale</a></h4>
 						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="real-estate.html">
+							<a href="real-estate.php">
 								<span>Explore</span>
 							</a>
 						</div>
@@ -717,9 +717,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							 <div class="over-image"></div>
 						</div>
 						<div class="portfolio-description">
-						   <h4><a href="jobs.html">BPO jobs</a></h4>
+						   <h4><a href="jobs.php">BPO jobs</a></h4>
 						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="jobs.html">
+							<a href="jobs.php">
 								<span>Explore</span>
 							</a>
 						</div>
@@ -731,9 +731,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							 <div class="over-image"></div>
 						</div>
 						<div class="portfolio-description">
-						   <h4><a href="electronics-appliances.html">Accessories</a></h4>
+						   <h4><a href="electronics-appliances.php">Accessories</a></h4>
 						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="electronics-appliances.html">
+							<a href="electronics-appliances.php">
 								<span>Explore</span>
 							</a>
 						</div>
@@ -745,9 +745,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							 <div class="over-image"></div>
 						</div>
 						<div class="portfolio-description">
-						   <h4><a href="furnitures.html">Home Appliances</a></h4>
+						   <h4><a href="furnitures.php">Home Appliances</a></h4>
 						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="furnitures.html">
+							<a href="furnitures.php">
 								<span>Explore</span>
 							</a>
 						</div>
@@ -759,9 +759,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							 <div class="over-image"></div>
 						</div>
 						<div class="portfolio-description">
-						   <h4><a href="fashion.html">Clothing</a></h4>
+						   <h4><a href="fashion.php">Clothing</a></h4>
 						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="fashion.html">
+							<a href="fashion.php">
 								<span>Explore</span>
 							</a>
 						</div>
@@ -779,7 +779,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<ul id="flexiselDemo3">
 								<li>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p1.jpg" alt="" />
 											<span class="price">&#36; 450</span>
 										</a> 
@@ -789,7 +789,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p2.jpg" alt="" />
 											<span class="price">&#36; 399</span>
 										</a> 
@@ -799,7 +799,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p3.jpg" alt="" />
 											<span class="price">&#36; 199</span>
 										</a> 
@@ -809,7 +809,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p4.jpg" alt="" />
 											<span class="price">&#36; 159</span>
 										</a> 
@@ -821,7 +821,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</li>
 								<li>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p5.jpg" alt="" />
 											<span class="price">&#36; 1599</span>
 										</a> 
@@ -831,7 +831,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p6.jpg" alt="" />
 											<span class="price">&#36; 1099</span>
 										</a> 
@@ -841,7 +841,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p7.jpg" alt="" />
 											<span class="price">&#36; 109</span>
 										</a> 
@@ -851,7 +851,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p8.jpg" alt="" />
 											<span class="price">&#36; 189</span>
 										</a> 
@@ -863,7 +863,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</li>
 								<li>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p9.jpg" alt="" />
 											<span class="price">&#36; 2599</span>
 										</a> 
@@ -873,7 +873,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p10.jpg" alt="" />
 											<span class="price">&#36; 3999</span>
 										</a> 
@@ -883,7 +883,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p11.jpg" alt="" />
 											<span class="price">&#36; 2699</span>
 										</a> 
@@ -893,7 +893,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 									<div class="col-md-3 biseller-column">
-										<a href="single.html">
+										<a href="single.php">
 											<img src="images/p12.jpg" alt="" />
 											<span class="price">&#36; 899</span>
 										</a> 
@@ -931,7 +931,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="agile-info-mobile-app">
 				<div class="container">
 					<div class="col-md-5 w3-app-left">
-						<a href="mobileapp.html"><img src="images/app.png" alt=""></a>
+						<a href="mobileapp.php"><img src="images/app.png" alt=""></a>
 					</div>
 					<div class="col-md-7 w3-app-right">
 						<h3>Resale App is the <span>Easiest</span> way for Selling and buying second-hand goods</h3>
@@ -962,22 +962,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Help</h4>
 							<ul>
-								<li><a href="howitworks.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
-								<li><a href="sitemap.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
-								<li><a href="faq.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
-								<li><a href="feedback.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
-								<li><a href="contact.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
-								<li><a href="typography.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
-								<li><a href="icons.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
+								<li><a href="howitworks.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>
+								<li><a href="sitemap.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
+								<li><a href="faq.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
+								<li><a href="feedback.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
+								<li><a href="contact.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
+								<li><a href="typography.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
+								<li><a href="icons.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Information</h4>
 							<ul>
-								<li><a href="regions.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
-								<li><a href="terms.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
-								<li><a href="popular-search.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
-								<li><a href="privacy.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
+								<li><a href="regions.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>
+								<li><a href="terms.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
+								<li><a href="popular-search.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>
+								<li><a href="privacy.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
@@ -1007,7 +1007,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="agileits-footer-bottom text-center">
 			<div class="container">
 				<div class="w3-footer-logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="w3-footer-social-icons">
 					<ul>
