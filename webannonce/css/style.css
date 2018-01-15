@@ -8,13 +8,13 @@ body{
 	padding:0;
 	font-family: 'Open Sans', sans-serif;
 	background:#fff;
-    scrollbar-face-color: #000000; 
-    scrollbar-shadow-color: #000000;
-    scrollbar-highlight-color: #000000;
-    scrollbar-3dlight-color: #000000; 
-    scrollbar-darkshadow-color: #000000; 
-    scrollbar-track-color: #000000; 
-	scrollbar-arrow-color: #000000;
+    scrollbar-face-color: #DEA000; 
+    scrollbar-shadow-color: #DEA000;
+    scrollbar-highlight-color: #DEA000;
+    scrollbar-3dlight-color: #DEA000; 
+    scrollbar-darkshadow-color: #DEA000; 
+    scrollbar-track-color: #DEA000; 
+	scrollbar-arrow-color: #DEA000;
 }
 
 body a{
