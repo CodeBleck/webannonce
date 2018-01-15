@@ -542,22 +542,44 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="agileits-tab_nav">
 					<ul class="resp-tabs-list hor_1">
 						<li>Immobiliers</li>
-						<li>Electroniques</li>
+						<li>Mobiles</li>
+						<li>Electroniques & Electromenenagers</li>
 						<li>Automobiles</li>
+						<li>Maisons et terrains</li>
 						<li>Cosmetiques</li>
-						<li>Bijoux</li>
+						
 						<li>Animaux domestiques</li>
 						<li>Fournitures scolaires</li>
 						<li>Vestmentaires</li>
 						<li>Jouets</li>
-						<li>Electromeneagers</li>
-						<li>Jobs</li>
-						<li>Maisons et terrains</li>
+						<li>Bijoux</li>
+						
 					</ul>
 						<a class="w3ls-ads" href="all-classifieds.php">View all Ads</a>
 					</div>
 					<div class="resp-tabs-container hor_1">
-						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>All USA</strong> (Select your city to see local ads)</span>
+						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>CAMEROUN</strong> (Selectionner votre ville)</span>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat5.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Furniture</h4>
+									<span>1,05,168 Ads</span>
+									<a href="all-classifieds.php">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="furnitures.php">Sofa & Dining</a></li>
+									<li><a href="furnitures.php">Beds & Wardrobes</a></li>
+									<li><a href="furnitures.php">Home Decor & Garden</a></li>
+									<li><a href="furnitures.php">Other Household Items</a></li>
+								</ul>
+							</div>
+						</div>
 						<div>
 							<div class="sub-categories">
 								<ul>
@@ -626,6 +648,29 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							<div class="category">
 								<div class="category-img">
+									<img src="images/cat12.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Real Estate</h4>
+									<span>98,156 Ads</span>
+									<a href="all-classifieds.php">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="real-estate.php">Houses</a></li>
+									<li><a href="real-estate.php">Apartments</a></li>
+									<li><a href="real-estate.php">PG & Roommates</a></li>
+									<li><a href="real-estate.php">Land & Plots</a></li>
+									<li><a href="real-estate.php">Shops - Offices - Commercial Space</a></li>
+									<li><a href="real-estate.php">Vacation Rentals - Guest Houses</a></li>
+								</ul>
+							</div>
+						</div>
+						<div>
+							<div class="category">
+								<div class="category-img">
 									<img src="images/cat4.png" title="image" alt="" />
 								</div>
 								<div class="category-info">
@@ -644,27 +689,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</ul>
 							</div>
 						</div>
-						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat5.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
-									<h4>Furniture</h4>
-									<span>1,05,168 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-							<div class="sub-categories">
-								<ul>
-									<li><a href="furnitures.php">Sofa & Dining</a></li>
-									<li><a href="furnitures.php">Beds & Wardrobes</a></li>
-									<li><a href="furnitures.php">Home Decor & Garden</a></li>
-									<li><a href="furnitures.php">Other Household Items</a></li>
-								</ul>
-							</div>
-						</div>
+						
 						<div>
 							<div class="category">
 								<div class="category-img">
@@ -774,60 +799,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</ul>
 							</div>
 						</div>
-						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat11.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
-									<h4>Jobs</h4>
-									<span>5,74,547 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-							<div class="sub-categories">
-								<ul>
-									<li><a href="jobs.php">Customer Service</a></li>
-									<li><a href="jobs.php">IT</a></li>
-									<li><a href="jobs.php">Online</a></li>
-									<li><a href="jobs.php">Marketing</a></li>
-									<li><a href="jobs.php">Advertising & PR</a></li>
-									<li><a href="jobs.php">Sales</a></li>
-									<li><a href="jobs.php">Clerical & Administration</a></li>
-									<li><a href="jobs.php">Human Resources</a></li>
-									<li><a href="jobs.php">Education</a></li>
-									<li><a href="jobs.php">Hotels & Tourism</a></li>
-									<li><a href="jobs.php">Accounting & Finance</a></li>
-									<li><a href="jobs.php">Manufacturing</a></li>
-									<li><a href="jobs.php">Part - Time</a></li>
-									<li><a href="jobs.php">Other Jobs</a></li>
-								</ul>
-							</div>
-						</div>
-						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat12.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
-									<h4>Real Estate</h4>
-									<span>98,156 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-							<div class="sub-categories">
-								<ul>
-									<li><a href="real-estate.php">Houses</a></li>
-									<li><a href="real-estate.php">Apartments</a></li>
-									<li><a href="real-estate.php">PG & Roommates</a></li>
-									<li><a href="real-estate.php">Land & Plots</a></li>
-									<li><a href="real-estate.php">Shops - Offices - Commercial Space</a></li>
-									<li><a href="real-estate.php">Vacation Rentals - Guest Houses</a></li>
-								</ul>
-							</div>
-						</div>
+						
+						
 					</div>
 					<div class="clearfix"></div>
 				</div>
