@@ -519,7 +519,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="agileits_search">
 					<form action="#" method="post">
 						<input name="Search" type="text" placeholder="How can we help you today?" required="" />
-						<select id="agileinfo_search" name="agileinfo_search" required>
+						<select id="agileinfo_search" name="agileinfo_search" required="">
 							<option value="">All Categories</option>
 							<option value="Mobiles">Mobiles</option>
 							<option value="Electronics & Appliances">Electronics & Appliances</option>
@@ -555,29 +555,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--Vertical Tab-->
 	<div class="categories-section main-grid-border">
 		<div class="container">
-			<h2 class="w3-head">Emplois</h2>
+			<h2 class="w3-head">Ventes</h2>
 			<div class="category-list">
 				<div id="parentVerticalTab">
 					<div class="agileits-tab_nav">
 					<ul class="resp-tabs-list hor_1">
-						<li>Achat,transport,Logistique</li>
-						<li>Commercial,Ventes</li>
-						<li>Gestions,comptabilites,finnances</li>
-						<li>informatique,nouvelles technologies</li>
-						<li>Magements,Direction générale</li>
-						<li>Marketing,communication</li>
-						<li>Metiers de la sante et du social</li>
-						<li>Metiers des services</li>
-						<li>Metiers BTP</li>
-						<li>Production, maintenance et qualité</li>
-						<li>Gestion de projets</li>
-						<li>RH,juridique,formation</li>
-						<li>secretariat artisanale</li>
-						<li>Tourisme,hoteleries,restauration</li>
+						<li>Immobiliers</li>
+						<li>Electroniques</li>
+						<li>Automobiles</li>
+						<li>Cosmetiques</li>
+						<li>Bijoux</li>
+						<li>Animaux domestiques</li>
+						<li>Fournitures scolaires</li>
+						<li>Vestmentaires</li>
+						<li>Jouets</li>
+						<li>Electromeneagers</li>
+						<li>Jobs</li>
+						<li>Maisons et terrains</li>
 					</ul>
 						<a class="w3ls-ads" href="all-classifieds.html">View all Ads</a>
 					</div>
-					<div class="resp-tabs-container hor_1" id="a1">
+					<div class="resp-tabs-container hor_1">
 						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>All USA</strong> (Select your city to see local ads)</span>
 						<div>
 							<div class="category">
