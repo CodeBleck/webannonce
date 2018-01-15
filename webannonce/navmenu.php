@@ -36,11 +36,11 @@
 							</div>
 							<div class="collpse-in col-md-12" id="location">
 								<ul >
-									<li><a href="locations.php#parentVerticalTab1">Maisons</a></li>
-									<li><a href="locations.php#parentVerticalTab2">Vehicules</a></li>
-									<li><a href="locations.php#parentVerticalTab3">Terrains</a></li>
-									<li><a href="locations.php#parentVerticalTab4">Salles</a></li>
-									<li><a href="locations.php#parentVerticalTab5">Chaises</a></li>
+									<li><a href="#">Electronique</a></li>
+									<li><a href="#">Immobiliers</a></li>
+									<li><a href="#">Vestimentaires</a></li>
+									<li><a href="#">Cosmetiques</a></li>
+									<li><a href="#">Bijoux</a></li>
 								</ul>
 							</div>
 						</div>
