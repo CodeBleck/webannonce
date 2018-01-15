@@ -121,21 +121,21 @@ var elem=$('#container ul');
 	<header>
 		<div class="w3ls-header"><!--header-one--> 
 			<div class="w3ls-header-left">
-				<p><a href="mobileapp.html"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
+				<p><a href="mobileapp.php"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
 			</div>
 			<div class="w3ls-header-right">
 				<ul>
 					<li class="dropdown head-dpdn">
-						<a href="signin.html" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
+						<a href="signin.php" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<a href="help.html"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+						<a href="help.php"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
 					</li>
 					<li class="dropdown head-dpdn">
 						<a href="#"><span class="active uls-trigger"><i class="fa fa-language" aria-hidden="true"></i>languages</span></a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<div class="header-right">			
+						<div class="header-right">	
 	<!-- Large modal -->
 			<div class="selectregion">
 				<button class="btn btn-primary" data-toggle="modal" data-target="#myModal">
@@ -541,30 +541,11 @@ var elem=$('#container ul');
 		<div class="container">
 			<div class="agile-its-header">
 				<div class="logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="agileits_search">
-					<form action="#" method="post">
-						<input name="Search" type="text" placeholder="How can we help you today?" required=" ">
-						<select id="agileinfo_search" name="agileinfo_search" required="">
-							<option value="">All Categories</option>
-							<option value="Mobiles">Mobiles</option>
-							<option value="Electronics & Appliances">Electronics & Appliances</option>
-							<option value="Cars">Cars</option>
-							<option value="Bikes">Bikes</option>
-							<option value="Furnitures">Furnitures</option>
-							<option value="Books, Sports & Hobbies">Books, Sports & Hobbies</option>
-							<option value="Fashion">Fashion</option>
-							<option value="Kids">Kids</option>
-							<option value="Services">Services</option>
-							<option value="Jobs">Jobs</option>
-							<option value="Real Estates">Real Estates</option>
-						</select>
-						<button type="submit" class="btn btn-default" aria-label="Left Align">
-							<i class="fa fa-search" aria-hidden="true"> </i>
-						</button>
-					</form>
-				<a class="post-w3layouts-ad" href="post-ad.html">Post Free Ad</a>
+					<?php include("formsearchhead.php") ?>
+				<a class="post-w3layouts-ad" href="post-ad.php">Post Free Ad</a>
 				</div>	
 				<div class="clearfix"></div>
 			</div>
@@ -575,8 +556,8 @@ var elem=$('#container ul');
 	<div class="w3layouts-breadcrumbs text-center">
 		<div class="container">
 			<span class="agile-breadcrumbs">
-			<a href="index.html"><i class="fa fa-home home_1"></i></a> / 
-			<a href="categories.html">Categories</a> / 
+			<a href="index.php"><i class="fa fa-home home_1"></i></a> / 
+			<a href="categories.php">Categories</a> / 
 			<span>Mobiles</span></span>
 		</div>
 	</div>

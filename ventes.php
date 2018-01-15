@@ -96,15 +96,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<header>
 		<div class="w3ls-header"><!--header-one--> 
 			<div class="w3ls-header-left">
-				<p><a href="mobileapp.html"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
+				<p><a href="mobileapp.php"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
 			</div>
 			<div class="w3ls-header-right">
 				<ul>
 					<li class="dropdown head-dpdn">
-						<a href="signin.html" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
+						<a href="signin.php" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<a href="help.html"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+						<a href="help.php"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
 					</li>
 					<li class="dropdown head-dpdn">
 						<a href="#"><span class="active uls-trigger"><i class="fa fa-language" aria-hidden="true"></i>languages</span></a>
@@ -514,30 +514,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agile-its-header">
 				<div class="logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="agileits_search">
-					<form action="#" method="post">
-						<input name="Search" type="text" placeholder="How can we help you today?" required="" />
-						<select id="agileinfo_search" name="agileinfo_search" required="">
-							<option value="">All Categories</option>
-							<option value="Mobiles">Mobiles</option>
-							<option value="Electronics & Appliances">Electronics & Appliances</option>
-							<option value="Cars">Cars</option>
-							<option value="Bikes">Bikes</option>
-							<option value="Furnitures">Furnitures</option>
-							<option value="Books, Sports & Hobbies">Books, Sports & Hobbies</option>
-							<option value="Fashion">Fashion</option>
-							<option value="Kids">Kids</option>
-							<option value="Services">Services</option>
-							<option value="Jobs">Jobs</option>
-							<option value="Real Estates">Real Estates</option>
-						</select>
-						<button type="submit" class="btn btn-default" aria-label="Left Align">
-							<i class="fa fa-search" aria-hidden="true"> </i>
-						</button>
-					</form>
-				<a class="post-w3layouts-ad" href="post-ad.html">Post Free Ad</a>
+					<?php include("formsearchhead.php") ?>
+				<a class="post-w3layouts-ad" href="post-ad.php">Post Free Ad</a>
 				</div>	
 				<div class="clearfix"></div>
 			</div>
@@ -547,7 +528,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- breadcrumbs -->
 	<div class="w3layouts-breadcrumbs text-center">
 		<div class="container">
-			<span class="agile-breadcrumbs"><a href="index.html"><i class="fa fa-home home_1"></i></a> / <span>Categories</span></span>
+			<span class="agile-breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a> / <span>Categories</span></span>
 		</div>
 	</div>
 	<!-- //breadcrumbs -->
@@ -573,29 +554,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>Jobs</li>
 						<li>Maisons et terrains</li>
 					</ul>
-						<a class="w3ls-ads" href="all-classifieds.html">View all Ads</a>
+						<a class="w3ls-ads" href="all-classifieds.php">View all Ads</a>
 					</div>
 					<div class="resp-tabs-container hor_1">
 						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>All USA</strong> (Select your city to see local ads)</span>
 						<div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="mobiles.php">mobile phones</a></li>
+									<li><a href="mobiles.php">Tablets</a></li>
+									<li><a href="mobiles.php">Accessories</a></li>
+								</ul>
+							</div>
 							<div class="category">
+								
 								<div class="category-img">
 									<img src="images/cat1.png" title="image" alt="" />
 								</div>
 								<div class="category-info">
 									<h4>Mobiles</h4>
 									<span>5,12,850 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
-								<ul>
-									<li><a href="mobiles.html">mobile phones</a></li>
-									<li><a href="mobiles.html">Tablets</a></li>
-									<li><a href="mobiles.html">Accessories</a></li>
-								</ul>
-							</div>
+							
 						</div>
 						<div>
 							<div class="category">
@@ -605,18 +588,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Electronics & Appliances</h4>
 									<span>2,01,850 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="electronics-appliances.html">Computers & accessories</a></li>
-									<li><a href="electronics-appliances.html">Tv - video - audio</a></li>
-									<li><a href="electronics-appliances.html">Cameras & accessories</a></li>
-									<li><a href="electronics-appliances.html">Games & Entertainment</a></li>
-									<li><a href="electronics-appliances.html">Fridge - AC - Washing Machine</a></li>
-									<li><a href="electronics-appliances.html">Kitchen & Other Appliances</a></li>
+									<li><a href="electronics-appliances.php">Computers & accessories</a></li>
+									<li><a href="electronics-appliances.php">Tv - video - audio</a></li>
+									<li><a href="electronics-appliances.php">Cameras & accessories</a></li>
+									<li><a href="electronics-appliances.php">Games & Entertainment</a></li>
+									<li><a href="electronics-appliances.php">Fridge - AC - Washing Machine</a></li>
+									<li><a href="electronics-appliances.php">Kitchen & Other Appliances</a></li>
 								</ul>
 							</div>
 						</div>
@@ -628,15 +611,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Cars</h4>
 									<span>1,98,080 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="cars.html">Commercial Vehicles</a></li>
-									<li><a href="cars.html">Other Vehicles</a></li>
-									<li><a href="cars.html">Spare Parts</a></li>
+									<li><a href="cars.php">Commercial Vehicles</a></li>
+									<li><a href="cars.php">Other Vehicles</a></li>
+									<li><a href="cars.php">Spare Parts</a></li>
 								</ul>
 							</div>
 						</div>
@@ -648,16 +631,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Bikes</h4>
 									<span>6,17,568 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="bikes.html">Motorcycles</a></li>
-									<li><a href="bikes.html">Scooters</a></li>
-									<li><a href="bikes.html">Bicycles</a></li>
-									<li><a href="bikes.html">Spare Parts</a></li>
+									<li><a href="bikes.php">Motorcycles</a></li>
+									<li><a href="bikes.php">Scooters</a></li>
+									<li><a href="bikes.php">Bicycles</a></li>
+									<li><a href="bikes.php">Spare Parts</a></li>
 								</ul>
 							</div>
 						</div>
@@ -669,16 +652,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Furniture</h4>
 									<span>1,05,168 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="furnitures.html">Sofa & Dining</a></li>
-									<li><a href="furnitures.html">Beds & Wardrobes</a></li>
-									<li><a href="furnitures.html">Home Decor & Garden</a></li>
-									<li><a href="furnitures.html">Other Household Items</a></li>
+									<li><a href="furnitures.php">Sofa & Dining</a></li>
+									<li><a href="furnitures.php">Beds & Wardrobes</a></li>
+									<li><a href="furnitures.php">Home Decor & Garden</a></li>
+									<li><a href="furnitures.php">Other Household Items</a></li>
 								</ul>
 							</div>
 						</div>
@@ -690,16 +673,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Pets</h4>
 									<span>1,77,816 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="pets.html">Dogs</a></li>
-									<li><a href="pets.html">Aquariums</a></li>
-									<li><a href="pets.html">Pet Food & Accessories</a></li>
-									<li><a href="pets.html">Other Pets</a></li>
+									<li><a href="pets.php">Dogs</a></li>
+									<li><a href="pets.php">Aquariums</a></li>
+									<li><a href="pets.php">Pet Food & Accessories</a></li>
+									<li><a href="pets.php">Other Pets</a></li>
 								</ul>
 							</div>
 						</div>
@@ -711,17 +694,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Books, Sports & Hobbies</h4>
 									<span>9,58,458 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="books-sports-hobbies.html">Books & Magazines</a></li>
-									<li><a href="books-sports-hobbies.html">Musical Instruments</a></li>
-									<li><a href="books-sports-hobbies.html">Sports Equipment</a></li>
-									<li><a href="books-sports-hobbies.html">Gym & Fitness</a></li>
-									<li><a href="books-sports-hobbies.html">Other Hobbies</a></li>
+									<li><a href="books-sports-hobbies.php">Books & Magazines</a></li>
+									<li><a href="books-sports-hobbies.php">Musical Instruments</a></li>
+									<li><a href="books-sports-hobbies.php">Sports Equipment</a></li>
+									<li><a href="books-sports-hobbies.php">Gym & Fitness</a></li>
+									<li><a href="books-sports-hobbies.php">Other Hobbies</a></li>
 								</ul>
 							</div>
 						</div>
@@ -733,15 +716,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Fashion</h4>
 									<span>3,52,345 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="fashion.html">Clothes</a></li>
-									<li><a href="fashion.html">Footwear</a></li>
-									<li><a href="fashion.html">Accessories</a></li>
+									<li><a href="fashion.php">Clothes</a></li>
+									<li><a href="fashion.php">Footwear</a></li>
+									<li><a href="fashion.php">Accessories</a></li>
 								</ul>
 							</div>
 						</div>
@@ -753,15 +736,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Kids</h4>
 									<span>8,45,298 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="kids.html">Furniture And Toys</a></li>
-									<li><a href="kids.html">Prams & Walkers</a></li>
-									<li><a href="kids.html">Accessories</a></li>
+									<li><a href="kids.php">Furniture And Toys</a></li>
+									<li><a href="kids.php">Prams & Walkers</a></li>
+									<li><a href="kids.php">Accessories</a></li>
 								</ul>
 							</div>
 						</div>
@@ -773,21 +756,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Services</h4>
 									<span>7,58,867 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="services.html">Education & Classes</a></li>
-									<li><a href="services.html">Web Development</a></li>
-									<li><a href="services.html">Electronics & Computer Repair</a></li>
-									<li><a href="services.html">Maids & Domestic Help</a></li>
-									<li><a href="services.html">Health & Beauty</a></li>
-									<li><a href="services.html">Movers & Packers</a></li>
-									<li><a href="services.html">Drivers & Taxi</a></li>
-									<li><a href="services.html">Event Services</a></li>
-									<li><a href="services.html">Other Services</a></li>
+									<li><a href="services.php">Education & Classes</a></li>
+									<li><a href="services.php">Web Development</a></li>
+									<li><a href="services.php">Electronics & Computer Repair</a></li>
+									<li><a href="services.php">Maids & Domestic Help</a></li>
+									<li><a href="services.php">Health & Beauty</a></li>
+									<li><a href="services.php">Movers & Packers</a></li>
+									<li><a href="services.php">Drivers & Taxi</a></li>
+									<li><a href="services.php">Event Services</a></li>
+									<li><a href="services.php">Other Services</a></li>
 								</ul>
 							</div>
 						</div>
@@ -799,26 +782,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Jobs</h4>
 									<span>5,74,547 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="jobs.html">Customer Service</a></li>
-									<li><a href="jobs.html">IT</a></li>
-									<li><a href="jobs.html">Online</a></li>
-									<li><a href="jobs.html">Marketing</a></li>
-									<li><a href="jobs.html">Advertising & PR</a></li>
-									<li><a href="jobs.html">Sales</a></li>
-									<li><a href="jobs.html">Clerical & Administration</a></li>
-									<li><a href="jobs.html">Human Resources</a></li>
-									<li><a href="jobs.html">Education</a></li>
-									<li><a href="jobs.html">Hotels & Tourism</a></li>
-									<li><a href="jobs.html">Accounting & Finance</a></li>
-									<li><a href="jobs.html">Manufacturing</a></li>
-									<li><a href="jobs.html">Part - Time</a></li>
-									<li><a href="jobs.html">Other Jobs</a></li>
+									<li><a href="jobs.php">Customer Service</a></li>
+									<li><a href="jobs.php">IT</a></li>
+									<li><a href="jobs.php">Online</a></li>
+									<li><a href="jobs.php">Marketing</a></li>
+									<li><a href="jobs.php">Advertising & PR</a></li>
+									<li><a href="jobs.php">Sales</a></li>
+									<li><a href="jobs.php">Clerical & Administration</a></li>
+									<li><a href="jobs.php">Human Resources</a></li>
+									<li><a href="jobs.php">Education</a></li>
+									<li><a href="jobs.php">Hotels & Tourism</a></li>
+									<li><a href="jobs.php">Accounting & Finance</a></li>
+									<li><a href="jobs.php">Manufacturing</a></li>
+									<li><a href="jobs.php">Part - Time</a></li>
+									<li><a href="jobs.php">Other Jobs</a></li>
 								</ul>
 							</div>
 						</div>
@@ -830,18 +813,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="category-info">
 									<h4>Real Estate</h4>
 									<span>98,156 Ads</span>
-									<a href="all-classifieds.html">View all Ads</a>
+									<a href="all-classifieds.php">View all Ads</a>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="real-estate.html">Houses</a></li>
-									<li><a href="real-estate.html">Apartments</a></li>
-									<li><a href="real-estate.html">PG & Roommates</a></li>
-									<li><a href="real-estate.html">Land & Plots</a></li>
-									<li><a href="real-estate.html">Shops - Offices - Commercial Space</a></li>
-									<li><a href="real-estate.html">Vacation Rentals - Guest Houses</a></li>
+									<li><a href="real-estate.php">Houses</a></li>
+									<li><a href="real-estate.php">Apartments</a></li>
+									<li><a href="real-estate.php">PG & Roommates</a></li>
+									<li><a href="real-estate.php">Land & Plots</a></li>
+									<li><a href="real-estate.php">Shops - Offices - Commercial Space</a></li>
+									<li><a href="real-estate.php">Vacation Rentals - Guest Houses</a></li>
 								</ul>
 							</div>
 						</div>

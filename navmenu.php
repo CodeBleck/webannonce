@@ -10,18 +10,18 @@
 							</div>
 							<div class="collapse-in in col-md-12 " id="vente">
 									<ul class="list-unstyled ">
-										<li><a href="#">Immobiliers</a></li>
-										<li><a href="#">Electroniques</a></li>
-										<li><a href="#">Automobiles</a></li>
-										<li><a href="#">Cosmetiques</a></li>
-										<li><a href="#">Bijoux</a></li>
-										<li><a href="#">Animaux domestiques</a></li>
-										<li><a href="#">Fournitures scolaires</a></li>
-										<li><a href="#">Vestmentaires</a></li>
-										<li><a href="#">Jouets</a></li>
-										<li><a href="#">Electromeneagers</a></li>
-										<li><a href="#">Jobs</a></li>
-										<li><a href="#">Maisons et terrains</a></li>
+										<li><a href="ventes.php#parentVerticalTab1">Immobiliers</a></li>
+										<li><a href="ventes.php#parentVerticalTab2">Electroniques</a></li>
+										<li><a href="ventes.php#parentVerticalTab3">Automobiles</a></li>
+										<li><a href="ventes.php#parentVerticalTab4">Cosmetiques</a></li>
+										<li><a href="ventes.php#parentVerticalTab5">Bijoux</a></li>
+										<li><a href="ventes.php#parentVerticalTab6">Animaux domestiques</a></li>
+										<li><a href="ventes.php#parentVerticalTab7">Fournitures scolaires</a></li>
+										<li><a href="ventes.php#parentVerticalTab8">Vestmentaires</a></li>
+										<li><a href="ventes.php#parentVerticalTab9">Jouets</a></li>
+										<li><a href="ventes.php#parentVerticalTab10">Electromeneagers</a></li>
+										<li><a href="ventes.php#parentVerticalTab11">Jobs</a></li>
+										<li><a href="ventes.php#parentVerticalTab12">Maisons et terrains</a></li>
 									</ul>
 							</div>
 						</div>

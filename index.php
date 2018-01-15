@@ -534,7 +534,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="container">
 					 <div class="col-md-6">
                         <div class="focus-grid w3layouts-boder1 circle">
-                            <a class="btn-8" href="categories.html">
+                            <a class="btn-8" href="ventes.php">
                                 <div class="focus-border">
                                     <div class="focus-layout">
                                         <div class="focus-image img-responsive"><img class="ventes" src="images/icons/ventes.png"></div>
@@ -547,7 +547,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     </div>
                     <div class="col-md-6">
                         <div class="focus-grid w3layouts-boder2">
-                            <a class="btn-8" href="categories.html#parentVerticalTab2">
+                            <a class="btn-8" href="locations.php">
                                 <div class="focus-border">
                                     <div class="focus-layout">
                                         <div class="focus-image img-responsive"><img class="ventes" src="images/icons/locations.png"></div>
@@ -560,12 +560,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     </div>
                     <div class="col-md-6">
                         <div class="focus-grid w3layouts-boder3">
-                            <a class="btn-8" href="categories.html#parentVerticalTab3">
+                            <a class="btn-8" href="emplois.php">
                                 <div class="focus-border">
                                     <div class="focus-layout">
                                         <div class="focus-image img-responsive"><img class="ventes" src="images/icons/emplois.png"></div>
                                         <!--<div class="focus-image"><i class="fa fa-car"></i></div>-->
-                                        <h4 class="clrchg">Emploi</h4>
+                                        <h4 class="clrchg">Emplois</h4>
                                     </div>
                                 </div>
                             </a>
@@ -573,7 +573,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     </div>
                     <div class="col-md-6">
                         <div class="focus-grid w3layouts-boder4">
-                            <a class="btn-8" href="categories.html#parentVerticalTab4">
+                            <a class="btn-8" href="formations.php">
                                 <div class="focus-border">
                                     <div class="focus-layout">
                                         <div class="focus-image img-responsive"><img class="ventes" src="images/icons/formations.png"></div>
