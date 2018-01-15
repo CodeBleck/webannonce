@@ -121,15 +121,15 @@ var elem=$('#container ul');
 	<header>
 		<div class="w3ls-header"><!--header-one--> 
 			<div class="w3ls-header-left">
-				<p><a href="mobileapp.html"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
+				<p><a href="mobileapp.php"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
 			</div>
 			<div class="w3ls-header-right">
 				<ul>
 					<li class="dropdown head-dpdn">
-						<a href="signin.html" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
+						<a href="signin.php" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<a href="help.html"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+						<a href="help.php"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
 					</li>
 					<li class="dropdown head-dpdn">
 						<a href="#"><span class="active uls-trigger"><i class="fa fa-language" aria-hidden="true"></i>languages</span></a>
@@ -541,7 +541,7 @@ var elem=$('#container ul');
 		<div class="container">
 			<div class="agile-its-header">
 				<div class="logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="agileits_search">
 					<form action="#" method="post">
@@ -564,7 +564,7 @@ var elem=$('#container ul');
 							<i class="fa fa-search" aria-hidden="true"> </i>
 						</button>
 					</form>
-				<a class="post-w3layouts-ad" href="post-ad.html">Post Free Ad</a>
+				<a class="post-w3layouts-ad" href="post-ad.php">Post Free Ad</a>
 				</div>	
 				<div class="clearfix"></div>
 			</div>
@@ -575,8 +575,8 @@ var elem=$('#container ul');
 	<div class="w3layouts-breadcrumbs text-center">
 		<div class="container">
 			<span class="agile-breadcrumbs">
-			<a href="index.html"><i class="fa fa-home home_1"></i></a> / 
-			<a href="categories.html">Categories</a> / 
+			<a href="index.php"><i class="fa fa-home home_1"></i></a> /
+			<a href="categories.php">Categories</a> /
 			<span>Real Estate</span></span>
 		</div>
 	</div>
