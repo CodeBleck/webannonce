@@ -8,8 +8,8 @@
 									</a>
 								</li>
 							</div>
-							<div class="collapsed col-md-12 " id="vente">
-									<ul class="list-unstyled ">
+							<div class="collapse col-md-12 " id="vente">
+									<ul class="list-unstyled">
 										<li><a href="ventes.php#parentVerticalTab1">Immobiliers</a></li>
 										<li><a href="ventes.php#parentVerticalTab2">Mobiles</a></li>
 										<li><a href="ventes.php#parentVerticalTab3">Electroniques & Electromenenagers</a></li>
@@ -55,23 +55,24 @@
 									</a>
 								</li>
 							</div>
-							<div class="collapse-in col-md-12" id="emploi">
+
+							<div class="collpse-in col-md-12" id="emploi">
 								<ul class="list-unstyled">
-									<li><a href="#">Electronique</a></li>
-									<li><a href="#">Achat,transport,Logistique</a></li>
-									<li><a href="#">Commercial,Ventes</a></li>
-									<li><a href="#">Gestions,comptabilites,finnances</a></li>
-									<li><a href="#">informatique,nouvelles technologies</a></li>
-									<li><a href="#">Magements,Direction générale</a></li>
-									<li><a href="#">Marketing,communication</a></li>
-									<li><a href="#">Metiers de la sante et du social</a></li>
-									<li><a href="#">Metiers des services</a></li>
-									<li><a href="#">Metiers BTP</a></li>
-									<li><a href="#">Production, maintenance et qualité</a></li>
-									<li><a href="#">Gestion de projets</a></li>
-									<li><a href="#">RH,juridique,formation</a></li>
-									<li><a href="#">secretariat artisanale</a></li>
-									<li><a href="#">Tourisme,hoteleries,restauration</a></li>
+									<li><a href="emplois.php#parentVerticalTab1">Achat,transport,Logistique</a></li>
+									<li><a href="emplois.php#parentVerticalTab2">Commercial,Ventes</a></li>
+									<li><a href="emplois.php#parentVerticalTab3">Gestions,comptabilites,finnances</a></li>
+									<li><a href="emplois.php#parentVerticalTab4">informatique,nouvelles technologies</a></li>
+									<li><a href="emplois.php#parentVerticalTab5">Magements,Direction générale</a></li>
+									<li><a href="emplois.php#parentVerticalTab6">Marketing,communication</a></li>
+									<li><a href="emplois.php#parentVerticalTab7">Metiers de la sante et du social</a></li>
+									<li><a href="emplois.php#parentVerticalTab8">Metiers des services</a></li>
+									<li><a href="emplois.php#parentVerticalTab9">Metiers BTP</a></li>
+									<li><a href="emplois.php#parentVerticalTab10">Production, maintenance et qualité</a></li>
+									<li><a href="emplois.php#parentVerticalTab11">Gestion de projets</a></li>
+									<li><a href="emplois.php#parentVerticalTab12">RH,juridique,formation</a></li>
+									<li><a href="emplois.php#parentVerticalTab13">secretariat artisanale</a></li>
+									<li><a href="emplois.php#parentVerticalTab14">Tourisme,hoteleries,restauration</a></li>
+
 								</ul>
 							</div>
 						</div>

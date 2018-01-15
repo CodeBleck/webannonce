@@ -519,7 +519,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="agileits_search">
 					<form action="#" method="post">
 						<input name="Search" type="text" placeholder="How can we help you today?" required="" />
-						<select id="agileinfo_search" name="agileinfo_search" required="">
+						<select id="agileinfo_search" name="agileinfo_search" required>
 							<option value="">All Categories</option>
 							<option value="Mobiles">Mobiles</option>
 							<option value="Electronics & Appliances">Electronics & Appliances</option>
@@ -577,7 +577,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</ul>
 						<a class="w3ls-ads" href="all-classifieds.html">View all Ads</a>
 					</div>
-					<div class="resp-tabs-container hor_1">
+					<div class="resp-tabs-container hor_1" id="a1">
 						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>All USA</strong> (Select your city to see local ads)</span>
 						<div>
 							<div class="category">
