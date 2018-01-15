@@ -35,10 +35,28 @@ h1,h2,h3,h4,h5,h6{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }	
+
+/*div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
 p{
 	margin:0;
 	font-family: 'Open Sans', sans-serif;
-}
+}*/
 /*.caret
 {
   margin-right: 15%;
@@ -505,11 +523,11 @@ ul.callbacks_tabs li {
 
 .w3ls-slide-text h3 {
 	font-size: 42px;
-    color: #000000;
+    color: white;
     text-transform: uppercase;
     letter-spacing: 6px;
     padding: 10px 0 10px 0px;
-    background: rgba(255, 255, 255, 0.58);
+   /* background: rgba(255, 255, 255, 0.58);*/
 	margin-bottom:50px;
 }
 .rslides {
@@ -900,28 +918,31 @@ a.w3layouts-explore-all:hover {
     -o-transition: 1.5s all;
     -ms-transition: 1.5s all;
 }
-.focus-image i {
-    font-size: 40px;
+.focus-image img {
+    background-color:#dd0908;
+    padding: 20px;
+    border-radius: 50%;
+    /*font-size:0px;
     color: #fff;
     background: #dd0908;
     border-radius: 50%;
-    width: 90px;
+    width: 50px;
     height: 90px;
     line-height: 95px;
     transition: 0.5s all;
     -webkit-transition: 1.5s all;
     -moz-transition: 1.5s all;
     -o-transition: 1.5s all;
-    -ms-transition: 1.5s all;
+    -ms-transition: 1.5s all;*/
 }
-.focus-layout:hover div.focus-image i{
-	background:#FBFBFB;
-	color:#000;
-    transition: 0.5s all;
+.focus-layout:hover div.focus-image img{
+    color:#fff;
+    background:#54b0d4;
+    /*transition: 0.5s all;
     -webkit-transition: 1.5s all;
     -moz-transition: 1.5s all;
     -o-transition: 1.5s all;
-    -ms-transition: 1.5s all;
+    -ms-transition: 1.5s all;*/
 }
 .focus-image i.fa-laptop {
 	background:#ff9e29;
@@ -956,7 +977,7 @@ a.w3layouts-explore-all:hover {
 .focus-image i.fa-home {
 	background:#df8012;
 }
-.focus-layout:hover div.focus-image i.mobile{
+.focus-layout:hover div.focus-image img.mobile{
 }
 i.laptop {
 }

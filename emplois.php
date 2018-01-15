@@ -7,11 +7,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Resale_v2 a Classified ads Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>Resale_v2 a Classified ads Category Flat Bootstrap Responsive Website Template | Categories :: w3layouts</title>
 <link rel="stylesheet" href="css/bootstrap.min.css"><!-- bootstrap-CSS -->
 <link rel="stylesheet" href="css/bootstrap-select.css"><!-- bootstrap-select-CSS -->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" /><!-- style.css -->
-<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" /><!-- flexslider-CSS -->
 <link rel="stylesheet" href="css/font-awesome.min.css" /><!-- fontawesome-CSS -->
 <link rel="stylesheet" href="css/menu_sideslide.css" type="text/css" media="all"><!-- Navigation-CSS -->
 <!-- meta tags -->
@@ -25,13 +24,67 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href='//fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 <!--//fonts-->	
+<!-- js -->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<!-- js -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/bootstrap.js"></script>
+<script src="js/bootstrap-select.js"></script>
+<script>
+  $(document).ready(function () {
+    var mySelect = $('#first-disabled2');
+
+    $('#special').on('click', function () {
+      mySelect.find('option:selected').prop('disabled', true);
+      mySelect.selectpicker('refresh');
+    });
+
+    $('#special2').on('click', function () {
+      mySelect.find('option:disabled').prop('disabled', false);
+      mySelect.selectpicker('refresh');
+    });
+
+    $('#basic2').selectpicker({
+      liveSearch: true,
+      maxOptions: 1
+    });
+  });
+</script>
+<!-- language-select -->
+<script type="text/javascript" src="js/jquery.leanModal.min.js"></script>
+<link href="css/jquery.uls.css" rel="stylesheet"/>
+<link href="css/jquery.uls.grid.css" rel="stylesheet"/>
+<link href="css/jquery.uls.lcd.css" rel="stylesheet"/>
+<!-- Source -->
+<script src="js/jquery.uls.data.js"></script>
+<script src="js/jquery.uls.data.utils.js"></script>
+<script src="js/jquery.uls.lcd.js"></script>
+<script src="js/jquery.uls.languagefilter.js"></script>
+<script src="js/jquery.uls.regionfilter.js"></script>
+<script src="js/jquery.uls.core.js"></script>
+<script>
+			$( document ).ready( function() {
+				$( '.uls-trigger' ).uls( {
+					onSelect : function( language ) {
+						var languageName = $.uls.data.getAutonym( language );
+						$( '.uls-trigger' ).text( languageName );
+					},
+					quickList: ['en', 'hi', 'he', 'ml', 'ta', 'fr'] //FIXME
+				} );
+			} );
+		</script>
+<!-- //language-select -->
+<!-- responsive tabs -->
+	<link rel="stylesheet" type="text/css" href="css/easy-responsive-tabs.css " />
+    <script src="js/easyResponsiveTabs.js"></script>
+<!-- /responsive tabs -->
 </head>
-<body>	
-		<!-- Navigation -->
+<body>
+	<!-- Navigation -->
 		<div class="agiletopbar">
 			<div class="wthreenavigation">
 				<div class="menu-wrap">
-				<?php include("navmenu.php"); ?>
+                    <?php include("navmenu.php"); ?>
 				<button class="close-button" id="close-button">Close Menu</button>
 			</div>
 			<button class="menu-button" id="open-button"> </button>
@@ -43,15 +96,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<header>
 		<div class="w3ls-header"><!--header-one--> 
 			<div class="w3ls-header-left">
-				<p><a href="mobileapp.php"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
+				<p><a href="mobileapp.html"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
 			</div>
 			<div class="w3ls-header-right">
 				<ul>
 					<li class="dropdown head-dpdn">
-						<a href="signin.php" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
+						<a href="signin.html" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<a href="help.php"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+						<a href="help.html"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
 					</li>
 					<li class="dropdown head-dpdn">
 						<a href="#"><span class="active uls-trigger"><i class="fa fa-language" aria-hidden="true"></i>languages</span></a>
@@ -59,10 +112,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="dropdown head-dpdn">
 						<div class="header-right">			
 	<!-- Large modal -->
-			<div class="agile-its-selectregion">
+			<div class="selectregion">
 				<button class="btn btn-primary" data-toggle="modal" data-target="#myModal">
 				<i class="fa fa-globe" aria-hidden="true"></i>Select City</button>
-					<div class="modal fade" id="myModal" tabindex="-1" role="dialog"
+					<div class="modal fade" id="myModal" tabindex="-1" role="dialog" 
 					aria-hidden="true">
 						<div class="modal-dialog modal-lg">
 							<div class="modal-content">
@@ -442,7 +495,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 														<option>Laramie</option>
 														<option>Gillette</option>
 														<option>Rock Springs</option>
-													</optgroup>
+													</optgroup>	
 											</select>
 										</div>
 									  </form>    
@@ -461,12 +514,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agile-its-header">
 				<div class="logo">
-					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="agileits_search">
 					<form action="#" method="post">
-						<input class="form-control" name="Search" type="text" placeholder="How can we help you today?" required="" />
-						<select class="form-control" id="agileinfo_search" name="agileinfo_search" required="">
+						<input name="Search" type="text" placeholder="How can we help you today?" required="" />
+						<select id="agileinfo_search" name="agileinfo_search" required="">
 							<option value="">All Categories</option>
 							<option value="Mobiles">Mobiles</option>
 							<option value="Electronics & Appliances">Electronics & Appliances</option>
@@ -484,476 +537,343 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<i class="fa fa-search" aria-hidden="true"> </i>
 						</button>
 					</form>
-				<a class="post-w3layouts-ad" href="post-ad.php">Post Free Ad</a>
+				<a class="post-w3layouts-ad" href="post-ad.html">Post Free Ad</a>
 				</div>	
 				<div class="clearfix"></div>
 			</div>
 		</div>
 	</header>
 	<!-- //header -->
-	<!-- Slider -->
-		<div class="slider">
-			<ul class="rslides" id="slider">
-				<li>
-					<div class="w3ls-slide-text">
-						<h3>Sell or Advertise anything online</h3>
-						<a href="categories.php" class="w3layouts-explore-all">Browse all Categories</a>
-					</div>
-				</li>
-				<li>
-					<div class="w3ls-slide-text">
-						<h3>Find the Best Deals Here</h3>
-						<a href="categories.php" class="w3layouts-explore">Explore</a>
-					</div>
-				</li>
-				<li>
-					<div class="w3ls-slide-text">
-						<h3>Lets build the home of your dreams</h3>
-						<a href="real-estate.php" class="w3layouts-explore">Explore</a>
-					</div>
-				</li>
-				<li>
-					<div class="w3ls-slide-text">
-						<h3>Find your dream ride</h3>
-						<a href="bikes.php" class="w3layouts-explore">Explore</a>
-					</div>
-				</li>
-				<li>
-					<div class="w3ls-slide-text">
-						<h3>The Easiest Way to get a Job</h3>
-						<a href="jobs.php" class="w3layouts-explore">Find a Job</a>
-					</div>
-				</li>
-			</ul>
+	<!-- breadcrumbs -->
+	<div class="w3layouts-breadcrumbs text-center">
+		<div class="container">
+			<span class="agile-breadcrumbs"><a href="index.html"><i class="fa fa-home home_1"></i></a> / <span>Categories</span></span>
 		</div>
-		<!-- //Slider -->
-		<!-- content-starts-here -->
-		<div class="main-content">
-			<div class="w3-categories">
-				<h3>Browse Categories</h3>
-				<div class="container">
-					 <div class="col-md-6">
-                        <div class="focus-grid w3layouts-boder1 circle">
-                            <a class="btn-8" href="categories.html">
-                                <div class="focus-border">
-                                    <div class="focus-layout">
-                                        <div class="focus-image img-responsive"><img class="ventes" src="images/icons/ventes.png"></div>
-                                        <!--<div class="focus-image"><i class="fa fa-mobile"></i></div>-->
-                                        <h4 class="clrchg">Ventes</h4>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="focus-grid w3layouts-boder2">
-                            <a class="btn-8" href="categories.html#parentVerticalTab2">
-                                <div class="focus-border">
-                                    <div class="focus-layout">
-                                        <div class="focus-image img-responsive"><img class="ventes" src="images/icons/locations.png"></div>
-                                        <!--<div class="focus-image"><i class="fa fa-laptop"></i></div>-->
-                                        <h4 class="clrchg">Locations</h4>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="focus-grid w3layouts-boder3">
-                            <a class="btn-8" href="categories.html#parentVerticalTab3">
-                                <div class="focus-border">
-                                    <div class="focus-layout">
-                                        <div class="focus-image img-responsive"><img class="ventes" src="images/icons/emplois.png"></div>
-                                        <!--<div class="focus-image"><i class="fa fa-car"></i></div>-->
-                                        <h4 class="clrchg">Emploi</h4>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="focus-grid w3layouts-boder4">
-                            <a class="btn-8" href="categories.html#parentVerticalTab4">
-                                <div class="focus-border">
-                                    <div class="focus-layout">
-                                        <div class="focus-image img-responsive"><img class="ventes" src="images/icons/formations.png"></div>
-                                        <!--<div class="focus-image"><i class="fa fa-motorcycle"></i></div>-->
-                                        <h4 class="clrchg">Formations</h4>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-</div>
-					<!-- <div class="col-md-3">
-					<div class="focus-grid w3layouts-boder5">
-						<a class="btn-8" href="categories.php#parentVerticalTab5">
-							<div class="focus-border">
-								<div class="focus-layout">
-									<div class="focus-image"><i class="fa fa-wheelchair"></i></div>
-									<h4 class="clrchg">Furnitures</h4>
+	</div>
+	<!-- //breadcrumbs -->
+	<!-- Categories -->
+	<!--Vertical Tab-->
+	<div class="categories-section main-grid-border">
+		<div class="container">
+			<h2 class="w3-head">Emplois</h2>
+			<div class="category-list">
+				<div id="parentVerticalTab">
+					<div class="agileits-tab_nav">
+					<ul class="resp-tabs-list hor_1">
+						<li>Mobiles</li>
+						<li>Electronics & Appliances</li>
+						<li>Cars</li>
+						<li>Bikes</li>
+						<li>Furniture</li>
+						<li>Pets</li>
+						<li>Books, Sports & Hobbies</li>
+						<li>Fashion</li>
+						<li>Kids</li>
+						<li>Services</li>
+						<li>Jobs</li>
+						<li>Real Estate</li>
+					</ul>
+						<a class="w3ls-ads" href="all-classifieds.html">View all Ads</a>
+					</div>
+					<div class="resp-tabs-container hor_1">
+						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>All USA</strong> (Select your city to see local ads)</span>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat1.png" title="image" alt="" />
 								</div>
-							</div>
-						</a>
-					</div>
-					</div>
-					<div class="col-md-3">
-					<div class="focus-grid w3layouts-boder6">
-						<a class="btn-8" href="categories.php#parentVerticalTab6">
-							<div class="focus-border">
-								<div class="focus-layout">
-									<div class="focus-image"><i class="fa fa-paw"></i></div>
-									<h4 class="clrchg">Pets</h4>
+								<div class="category-info">
+									<h4>Mobiles</h4>
+									<span>5,12,850 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
 								</div>
+								<div class="clearfix"></div>
 							</div>
-						</a>
-					</div>	
-					</div>
-					<div class="col-md-3">
-					<div class="focus-grid w3layouts-boder7">
-						<a class="btn-8" href="categories.php#parentVerticalTab7">
-							<div class="focus-border">
-								<div class="focus-layout">
-									<div class="focus-image"><i class="fa fa-book"></i></div>
-									<h4 class="clrchg">Books, Sports & Hobbies</h4>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="mobiles.html">mobile phones</a></li>
+									<li><a href="mobiles.html">Tablets</a></li>
+									<li><a href="mobiles.html">Accessories</a></li>
+								</ul>
+							</div>
+						</div>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat2.png" title="image" alt="" />
 								</div>
-							</div>
-						</a>
-					</div>	
-					</div>
-					<div class="col-md-3">
-					<div class="focus-grid w3layouts-boder8">
-						<a class="btn-8" href="categories.php#parentVerticalTab8">
-							<div class="focus-border">
-								<div class="focus-layout">
-									<div class="focus-image"><i class="fa fa-asterisk"></i></div>
-									<h4 class="clrchg">Fashion</h4>
+								<div class="category-info">
+									<h4>Electronics & Appliances</h4>
+									<span>2,01,850 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
 								</div>
+								<div class="clearfix"></div>
 							</div>
-						</a>
-					</div>	
-					</div>
-					<div class="col-md-3">
-					<div class="focus-grid w3layouts-boder9">
-						<a class="btn-8" href="categories.php#parentVerticalTab9">
-							<div class="focus-border">
-								<div class="focus-layout">
-									<div class="focus-image"><i class="fa fa-gamepad"></i></div>
-									<h4 class="clrchg">Kids</h4>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="electronics-appliances.html">Computers & accessories</a></li>
+									<li><a href="electronics-appliances.html">Tv - video - audio</a></li>
+									<li><a href="electronics-appliances.html">Cameras & accessories</a></li>
+									<li><a href="electronics-appliances.html">Games & Entertainment</a></li>
+									<li><a href="electronics-appliances.html">Fridge - AC - Washing Machine</a></li>
+									<li><a href="electronics-appliances.html">Kitchen & Other Appliances</a></li>
+								</ul>
+							</div>
+						</div>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat3.png" title="image" alt="" />
 								</div>
-							</div>
-						</a>
-					</div>	
-					</div>
-					<div class="col-md-3">
-					<div class="focus-grid w3layouts-boder10">
-						<a class="btn-8" href="categories.php#parentVerticalTab10">
-							<div class="focus-border">
-								<div class="focus-layout">
-									<div class="focus-image"><i class="fa fa-shield"></i></div>
-									<h4 class="clrchg">Services</h4>
+								<div class="category-info">
+									<h4>Cars</h4>
+									<span>1,98,080 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
 								</div>
+								<div class="clearfix"></div>
 							</div>
-						</a>
-					</div>
-					</div>
-					<div class="col-md-3">
-					<div class="focus-grid w3layouts-boder11">
-						<a class="btn-8" href="categories.php#parentVerticalTab11">
-							<div class="focus-border">
-								<div class="focus-layout">
-									<div class="focus-image"><i class="fa fa-at"></i></div>
-									<h4 class="clrchg">Jobs</h4>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="cars.html">Commercial Vehicles</a></li>
+									<li><a href="cars.html">Other Vehicles</a></li>
+									<li><a href="cars.html">Spare Parts</a></li>
+								</ul>
+							</div>
+						</div>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat4.png" title="image" alt="" />
 								</div>
-							</div>
-						</a>
-					</div>
-					</div>
-					<div class="col-md-3">
-					<div class="focus-grid w3layouts-boder12">
-						<a class="btn-8" href="categories.php#parentVerticalTab12">
-							<div class="focus-border">
-								<div class="focus-layout">
-									<div class="focus-image"><i class="fa fa-home"></i></div>
-									<h4 class="clrchg">Real Estate</h4>
+								<div class="category-info">
+									<h4>Bikes</h4>
+									<span>6,17,568 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
 								</div>
+								<div class="clearfix"></div>
 							</div>
-						</a>
-					</div>
-					</div> -->
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!-- most-popular-ads -->
-			<div class="w3l-popular-ads">  
-				<h3>Most Popular Ads</h3>
-				 <div class="w3l-popular-ads-info">
-					<div class="col-md-4 w3ls-portfolio-left">
-						<div class="portfolio-img event-img">
-							<img src="images/ad1.jpg" class="img-responsive" alt=""/>
-							<div class="over-image"></div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="bikes.html">Motorcycles</a></li>
+									<li><a href="bikes.html">Scooters</a></li>
+									<li><a href="bikes.html">Bicycles</a></li>
+									<li><a href="bikes.html">Spare Parts</a></li>
+								</ul>
+							</div>
 						</div>
-						<div class="portfolio-description">
-						   <h4><a href="cars.php">Latest Cars</a></h4>
-						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="cars.php">
-								<span>Explore</span>
-							</a>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat5.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Furniture</h4>
+									<span>1,05,168 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="furnitures.html">Sofa & Dining</a></li>
+									<li><a href="furnitures.html">Beds & Wardrobes</a></li>
+									<li><a href="furnitures.html">Home Decor & Garden</a></li>
+									<li><a href="furnitures.html">Other Household Items</a></li>
+								</ul>
+							</div>
 						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="col-md-4 w3ls-portfolio-left">
-						<div class="portfolio-img event-img">
-							<img src="images/ad2.jpg" class="img-responsive" alt=""/>
-							 <div class="over-image"></div>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat6.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Pets</h4>
+									<span>1,77,816 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="pets.html">Dogs</a></li>
+									<li><a href="pets.html">Aquariums</a></li>
+									<li><a href="pets.html">Pet Food & Accessories</a></li>
+									<li><a href="pets.html">Other Pets</a></li>
+								</ul>
+							</div>
 						</div>
-						<div class="portfolio-description">
-						   <h4><a href="real-estate.html">Apartments for Sale</a></h4>
-						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="real-estate.php">
-								<span>Explore</span>
-							</a>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat7.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Books, Sports & Hobbies</h4>
+									<span>9,58,458 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="books-sports-hobbies.html">Books & Magazines</a></li>
+									<li><a href="books-sports-hobbies.html">Musical Instruments</a></li>
+									<li><a href="books-sports-hobbies.html">Sports Equipment</a></li>
+									<li><a href="books-sports-hobbies.html">Gym & Fitness</a></li>
+									<li><a href="books-sports-hobbies.html">Other Hobbies</a></li>
+								</ul>
+							</div>
 						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="col-md-4 w3ls-portfolio-left">
-						<div class="portfolio-img event-img">
-							<img src="images/ad3.jpg" class="img-responsive" alt=""/>
-							 <div class="over-image"></div>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat8.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Fashion</h4>
+									<span>3,52,345 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="fashion.html">Clothes</a></li>
+									<li><a href="fashion.html">Footwear</a></li>
+									<li><a href="fashion.html">Accessories</a></li>
+								</ul>
+							</div>
 						</div>
-						<div class="portfolio-description">
-						   <h4><a href="jobs.php">BPO jobs</a></h4>
-						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="jobs.php">
-								<span>Explore</span>
-							</a>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat9.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Kids</h4>
+									<span>8,45,298 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="kids.html">Furniture And Toys</a></li>
+									<li><a href="kids.html">Prams & Walkers</a></li>
+									<li><a href="kids.html">Accessories</a></li>
+								</ul>
+							</div>
 						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="col-md-4 w3ls-portfolio-left">
-						<div class="portfolio-img event-img">
-							<img src="images/ad4.jpg" class="img-responsive" alt=""/>
-							 <div class="over-image"></div>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat10.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Services</h4>
+									<span>7,58,867 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="services.html">Education & Classes</a></li>
+									<li><a href="services.html">Web Development</a></li>
+									<li><a href="services.html">Electronics & Computer Repair</a></li>
+									<li><a href="services.html">Maids & Domestic Help</a></li>
+									<li><a href="services.html">Health & Beauty</a></li>
+									<li><a href="services.html">Movers & Packers</a></li>
+									<li><a href="services.html">Drivers & Taxi</a></li>
+									<li><a href="services.html">Event Services</a></li>
+									<li><a href="services.html">Other Services</a></li>
+								</ul>
+							</div>
 						</div>
-						<div class="portfolio-description">
-						   <h4><a href="electronics-appliances.php">Accessories</a></h4>
-						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="electronics-appliances.php">
-								<span>Explore</span>
-							</a>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat11.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Jobs</h4>
+									<span>5,74,547 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="jobs.html">Customer Service</a></li>
+									<li><a href="jobs.html">IT</a></li>
+									<li><a href="jobs.html">Online</a></li>
+									<li><a href="jobs.html">Marketing</a></li>
+									<li><a href="jobs.html">Advertising & PR</a></li>
+									<li><a href="jobs.html">Sales</a></li>
+									<li><a href="jobs.html">Clerical & Administration</a></li>
+									<li><a href="jobs.html">Human Resources</a></li>
+									<li><a href="jobs.html">Education</a></li>
+									<li><a href="jobs.html">Hotels & Tourism</a></li>
+									<li><a href="jobs.html">Accounting & Finance</a></li>
+									<li><a href="jobs.html">Manufacturing</a></li>
+									<li><a href="jobs.html">Part - Time</a></li>
+									<li><a href="jobs.html">Other Jobs</a></li>
+								</ul>
+							</div>
 						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="col-md-4 w3ls-portfolio-left">
-						<div class="portfolio-img event-img">
-							<img src="images/ad5.jpg" class="img-responsive" alt=""/>
-							 <div class="over-image"></div>
-						</div>
-						<div class="portfolio-description">
-						   <h4><a href="furnitures.php">Home Appliances</a></h4>
-						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="furnitures.php">
-								<span>Explore</span>
-							</a>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="col-md-4 w3ls-portfolio-left">
-						<div class="portfolio-img event-img">
-							<img src="images/ad6.jpg" class="img-responsive" alt=""/>
-							 <div class="over-image"></div>
-						</div>
-						<div class="portfolio-description">
-						   <h4><a href="fashion.php">Clothing</a></h4>
-						   <p>Suspendisse placerat mattis arcu nec por</p>
-							<a href="fashion.php">
-								<span>Explore</span>
-							</a>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="clearfix"> </div>
-				 </div>
-			 </div>
-			<!-- most-popular-ads -->									
-			<div class="trending-ads">
-				<div class="container">
-				<!-- slider -->
-				<div class="agile-trend-ads">
-					<h2>Trending Ads</h2>
-							<ul id="flexiselDemo3">
-								<li>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p1.jpg" alt="" />
-											<span class="price">&#36; 450</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>There are many variations of passages</h5>
-											<span>1 hour ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p2.jpg" alt="" />
-											<span class="price">&#36; 399</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>Lorem Ipsum is simply dummy</h5>
-											<span>3 hour ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p3.jpg" alt="" />
-											<span class="price">&#36; 199</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>It is a long established fact that a reader</h5>
-											<span>8 hour ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p4.jpg" alt="" />
-											<span class="price">&#36; 159</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>passage of Lorem Ipsum you need to be</h5>
-											<span>19 hour ago</span>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p5.jpg" alt="" />
-											<span class="price">&#36; 1599</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>There are many variations of passages</h5>
-											<span>1 hour ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p6.jpg" alt="" />
-											<span class="price">&#36; 1099</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>passage of Lorem Ipsum you need to be</h5>
-											<span>1 day ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p7.jpg" alt="" />
-											<span class="price">&#36; 109</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>It is a long established fact that a reader</h5>
-											<span>9 hour ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p8.jpg" alt="" />
-											<span class="price">&#36; 189</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>Lorem Ipsum is simply dummy</h5>
-											<span>3 hour ago</span>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p9.jpg" alt="" />
-											<span class="price">&#36; 2599</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>Lorem Ipsum is simply dummy</h5>
-											<span>3 hour ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p10.jpg" alt="" />
-											<span class="price">&#36; 3999</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>It is a long established fact that a reader</h5>
-											<span>9 hour ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p11.jpg" alt="" />
-											<span class="price">&#36; 2699</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>passage of Lorem Ipsum you need to be</h5>
-											<span>1 day ago</span>
-										</div>
-									</div>
-									<div class="col-md-3 biseller-column">
-										<a href="single.php">
-											<img src="images/p12.jpg" alt="" />
-											<span class="price">&#36; 899</span>
-										</a> 
-										<div class="w3-ad-info">
-											<h5>There are many variations of passages</h5>
-											<span>1 hour ago</span>
-										</div>
-									</div>
-								</li>
-						</ul>
-					</div>   
-			</div>
-			<!-- //slider -->				
-			</div>
-			<!--partners-->
-			<div class="w3layouts-partners">
-				<h3>Our Partners</h3>
-					<div class="container">
-						<ul>
-							<li><a href="#"><img class="img-responsive" src="images/p-1.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-2.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-3.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-4.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-5.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-6.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-7.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-8.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-9.png" alt=""></a></li>
-							<li><a href="#"><img class="img-responsive" src="images/p-10.png" alt=""></a></li>	
-						</ul>
-					</div>
-				</div>	
-		<!--//partners-->	
-		<!-- mobile app -->
-			<div class="agile-info-mobile-app">
-				<div class="container">
-					<div class="col-md-5 w3-app-left">
-						<a href="mobileapp.php"><img src="images/app.png" alt=""></a>
-					</div>
-					<div class="col-md-7 w3-app-right">
-						<h3>Resale App is the <span>Easiest</span> way for Selling and buying second-hand goods</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam auctor Sed bibendum varius euismod. Integer eget turpis sit amet lorem rutrum ullamcorper sed sed dui. vestibulum odio at elementum. Suspendisse et condimentum nibh.</p>
-						<div class="agileits-dwld-app">
-							<h6>Download The App : 
-								<a href="#"><i class="fa fa-apple"></i></a>
-								<a href="#"><i class="fa fa-windows"></i></a>
-								<a href="#"><i class="fa fa-android"></i></a>
-							</h6>
+						<div>
+							<div class="category">
+								<div class="category-img">
+									<img src="images/cat12.png" title="image" alt="" />
+								</div>
+								<div class="category-info">
+									<h4>Real Estate</h4>
+									<span>98,156 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="sub-categories">
+								<ul>
+									<li><a href="real-estate.html">Houses</a></li>
+									<li><a href="real-estate.html">Apartments</a></li>
+									<li><a href="real-estate.html">PG & Roommates</a></li>
+									<li><a href="real-estate.html">Land & Plots</a></li>
+									<li><a href="real-estate.html">Shops - Offices - Commercial Space</a></li>
+									<li><a href="real-estate.html">Vacation Rentals - Guest Houses</a></li>
+								</ul>
+							</div>
 						</div>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!-- //mobile app -->
 		</div>
-		<!--footer section start-->		
+	</div>
+	<!--Plug-in Initialisation-->
+	<script type="text/javascript">
+    $(document).ready(function() {
+
+        //Vertical Tab
+        $('#parentVerticalTab').easyResponsiveTabs({
+            type: 'vertical', //Types: default, vertical, accordion
+            width: 'auto', //auto or any width like 600px
+            fit: true, // 100% fit in a container
+            closed: 'accordion', // Start closed if in accordion view
+            tabidentify: 'hor_1', // The tab groups identifier
+            activate: function(event) { // Callback function if tab is switched
+                var $tab = $(this);
+                var $info = $('#nested-tabInfo2');
+                var $name = $('span', $info);
+                $name.text($tab.text());
+                $info.show();
+            }
+        });
+    });
+</script>
+	<!-- //Categories -->
+	<!--footer section start-->		
 		<footer>
 			<div class="w3-agileits-footer-top">
 				<div class="container">
@@ -966,22 +886,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Help</h4>
 							<ul>
-								<li><a href="howitworks.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>
-								<li><a href="sitemap.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
-								<li><a href="faq.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
-								<li><a href="feedback.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
-								<li><a href="contact.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
-								<li><a href="typography.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
-								<li><a href="icons.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
+								<li><a href="howitworks.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
+								<li><a href="sitemap.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
+								<li><a href="faq.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
+								<li><a href="feedback.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
+								<li><a href="contact.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
+								<li><a href="typography.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
+								<li><a href="icons.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Information</h4>
 							<ul>
-								<li><a href="regions.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>
-								<li><a href="terms.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
-								<li><a href="popular-search.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>
-								<li><a href="privacy.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>
+								<li><a href="regions.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
+								<li><a href="terms.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
+								<li><a href="popular-search.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
+								<li><a href="privacy.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
@@ -1011,7 +931,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="agileits-footer-bottom text-center">
 			<div class="container">
 				<div class="w3-footer-logo">
-					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="w3-footer-social-icons">
 					<ul>
@@ -1030,104 +950,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		</footer>
         <!--footer section end-->
-		<!-- Navigation-Js-->
-			<script type="text/javascript" src="js/main.js"></script>
-			<script type="text/javascript" src="js/classie.js"></script>
-		<!-- //Navigation-Js-->
-		<!-- js -->
-		<script type="text/javascript" src="js/jquery.min.js"></script>
-		<!-- js -->
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="js/bootstrap.js"></script>
-		<script src="js/bootstrap-select.js"></script>
-		<script>
-		  $(document).ready(function () {
-			var mySelect = $('#first-disabled2');
-
-			$('#special').on('click', function () {
-			  mySelect.find('option:selected').prop('disabled', true);
-			  mySelect.selectpicker('refresh');
-			});
-
-			$('#special2').on('click', function () {
-			  mySelect.find('option:disabled').prop('disabled', false);
-			  mySelect.selectpicker('refresh');
-			});
-
-			$('#basic2').selectpicker({
-			  liveSearch: true,
-			  maxOptions: 1
-			});
-		  });
-		</script>
-		<!-- language-select -->
-		<script type="text/javascript" src="js/jquery.leanModal.min.js"></script>
-		<link href="css/jquery.uls.css" rel="stylesheet"/>
-		<link href="css/jquery.uls.grid.css" rel="stylesheet"/>
-		<link href="css/jquery.uls.lcd.css" rel="stylesheet"/>
-		<!-- Source -->
-		<script src="js/jquery.uls.data.js"></script>
-		<script src="js/jquery.uls.data.utils.js"></script>
-		<script src="js/jquery.uls.lcd.js"></script>
-		<script src="js/jquery.uls.languagefilter.js"></script>
-		<script src="js/jquery.uls.regionfilter.js"></script>
-		<script src="js/jquery.uls.core.js"></script>
-		<script>
-					$( document ).ready( function() {
-						$( '.uls-trigger' ).uls( {
-							onSelect : function( language ) {
-								var languageName = $.uls.data.getAutonym( language );
-								$( '.uls-trigger' ).text( languageName );
-							},
-							quickList: ['en', 'hi', 'he', 'ml', 'ta', 'fr'] //FIXME
-						} );
-					} );
-				</script>
-		<!-- //language-select -->
-		<script type="text/javascript" src="js/jquery.flexisel.js"></script><!-- flexisel-js -->	
-					<script type="text/javascript">
-						 $(window).load(function() {
-							$("#flexiselDemo3").flexisel({
-								visibleItems:1,
-								animationSpeed: 1000,
-								autoPlay: true,
-								autoPlaySpeed: 5000,    		
-								pauseOnHover: true,
-								enableResponsiveBreakpoints: true,
-								responsiveBreakpoints: { 
-									portrait: { 
-										changePoint:480,
-										visibleItems:1
-									}, 
-									landscape: { 
-										changePoint:640,
-										visibleItems:1
-									},
-									tablet: { 
-										changePoint:768,
-										visibleItems:1
-									}
-								}
-							});
-							
-						});
-					   </script>
-		<!-- Slider-JavaScript -->
-			<script src="js/responsiveslides.min.js"></script>	
-			 <script>
-			$(function () {	
-			  $("#slider").responsiveSlides({
-				auto: true,
-				pager: false,
-				nav: true,
-				speed: 500,
-				maxwidth: 800,
-				namespace: "large-btns"
-			  });
-
-			});
-		  </script>
-		<!-- //Slider-JavaScript -->
+		<!-- Navigation-JavaScript -->
+			<script src="js/classie.js"></script>
+			<script src="js/main.js"></script>
+		<!-- //Navigation-JavaScript -->
 		<!-- here stars scrolling icon -->
 			<script type="text/javascript">
 				$(document).ready(function() {
@@ -1157,15 +983,5 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</script>
 			<!-- start-smoth-scrolling -->
 		<!-- //here ends scrolling icon -->
-		<!-- javascript pour le collpse du meneu de navigation -->
-		<script type="text/javascript">
-
-
-			$(function () { $('#vente').collapse('toggle')});
-			$(function () { $('#formation').collapse('toggle')});
-			$(function () { $('#emploi').collapse('toggle')});
-			$(function () { $('#location').collapse('toggle')});
-			
-		</script>
-</body>		
+</body>
 </html>
