@@ -560,17 +560,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="resp-tabs-container hor_1">
 						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>CAMEROUN</strong> (Selectionner votre ville)</span>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat5.png" title="image" alt="" />
+							<h3>IMMOBILIERS</h3> <a href="all-classifieds.php">View all Ads</a>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/immobiliers/salon.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Furniture</h4>
-									<span>1,05,168 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/immobiliers/sofa-salon.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/immobiliers/juvenile2.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/immobiliers/bed.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								
+							</figure>
+
 							<div class="sub-categories">
 								<ul>
 									<li><a href="furnitures.php">Sofa & Dining</a></li>
@@ -581,6 +597,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div>
+							<h3>SMARTPHONES & TABLETS</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/mobiles/ventes-smartphones.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/mobiles/packtablets.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/mobiles/origine-nokia-x3-02-3g.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/mobiles/logitech-keyboard-ipad-mini-01.png" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="mobiles.php">mobile phones</a></li>
@@ -588,32 +630,37 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<li><a href="mobiles.php">Accessories</a></li>
 								</ul>
 							</div>
-							<div class="category">
-								
-								<div class="category-img">
-									<img src="images/cat1.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
-									<h4>Mobiles</h4>
-									<span>5,12,850 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
-								</div>
-								<div class="clearfix"></div>
-							</div>
+							
 							
 						</div>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat2.png" title="image" alt="" />
+							
+							<h3>ELECTRONIQUE & ELECTROMENAGERS</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/electro/smartTV.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Electronics & Appliances</h4>
-									<span>2,01,850 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/electro/Electromenager-pack.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/electro/panasonic_radiof3500.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/electro/cafetiere-électroménagers.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="electronics-appliances.php">Computers & accessories</a></li>
@@ -626,17 +673,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat3.png" title="image" alt="" />
+							
+							<h3>AUTOMOBILES</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/automobiles/car-mercedes.JPG" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Cars</h4>
-									<span>1,98,080 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/automobiles/NV200-Packshot.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/automobiles/RAV-4.JPG" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/automobiles/taxi1.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="cars.php">Commercial Vehicles</a></li>
@@ -646,17 +709,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat12.png" title="image" alt="" />
+							
+							<h3>MAISONS ET TERRAINS</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/maisons/plan-de-maison-duplex-au-cameroun.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Real Estate</h4>
-									<span>98,156 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/maisons/FRONT-VIEW.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/maisons/terrains1.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/maisons/Construire-au-Cameroun_4.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="real-estate.php">Houses</a></li>
@@ -669,17 +748,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat4.png" title="image" alt="" />
+							
+							<h3>COSMETIQUES</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/cosmetiques/0marche-du-cosmetique.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Bikes</h4>
-									<span>6,17,568 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/cosmetiques/bio-maison-sanzoo.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/cosmetiques/Bouteillescosmetiques.png" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/cosmetiques/coffret_Expressionsdenfants.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="bikes.php">Motorcycles</a></li>
@@ -691,17 +786,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 						
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat6.png" title="image" alt="" />
+							
+							<h3>ANIMAUX DOMESTIQUES</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/animaux/1200px-Chicken_-_melbourne.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Pets</h4>
-									<span>1,77,816 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/animaux/chien.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/animaux/Lapin_rex.png" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/animaux/elevage-de-porcs.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+								
+								
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="pets.php">Dogs</a></li>
@@ -712,17 +823,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat7.png" title="image" alt="" />
+							
+							<h3>LIBRAIRIES</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/fournitures/fournitures-scolaires_livres.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Books, Sports & Hobbies</h4>
-									<span>9,58,458 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/fournitures/kit-rentree.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/fournitures/kitrentree_topoffice01.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/fournitures/material-escolar.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="books-sports-hobbies.php">Books & Magazines</a></li>
