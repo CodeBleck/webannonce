@@ -847,6 +847,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<img src="images/fournitures/material-escolar.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads</figcaption>
 								</div>
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="books-sports-hobbies.php">Books & Magazines</a></li>
@@ -858,17 +859,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat8.png" title="image" alt="" />
+							
+							<h3>FASHION & MODE</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/vestimentaires/gucci-homme-vente-vetement-gucci.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Fashion</h4>
-									<span>3,52,345 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/vestimentaires/vetementfemme.png" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/vestimentaires/vestes.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/vestimentaires/landing_page.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="fashion.php">Clothes</a></li>
@@ -878,17 +893,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat9.png" title="image" alt="" />
+							<h3>JOUETS</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/jouets/maxresdefault.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Kids</h4>
-									<span>8,45,298 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/jouets/bulldozer-teleguide-pour-enfant-jouet-pour-enfant.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/jouets/le-scooter-fille.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/jouets/ordinateur-enfant.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="kids.php">Furniture And Toys</a></li>
@@ -897,18 +925,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</ul>
 							</div>
 						</div>
+
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat10.png" title="image" alt="" />
+							
+							<h3>BIJOUTERIE</h3>
+							<hr>
+							<figure class="category row">
+
+								<div class="category-img col-md-6">
+									<img src="images/bijoux/montreH.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="category-info">
-									<h4>Services</h4>
-									<span>7,58,867 Ads</span>
-									<a href="all-classifieds.php">View all Ads</a>
+								
+								<div class="category-img col-md-6">
+									<img src="images/bijoux/xbracelet-double-chaine-argent.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
 								</div>
-								<div class="clearfix"></div>
-							</div>
+								
+								<div class="category-img col-md-6">
+									<img src="images/bijoux/Bijoux_F.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+
+								<div class="category-img col-md-6">
+									<img src="images/bijoux/montre-bijoux-femme-.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads</figcaption>
+								</div>
+							</figure>
 							<div class="sub-categories">
 								<ul>
 									<li><a href="services.php">Education & Classes</a></li>
