@@ -1042,7 +1042,7 @@ var elem=$('#container ul');
 				<div class="w3ls-featured-ads">
 					<h2 class="sear-head fer">Featured Ads</h2>
 					<div class="w3l-featured-ad">
-						<a href="single.html">
+						<a href="single.php">
 							<div class="w3-featured-ad-left">
 								<img src="images/f1.jpg" title="ad image" alt="" />
 							</div>
@@ -1054,7 +1054,7 @@ var elem=$('#container ul');
 						</a>
 					</div>
 					<div class="w3l-featured-ad">
-						<a href="single.html">
+						<a href="single.php">
 							<div class="w3-featured-ad-left">
 								<img src="images/f2.jpg" title="ad image" alt="" />
 							</div>
@@ -1066,7 +1066,7 @@ var elem=$('#container ul');
 						</a>
 					</div>
 					<div class="w3l-featured-ad">
-						<a href="single.html">
+						<a href="single.php">
 							<div class="w3-featured-ad-left">
 								<img src="images/f3.jpg" title="ad image" alt="" />
 							</div>
@@ -1116,7 +1116,7 @@ var elem=$('#container ul');
 									 </div>
 								<div class="clearfix"></div>
 							<ul class="list">
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r1.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1131,7 +1131,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r2.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1146,7 +1146,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r3.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1161,7 +1161,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r4.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1176,7 +1176,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r5.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1191,7 +1191,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r6.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1206,7 +1206,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r1.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1221,7 +1221,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r7.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1236,7 +1236,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r8.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1251,7 +1251,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r9.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1266,7 +1266,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r10.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1281,7 +1281,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r11.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1296,7 +1296,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r12.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1311,7 +1311,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r13.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1351,7 +1351,7 @@ var elem=$('#container ul');
 									 </div>
 								<div class="clearfix"></div>
 							<ul class="list">
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r1.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1366,7 +1366,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r2.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1381,7 +1381,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r3.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1396,7 +1396,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r4.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1411,7 +1411,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r5.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1426,7 +1426,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r6.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1441,7 +1441,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r1.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1456,7 +1456,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r7.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1471,7 +1471,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r8.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1486,7 +1486,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r9.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1501,7 +1501,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r10.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1516,7 +1516,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r11.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1531,7 +1531,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r12.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1546,7 +1546,7 @@ var elem=$('#container ul');
 									<div class="clearfix"></div>
 									</li> 
 								</a>
-								<a href="single.html">
+								<a href="single.php">
 									<li>
 									<img src="images/r13.jpg" title="" alt="" />
 									<section class="list-left">
@@ -1600,22 +1600,22 @@ var elem=$('#container ul');
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Help</h4>
 							<ul>
-								<li><a href="howitworks.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
-								<li><a href="sitemap.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
-								<li><a href="faq.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
-								<li><a href="feedback.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
-								<li><a href="contact.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
-								<li><a href="typography.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
-								<li><a href="icons.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
+								<li><a href="howitworks.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
+								<li><a href="sitemap.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
+								<li><a href="faq.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
+								<li><a href="feedback.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
+								<li><a href="contact.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
+								<li><a href="typography.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
+								<li><a href="icons.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Information</h4>
 							<ul>
-								<li><a href="regions.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
-								<li><a href="terms.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
-								<li><a href="popular-search.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
-								<li><a href="privacy.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
+								<li><a href="regions.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
+								<li><a href="terms.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
+								<li><a href="popular-search.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
+								<li><a href="privacy.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
@@ -1645,7 +1645,7 @@ var elem=$('#container ul');
 			<div class="agileits-footer-bottom text-center">
 			<div class="container">
 				<div class="w3-footer-logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="w3-footer-social-icons">
 					<ul>

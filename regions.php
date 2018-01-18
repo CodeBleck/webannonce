@@ -92,15 +92,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<header>
 		<div class="w3ls-header"><!--header-one--> 
 			<div class="w3ls-header-left">
-				<p><a href="mobileapp.html"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
+				<p><a href="mobileapp.php"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
 			</div>
 			<div class="w3ls-header-right">
 				<ul>
 					<li class="dropdown head-dpdn">
-						<a href="signin.html" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
+						<a href="signin.php" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<a href="help.html"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+						<a href="help.php"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
 					</li>
 					<li class="dropdown head-dpdn">
 						<a href="#"><span class="active uls-trigger"><i class="fa fa-language" aria-hidden="true"></i>languages</span></a>
@@ -512,7 +512,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agile-its-header">
 				<div class="logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="agileits_search">
 					<form action="#" method="post">
@@ -535,7 +535,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<i class="fa fa-search" aria-hidden="true"> </i>
 						</button>
 					</form>
-				<a class="post-w3layouts-ad" href="post-ad.html">Post Free Ad</a>
+				<a class="post-w3layouts-ad" href="post-ad.php">Post Free Ad</a>
 				</div>	
 				<div class="clearfix"></div>
 			</div>
@@ -545,7 +545,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- breadcrumbs -->
 	<div class="w3layouts-breadcrumbs text-center">
 		<div class="container">
-			<span class="agile-breadcrumbs"><a href="index.html"><i class="fa fa-home home_1"></i></a> / <span>Regions</span></span>
+			<span class="agile-breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a> / <span>Regions</span></span>
 		</div>
 	</div>
 	<!-- //breadcrumbs -->
@@ -561,11 +561,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html"> Birmingham </a></li>
-						<li><a href="all-classifieds.html"> Montgomery </a></li>
-						<li><a href="all-classifieds.html"> Mobile </a></li>
-						<li><a href="all-classifieds.html"> Huntsville </a></li>
-						<li><a href="all-classifieds.html"> Tuscaloosa </a></li>
+						<li><a href="all-classifieds.php"> Birmingham </a></li>
+						<li><a href="all-classifieds.php"> Montgomery </a></li>
+						<li><a href="all-classifieds.php"> Mobile </a></li>
+						<li><a href="all-classifieds.php"> Huntsville </a></li>
+						<li><a href="all-classifieds.php"> Tuscaloosa </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -578,11 +578,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Anchorage</a></li>
-						<li><a href="all-classifieds.html">Fairbanks</a></li>
-						<li><a href="all-classifieds.html">Juneau</a></li>
-						<li><a href="all-classifieds.html">Sitka</a></li>
-						<li><a href="all-classifieds.html">Ketchikan</a></li>
+						<li><a href="all-classifieds.php">Anchorage</a></li>
+						<li><a href="all-classifieds.php">Fairbanks</a></li>
+						<li><a href="all-classifieds.php">Juneau</a></li>
+						<li><a href="all-classifieds.php">Sitka</a></li>
+						<li><a href="all-classifieds.php">Ketchikan</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -595,11 +595,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Phoenix </a></li>
-						<li><a href="all-classifieds.html">Tucson   </a></li>
-						<li><a href="all-classifieds.html">Mesa   </a></li>
-						<li><a href="all-classifieds.html">Chandler  </a></li>
-						<li><a href="all-classifieds.html">Glendale </a></li>
+						<li><a href="all-classifieds.php">Phoenix </a></li>
+						<li><a href="all-classifieds.php">Tucson   </a></li>
+						<li><a href="all-classifieds.php">Mesa   </a></li>
+						<li><a href="all-classifieds.php">Chandler  </a></li>
+						<li><a href="all-classifieds.php">Glendale </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -612,11 +612,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Little Rock  </a></li>
-						<li><a href="all-classifieds.html">Fort Smith    </a></li>
-						<li><a href="all-classifieds.html">Fayetteville   </a></li>
-						<li><a href="all-classifieds.html">Springdale    </a></li>
-						<li><a href="all-classifieds.html">Jonesboro   </a></li>
+						<li><a href="all-classifieds.php">Little Rock  </a></li>
+						<li><a href="all-classifieds.php">Fort Smith    </a></li>
+						<li><a href="all-classifieds.php">Fayetteville   </a></li>
+						<li><a href="all-classifieds.php">Springdale    </a></li>
+						<li><a href="all-classifieds.php">Jonesboro   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -629,11 +629,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Los Angeles  </a></li>
-						<li><a href="all-classifieds.html">San Diego    </a></li>
-						<li><a href="all-classifieds.html">San Jose</a></li>
-						<li><a href="all-classifieds.html">San Francisco</a></li>
-						<li><a href="all-classifieds.html">Fresno</a></li>
+						<li><a href="all-classifieds.php">Los Angeles  </a></li>
+						<li><a href="all-classifieds.php">San Diego    </a></li>
+						<li><a href="all-classifieds.php">San Jose</a></li>
+						<li><a href="all-classifieds.php">San Francisco</a></li>
+						<li><a href="all-classifieds.php">Fresno</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -646,11 +646,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Denver   </a></li>
-						<li><a href="all-classifieds.html">Colorado   </a></li>
-						<li><a href="all-classifieds.html">Aurora   </a></li>
-						<li><a href="all-classifieds.html">Fort Collins  </a></li>
-						<li><a href="all-classifieds.html">Lakewood  </a></li>
+						<li><a href="all-classifieds.php">Denver   </a></li>
+						<li><a href="all-classifieds.php">Colorado   </a></li>
+						<li><a href="all-classifieds.php">Aurora   </a></li>
+						<li><a href="all-classifieds.php">Fort Collins  </a></li>
+						<li><a href="all-classifieds.php">Lakewood  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -663,11 +663,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Bridgeport </a></li>
-						<li><a href="all-classifieds.html">New Haven  </a></li>
-						<li><a href="all-classifieds.html">Hartford  </a></li>
-						<li><a href="all-classifieds.html">Stamford </a></li>
-						<li><a href="all-classifieds.html">Waterbury   </a></li>
+						<li><a href="all-classifieds.php">Bridgeport </a></li>
+						<li><a href="all-classifieds.php">New Haven  </a></li>
+						<li><a href="all-classifieds.php">Hartford  </a></li>
+						<li><a href="all-classifieds.php">Stamford </a></li>
+						<li><a href="all-classifieds.php">Waterbury   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -680,11 +680,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Wilmington</a></li>
-						<li><a href="all-classifieds.html">Dover</a></li>
-						<li><a href="all-classifieds.html">Newark </a></li>
-						<li><a href="all-classifieds.html">Bear</a></li>
-						<li><a href="all-classifieds.html">Middletown</a></li>
+						<li><a href="all-classifieds.php">Wilmington</a></li>
+						<li><a href="all-classifieds.php">Dover</a></li>
+						<li><a href="all-classifieds.php">Newark </a></li>
+						<li><a href="all-classifieds.php">Bear</a></li>
+						<li><a href="all-classifieds.php">Middletown</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -697,11 +697,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Jacksonville  </a></li>
-						<li><a href="all-classifieds.html">Miami  </a></li>
-						<li><a href="all-classifieds.html">Tampa  </a></li>
-						<li><a href="all-classifieds.html">St. Petersburg   </a></li>
-						<li><a href="all-classifieds.html">Orlando  </a></li>
+						<li><a href="all-classifieds.php">Jacksonville  </a></li>
+						<li><a href="all-classifieds.php">Miami  </a></li>
+						<li><a href="all-classifieds.php">Tampa  </a></li>
+						<li><a href="all-classifieds.php">St. Petersburg   </a></li>
+						<li><a href="all-classifieds.php">Orlando  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -714,11 +714,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Atlanta </a></li>
-						<li><a href="all-classifieds.html">Augusta </a></li>
-						<li><a href="all-classifieds.html">Columbus</a></li>
-						<li><a href="all-classifieds.html">Savannah  </a></li>
-						<li><a href="all-classifieds.html">Athens   </a></li>
+						<li><a href="all-classifieds.php">Atlanta </a></li>
+						<li><a href="all-classifieds.php">Augusta </a></li>
+						<li><a href="all-classifieds.php">Columbus</a></li>
+						<li><a href="all-classifieds.php">Savannah  </a></li>
+						<li><a href="all-classifieds.php">Athens   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -731,11 +731,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Honolulu  </a></li>
-						<li><a href="all-classifieds.html">Pearl City </a></li>
-						<li><a href="all-classifieds.html">Hilo </a></li>
-						<li><a href="all-classifieds.html">Kailua   </a></li>
-						<li><a href="all-classifieds.html">Waipahu </a></li>
+						<li><a href="all-classifieds.php">Honolulu  </a></li>
+						<li><a href="all-classifieds.php">Pearl City </a></li>
+						<li><a href="all-classifieds.php">Hilo </a></li>
+						<li><a href="all-classifieds.php">Kailua   </a></li>
+						<li><a href="all-classifieds.php">Waipahu </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -748,11 +748,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Boise</a></li>
-						<li><a href="all-classifieds.html">Nampa  </a></li>
-						<li><a href="all-classifieds.html">Meridian </a></li>
-						<li><a href="all-classifieds.html">Idaho Falls </a></li>
-						<li><a href="all-classifieds.html">Pocatello  </a></li>
+						<li><a href="all-classifieds.php">Boise</a></li>
+						<li><a href="all-classifieds.php">Nampa  </a></li>
+						<li><a href="all-classifieds.php">Meridian </a></li>
+						<li><a href="all-classifieds.php">Idaho Falls </a></li>
+						<li><a href="all-classifieds.php">Pocatello  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -765,11 +765,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Chicago  </a></li>
-						<li><a href="all-classifieds.html">Aurora  </a></li>
-						<li><a href="all-classifieds.html">Rockford  </a></li>
-						<li><a href="all-classifieds.html">Joliet </a></li>
-						<li><a href="all-classifieds.html">Naperville   </a></li>
+						<li><a href="all-classifieds.php">Chicago  </a></li>
+						<li><a href="all-classifieds.php">Aurora  </a></li>
+						<li><a href="all-classifieds.php">Rockford  </a></li>
+						<li><a href="all-classifieds.php">Joliet </a></li>
+						<li><a href="all-classifieds.php">Naperville   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -782,11 +782,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html"> Indianapolis </a></li>
-						<li><a href="all-classifieds.html"> Fort Wayne </a></li>
-						<li><a href="all-classifieds.html"> Evansville  </a></li>
-						<li><a href="all-classifieds.html"> South Bend </a></li>
-						<li><a href="all-classifieds.html"> Hammond </a></li>
+						<li><a href="all-classifieds.php"> Indianapolis </a></li>
+						<li><a href="all-classifieds.php"> Fort Wayne </a></li>
+						<li><a href="all-classifieds.php"> Evansville  </a></li>
+						<li><a href="all-classifieds.php"> South Bend </a></li>
+						<li><a href="all-classifieds.php"> Hammond </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -799,11 +799,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Des Moines </a></li>
-						<li><a href="all-classifieds.html">Cedar Rapids </a></li>
-						<li><a href="all-classifieds.html">Davenport </a></li>
-						<li><a href="all-classifieds.html">Sioux City  </a></li>
-						<li><a href="all-classifieds.html">Waterloo </a></li>
+						<li><a href="all-classifieds.php">Des Moines </a></li>
+						<li><a href="all-classifieds.php">Cedar Rapids </a></li>
+						<li><a href="all-classifieds.php">Davenport </a></li>
+						<li><a href="all-classifieds.php">Sioux City  </a></li>
+						<li><a href="all-classifieds.php">Waterloo </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -816,11 +816,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Wichita   </a></li>
-						<li><a href="all-classifieds.html">Overland Park  </a></li>
-						<li><a href="all-classifieds.html">Kansas City  </a></li>
-						<li><a href="all-classifieds.html">Topeka  </a></li>
-						<li><a href="all-classifieds.html">Olathe  </a></li>
+						<li><a href="all-classifieds.php">Wichita   </a></li>
+						<li><a href="all-classifieds.php">Overland Park  </a></li>
+						<li><a href="all-classifieds.php">Kansas City  </a></li>
+						<li><a href="all-classifieds.php">Topeka  </a></li>
+						<li><a href="all-classifieds.php">Olathe  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -833,11 +833,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Louisville  </a></li>
-						<li><a href="all-classifieds.html">Lexington  </a></li>
-						<li><a href="all-classifieds.html">Bowling Green </a></li>
-						<li><a href="all-classifieds.html">Owensboro </a></li>
-						<li><a href="all-classifieds.html">Covington   </a></li>
+						<li><a href="all-classifieds.php">Louisville  </a></li>
+						<li><a href="all-classifieds.php">Lexington  </a></li>
+						<li><a href="all-classifieds.php">Bowling Green </a></li>
+						<li><a href="all-classifieds.php">Owensboro </a></li>
+						<li><a href="all-classifieds.php">Covington   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -850,11 +850,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">New Orleans </a></li>
-						<li><a href="all-classifieds.html">Baton Rouge    </a></li>
-						<li><a href="all-classifieds.html">Shreveport    </a></li>
-						<li><a href="all-classifieds.html">Metairie   </a></li>
-						<li><a href="all-classifieds.html">Lafayette   </a></li>
+						<li><a href="all-classifieds.php">New Orleans </a></li>
+						<li><a href="all-classifieds.php">Baton Rouge    </a></li>
+						<li><a href="all-classifieds.php">Shreveport    </a></li>
+						<li><a href="all-classifieds.php">Metairie   </a></li>
+						<li><a href="all-classifieds.php">Lafayette   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -867,11 +867,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Portland</a></li>
-						<li><a href="all-classifieds.html">Lewiston </a></li>
-						<li><a href="all-classifieds.html">Bangor </a></li>
-						<li><a href="all-classifieds.html">South Portland</a></li>
-						<li><a href="all-classifieds.html">Auburn </a></li>
+						<li><a href="all-classifieds.php">Portland</a></li>
+						<li><a href="all-classifieds.php">Lewiston </a></li>
+						<li><a href="all-classifieds.php">Bangor </a></li>
+						<li><a href="all-classifieds.php">South Portland</a></li>
+						<li><a href="all-classifieds.php">Auburn </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -884,11 +884,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Baltimore </a></li>
-						<li><a href="all-classifieds.html">Frederick    </a></li>
-						<li><a href="all-classifieds.html">Rockville    </a></li>
-						<li><a href="all-classifieds.html">Gaithersburg    </a></li>
-						<li><a href="all-classifieds.html">Bowie     </a></li>
+						<li><a href="all-classifieds.php">Baltimore </a></li>
+						<li><a href="all-classifieds.php">Frederick    </a></li>
+						<li><a href="all-classifieds.php">Rockville    </a></li>
+						<li><a href="all-classifieds.php">Gaithersburg    </a></li>
+						<li><a href="all-classifieds.php">Bowie     </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -901,11 +901,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Boston   </a></li>
-						<li><a href="all-classifieds.html">Worcester    </a></li>
-						<li><a href="all-classifieds.html">Springfield   </a></li>
-						<li><a href="all-classifieds.html">Lowell    </a></li>
-						<li><a href="all-classifieds.html">Cambridge    </a></li>
+						<li><a href="all-classifieds.php">Boston   </a></li>
+						<li><a href="all-classifieds.php">Worcester    </a></li>
+						<li><a href="all-classifieds.php">Springfield   </a></li>
+						<li><a href="all-classifieds.php">Lowell    </a></li>
+						<li><a href="all-classifieds.php">Cambridge    </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -918,11 +918,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Detroit </a></li>
-						<li><a href="all-classifieds.html">Grand Rapids </a></li>
-						<li><a href="all-classifieds.html">Warren  </a></li>
-						<li><a href="all-classifieds.html">Sterling Heights </a></li>
-						<li><a href="all-classifieds.html">Lansing  </a></li>
+						<li><a href="all-classifieds.php">Detroit </a></li>
+						<li><a href="all-classifieds.php">Grand Rapids </a></li>
+						<li><a href="all-classifieds.php">Warren  </a></li>
+						<li><a href="all-classifieds.php">Sterling Heights </a></li>
+						<li><a href="all-classifieds.php">Lansing  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -935,11 +935,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Minneapolis  </a></li>
-						<li><a href="all-classifieds.html">St. Paul   </a></li>
-						<li><a href="all-classifieds.html">Rochester   </a></li>
-						<li><a href="all-classifieds.html">Duluth   </a></li>
-						<li><a href="all-classifieds.html">Bloomington   </a></li>
+						<li><a href="all-classifieds.php">Minneapolis  </a></li>
+						<li><a href="all-classifieds.php">St. Paul   </a></li>
+						<li><a href="all-classifieds.php">Rochester   </a></li>
+						<li><a href="all-classifieds.php">Duluth   </a></li>
+						<li><a href="all-classifieds.php">Bloomington   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -952,11 +952,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Jackson </a></li>
-						<li><a href="all-classifieds.html">Gulfport </a></li>
-						<li><a href="all-classifieds.html">Southaven </a></li>
-						<li><a href="all-classifieds.html">Hattiesburg  </a></li>
-						<li><a href="all-classifieds.html">Biloxi  </a></li>
+						<li><a href="all-classifieds.php">Jackson </a></li>
+						<li><a href="all-classifieds.php">Gulfport </a></li>
+						<li><a href="all-classifieds.php">Southaven </a></li>
+						<li><a href="all-classifieds.php">Hattiesburg  </a></li>
+						<li><a href="all-classifieds.php">Biloxi  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -969,11 +969,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Kansas City</a></li>
-						<li><a href="all-classifieds.html">St. Louis</a></li>
-						<li><a href="all-classifieds.html">Springfield </a></li>
-						<li><a href="all-classifieds.html">Independence </a></li>
-						<li><a href="all-classifieds.html">Columbia </a></li>
+						<li><a href="all-classifieds.php">Kansas City</a></li>
+						<li><a href="all-classifieds.php">St. Louis</a></li>
+						<li><a href="all-classifieds.php">Springfield </a></li>
+						<li><a href="all-classifieds.php">Independence </a></li>
+						<li><a href="all-classifieds.php">Columbia </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -986,11 +986,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Billings </a></li>
-						<li><a href="all-classifieds.html">Missoula  </a></li>
-						<li><a href="all-classifieds.html">Great Falls </a></li>
-						<li><a href="all-classifieds.html">Bozeman  </a></li>
-						<li><a href="all-classifieds.html">Butte-Silver Bow</a></li>
+						<li><a href="all-classifieds.php">Billings </a></li>
+						<li><a href="all-classifieds.php">Missoula  </a></li>
+						<li><a href="all-classifieds.php">Great Falls </a></li>
+						<li><a href="all-classifieds.php">Bozeman  </a></li>
+						<li><a href="all-classifieds.php">Butte-Silver Bow</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1003,11 +1003,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Omaha  </a></li>
-						<li><a href="all-classifieds.html">Lincoln   </a></li>
-						<li><a href="all-classifieds.html">Bellevue   </a></li>
-						<li><a href="all-classifieds.html">Grand Island   </a></li>
-						<li><a href="all-classifieds.html">Kearney   </a></li>
+						<li><a href="all-classifieds.php">Omaha  </a></li>
+						<li><a href="all-classifieds.php">Lincoln   </a></li>
+						<li><a href="all-classifieds.php">Bellevue   </a></li>
+						<li><a href="all-classifieds.php">Grand Island   </a></li>
+						<li><a href="all-classifieds.php">Kearney   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1020,11 +1020,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Las Vegas  </a></li>
-						<li><a href="all-classifieds.html">Henderson </a></li>
-						<li><a href="all-classifieds.html">North Las Vegas  </a></li>
-						<li><a href="all-classifieds.html">Reno   </a></li>
-						<li><a href="all-classifieds.html">Sunrise Manor </a></li>
+						<li><a href="all-classifieds.php">Las Vegas  </a></li>
+						<li><a href="all-classifieds.php">Henderson </a></li>
+						<li><a href="all-classifieds.php">North Las Vegas  </a></li>
+						<li><a href="all-classifieds.php">Reno   </a></li>
+						<li><a href="all-classifieds.php">Sunrise Manor </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1037,11 +1037,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Manchester   </a></li>
-						<li><a href="all-classifieds.html">Nashua    </a></li>
-						<li><a href="all-classifieds.html">Concord    </a></li>
-						<li><a href="all-classifieds.html">Dover    </a></li>
-						<li><a href="all-classifieds.html">Rochester    </a></li>
+						<li><a href="all-classifieds.php">Manchester   </a></li>
+						<li><a href="all-classifieds.php">Nashua    </a></li>
+						<li><a href="all-classifieds.php">Concord    </a></li>
+						<li><a href="all-classifieds.php">Dover    </a></li>
+						<li><a href="all-classifieds.php">Rochester    </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1054,11 +1054,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Newark  </a></li>
-						<li><a href="all-classifieds.html">Jersey City      </a></li>
-						<li><a href="all-classifieds.html">Paterson      </a></li>
-						<li><a href="all-classifieds.html">Elizabeth   </a></li>
-						<li><a href="all-classifieds.html">Edison      </a></li>
+						<li><a href="all-classifieds.php">Newark  </a></li>
+						<li><a href="all-classifieds.php">Jersey City      </a></li>
+						<li><a href="all-classifieds.php">Paterson      </a></li>
+						<li><a href="all-classifieds.php">Elizabeth   </a></li>
+						<li><a href="all-classifieds.php">Edison      </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1071,11 +1071,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Albuquerque  </a></li>
-						<li><a href="all-classifieds.html">Las Cruces  </a></li>
-						<li><a href="all-classifieds.html">Rio Rancho </a></li>
-						<li><a href="all-classifieds.html">Santa Fe  </a></li>
-						<li><a href="all-classifieds.html">Roswell </a></li>
+						<li><a href="all-classifieds.php">Albuquerque  </a></li>
+						<li><a href="all-classifieds.php">Las Cruces  </a></li>
+						<li><a href="all-classifieds.php">Rio Rancho </a></li>
+						<li><a href="all-classifieds.php">Santa Fe  </a></li>
+						<li><a href="all-classifieds.php">Roswell </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1088,11 +1088,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">New York </a></li>
-						<li><a href="all-classifieds.html">Buffalo      </a></li>
-						<li><a href="all-classifieds.html">Rochester      </a></li>
-						<li><a href="all-classifieds.html">Yonkers      </a></li>
-						<li><a href="all-classifieds.html">Syracuse       </a></li>
+						<li><a href="all-classifieds.php">New York </a></li>
+						<li><a href="all-classifieds.php">Buffalo      </a></li>
+						<li><a href="all-classifieds.php">Rochester      </a></li>
+						<li><a href="all-classifieds.php">Yonkers      </a></li>
+						<li><a href="all-classifieds.php">Syracuse       </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1105,11 +1105,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Charlotte  </a></li>
-						<li><a href="all-classifieds.html">Raleigh   </a></li>
-						<li><a href="all-classifieds.html">Greensboro   </a></li>
-						<li><a href="all-classifieds.html">Winston-Salem  </a></li>
-						<li><a href="all-classifieds.html">Durham   </a></li>
+						<li><a href="all-classifieds.php">Charlotte  </a></li>
+						<li><a href="all-classifieds.php">Raleigh   </a></li>
+						<li><a href="all-classifieds.php">Greensboro   </a></li>
+						<li><a href="all-classifieds.php">Winston-Salem  </a></li>
+						<li><a href="all-classifieds.php">Durham   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1122,11 +1122,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Fargo  </a></li>
-						<li><a href="all-classifieds.html">Bismarck   </a></li>
-						<li><a href="all-classifieds.html">Grand Forks   </a></li>
-						<li><a href="all-classifieds.html">Minot   </a></li>
-						<li><a href="all-classifieds.html">West Fargo  </a></li>
+						<li><a href="all-classifieds.php">Fargo  </a></li>
+						<li><a href="all-classifieds.php">Bismarck   </a></li>
+						<li><a href="all-classifieds.php">Grand Forks   </a></li>
+						<li><a href="all-classifieds.php">Minot   </a></li>
+						<li><a href="all-classifieds.php">West Fargo  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1139,11 +1139,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Columbus  </a></li>
-						<li><a href="all-classifieds.html">Cleveland  </a></li>
-						<li><a href="all-classifieds.html">Cincinnati  </a></li>
-						<li><a href="all-classifieds.html">Toledo   </a></li>
-						<li><a href="all-classifieds.html">Akron   </a></li>
+						<li><a href="all-classifieds.php">Columbus  </a></li>
+						<li><a href="all-classifieds.php">Cleveland  </a></li>
+						<li><a href="all-classifieds.php">Cincinnati  </a></li>
+						<li><a href="all-classifieds.php">Toledo   </a></li>
+						<li><a href="all-classifieds.php">Akron   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1156,11 +1156,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Oklahoma City </a></li>
-						<li><a href="all-classifieds.html">Tulsa </a></li>
-						<li><a href="all-classifieds.html">Norman  </a></li>
-						<li><a href="all-classifieds.html">Broken Arrow </a></li>
-						<li><a href="all-classifieds.html">Lawton </a></li>
+						<li><a href="all-classifieds.php">Oklahoma City </a></li>
+						<li><a href="all-classifieds.php">Tulsa </a></li>
+						<li><a href="all-classifieds.php">Norman  </a></li>
+						<li><a href="all-classifieds.php">Broken Arrow </a></li>
+						<li><a href="all-classifieds.php">Lawton </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1173,11 +1173,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html"> Portland </a></li>
-						<li><a href="all-classifieds.html"> Eugene  </a></li>
-						<li><a href="all-classifieds.html"> Salem  </a></li>
-						<li><a href="all-classifieds.html"> Gresham  </a></li>
-						<li><a href="all-classifieds.html"> Hillsboro  </a></li>
+						<li><a href="all-classifieds.php"> Portland </a></li>
+						<li><a href="all-classifieds.php"> Eugene  </a></li>
+						<li><a href="all-classifieds.php"> Salem  </a></li>
+						<li><a href="all-classifieds.php"> Gresham  </a></li>
+						<li><a href="all-classifieds.php"> Hillsboro  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1190,11 +1190,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Philadelphia  </a></li>
-						<li><a href="all-classifieds.html">Pittsburgh   </a></li>
-						<li><a href="all-classifieds.html">Allentown   </a></li>
-						<li><a href="all-classifieds.html">Erie   </a></li>
-						<li><a href="all-classifieds.html">Reading   </a></li>
+						<li><a href="all-classifieds.php">Philadelphia  </a></li>
+						<li><a href="all-classifieds.php">Pittsburgh   </a></li>
+						<li><a href="all-classifieds.php">Allentown   </a></li>
+						<li><a href="all-classifieds.php">Erie   </a></li>
+						<li><a href="all-classifieds.php">Reading   </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1207,11 +1207,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Providence  </a></li>
-						<li><a href="all-classifieds.html">Warwick   </a></li>
-						<li><a href="all-classifieds.html">Cranston   </a></li>
-						<li><a href="all-classifieds.html">Pawtucket   </a></li>
-						<li><a href="all-classifieds.html">East Providence  </a></li>
+						<li><a href="all-classifieds.php">Providence  </a></li>
+						<li><a href="all-classifieds.php">Warwick   </a></li>
+						<li><a href="all-classifieds.php">Cranston   </a></li>
+						<li><a href="all-classifieds.php">Pawtucket   </a></li>
+						<li><a href="all-classifieds.php">East Providence  </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1224,11 +1224,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Columbia </a></li>
-						<li><a href="all-classifieds.html">Charleston </a></li>
-						<li><a href="all-classifieds.html">North Charleston </a></li>
-						<li><a href="all-classifieds.html">Mount Pleasant</a></li>
-						<li><a href="all-classifieds.html">Rock Hill </a></li>
+						<li><a href="all-classifieds.php">Columbia </a></li>
+						<li><a href="all-classifieds.php">Charleston </a></li>
+						<li><a href="all-classifieds.php">North Charleston </a></li>
+						<li><a href="all-classifieds.php">Mount Pleasant</a></li>
+						<li><a href="all-classifieds.php">Rock Hill </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1241,11 +1241,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Sioux Falls </a></li>
-						<li><a href="all-classifieds.html">Rapid City </a></li>
-						<li><a href="all-classifieds.html">Aberdeen </a></li>
-						<li><a href="all-classifieds.html">Brookings</a></li>
-						<li><a href="all-classifieds.html">Watertown</a></li>
+						<li><a href="all-classifieds.php">Sioux Falls </a></li>
+						<li><a href="all-classifieds.php">Rapid City </a></li>
+						<li><a href="all-classifieds.php">Aberdeen </a></li>
+						<li><a href="all-classifieds.php">Brookings</a></li>
+						<li><a href="all-classifieds.php">Watertown</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1258,11 +1258,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Memphis </a></li>
-						<li><a href="all-classifieds.html">Nashville </a></li>
-						<li><a href="all-classifieds.html">Knoxville </a></li>
-						<li><a href="all-classifieds.html">Chattanooga </a></li>
-						<li><a href="all-classifieds.html">Clarksville </a></li>
+						<li><a href="all-classifieds.php">Memphis </a></li>
+						<li><a href="all-classifieds.php">Nashville </a></li>
+						<li><a href="all-classifieds.php">Knoxville </a></li>
+						<li><a href="all-classifieds.php">Chattanooga </a></li>
+						<li><a href="all-classifieds.php">Clarksville </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1275,11 +1275,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Houston </a></li>
-						<li><a href="all-classifieds.html">San Antonio </a></li>
-						<li><a href="all-classifieds.html">Dallas </a></li>
-						<li><a href="all-classifieds.html">Austin </a></li>
-						<li><a href="all-classifieds.html">Fort Worth </a></li>
+						<li><a href="all-classifieds.php">Houston </a></li>
+						<li><a href="all-classifieds.php">San Antonio </a></li>
+						<li><a href="all-classifieds.php">Dallas </a></li>
+						<li><a href="all-classifieds.php">Austin </a></li>
+						<li><a href="all-classifieds.php">Fort Worth </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1292,11 +1292,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html"> Salt Lake City</a></li>
-						<li><a href="all-classifieds.html"> West Valley City</a></li>
-						<li><a href="all-classifieds.html"> Provo</a></li>
-						<li><a href="all-classifieds.html"> West Jordan</a></li>
-						<li><a href="all-classifieds.html"> Orem</a></li>
+						<li><a href="all-classifieds.php"> Salt Lake City</a></li>
+						<li><a href="all-classifieds.php"> West Valley City</a></li>
+						<li><a href="all-classifieds.php"> Provo</a></li>
+						<li><a href="all-classifieds.php"> West Jordan</a></li>
+						<li><a href="all-classifieds.php"> Orem</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1309,11 +1309,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html"> Burlington</a></li>
-						<li><a href="all-classifieds.html"> Essex</a></li>
-						<li><a href="all-classifieds.html"> South Burlington</a></li>
-						<li><a href="all-classifieds.html"> Colchester</a></li>
-						<li><a href="all-classifieds.html"> Rutland</a></li>
+						<li><a href="all-classifieds.php"> Burlington</a></li>
+						<li><a href="all-classifieds.php"> Essex</a></li>
+						<li><a href="all-classifieds.php"> South Burlington</a></li>
+						<li><a href="all-classifieds.php"> Colchester</a></li>
+						<li><a href="all-classifieds.php"> Rutland</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1326,11 +1326,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html"> Virginia Beach</a></li>
-						<li><a href="all-classifieds.html"> Norfolk</a></li>
-						<li><a href="all-classifieds.html"> Chesapeake</a></li>
-						<li><a href="all-classifieds.html"> Arlington</a></li>
-						<li><a href="all-classifieds.html"> Richmond</a></li>
+						<li><a href="all-classifieds.php"> Virginia Beach</a></li>
+						<li><a href="all-classifieds.php"> Norfolk</a></li>
+						<li><a href="all-classifieds.php"> Chesapeake</a></li>
+						<li><a href="all-classifieds.php"> Arlington</a></li>
+						<li><a href="all-classifieds.php"> Richmond</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1343,11 +1343,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html"> Seattle</a></li>
-						<li><a href="all-classifieds.html"> Spokane</a></li>
-						<li><a href="all-classifieds.html"> Tacoma</a></li>
-						<li><a href="all-classifieds.html"> Vancouver</a></li>
-						<li><a href="all-classifieds.html"> Bellevue</a></li>
+						<li><a href="all-classifieds.php"> Seattle</a></li>
+						<li><a href="all-classifieds.php"> Spokane</a></li>
+						<li><a href="all-classifieds.php"> Tacoma</a></li>
+						<li><a href="all-classifieds.php"> Vancouver</a></li>
+						<li><a href="all-classifieds.php"> Bellevue</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1360,11 +1360,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Charleston </a></li>
-						<li><a href="all-classifieds.html">Huntington </a></li>
-						<li><a href="all-classifieds.html">Parkersburg </a></li>
-						<li><a href="all-classifieds.html">Morgantown </a></li>
-						<li><a href="all-classifieds.html">Wheeling </a></li>
+						<li><a href="all-classifieds.php">Charleston </a></li>
+						<li><a href="all-classifieds.php">Huntington </a></li>
+						<li><a href="all-classifieds.php">Parkersburg </a></li>
+						<li><a href="all-classifieds.php">Morgantown </a></li>
+						<li><a href="all-classifieds.php">Wheeling </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1377,11 +1377,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html">Milwaukee </a></li>
-						<li><a href="all-classifieds.html">Madison </a></li>
-						<li><a href="all-classifieds.html">Green Bay </a></li>
-						<li><a href="all-classifieds.html">Kenosha </a></li>
-						<li><a href="all-classifieds.html">Racine </a></li>
+						<li><a href="all-classifieds.php">Milwaukee </a></li>
+						<li><a href="all-classifieds.php">Madison </a></li>
+						<li><a href="all-classifieds.php">Green Bay </a></li>
+						<li><a href="all-classifieds.php">Kenosha </a></li>
+						<li><a href="all-classifieds.php">Racine </a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1394,11 +1394,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="sun-regions col-md-9">
 					<ul>
-						<li><a href="all-classifieds.html"> Cheyenne</a></li>
-						<li><a href="all-classifieds.html"> Casper</a></li>
-						<li><a href="all-classifieds.html"> Laramie</a></li>
-						<li><a href="all-classifieds.html"> Gillette</a></li>
-						<li><a href="all-classifieds.html"> Rock Springs</a></li>
+						<li><a href="all-classifieds.php"> Cheyenne</a></li>
+						<li><a href="all-classifieds.php"> Casper</a></li>
+						<li><a href="all-classifieds.php"> Laramie</a></li>
+						<li><a href="all-classifieds.php"> Gillette</a></li>
+						<li><a href="all-classifieds.php"> Rock Springs</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -1419,22 +1419,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Help</h4>
 							<ul>
-								<li><a href="howitworks.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
-								<li><a href="sitemap.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
-								<li><a href="faq.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
-								<li><a href="feedback.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
-								<li><a href="contact.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
-								<li><a href="typography.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
-								<li><a href="icons.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
+								<li><a href="howitworks.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
+								<li><a href="sitemap.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
+								<li><a href="faq.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
+								<li><a href="feedback.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
+								<li><a href="contact.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
+								<li><a href="typography.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
+								<li><a href="icons.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Information</h4>
 							<ul>
-								<li><a href="regions.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
-								<li><a href="terms.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
-								<li><a href="popular-search.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
-								<li><a href="privacy.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
+								<li><a href="regions.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
+								<li><a href="terms.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
+								<li><a href="popular-search.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
+								<li><a href="privacy.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
@@ -1464,7 +1464,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="agileits-footer-bottom text-center">
 			<div class="container">
 				<div class="w3-footer-logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="w3-footer-social-icons">
 					<ul>

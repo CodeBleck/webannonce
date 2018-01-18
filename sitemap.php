@@ -92,15 +92,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<header>
 		<div class="w3ls-header"><!--header-one--> 
 			<div class="w3ls-header-left">
-				<p><a href="mobileapp.html"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
+				<p><a href="mobileapp.php"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
 			</div>
 			<div class="w3ls-header-right">
 				<ul>
 					<li class="dropdown head-dpdn">
-						<a href="signin.html" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
+						<a href="signin.php" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<a href="help.html"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+						<a href="help.php"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
 					</li>
 					<li class="dropdown head-dpdn">
 						<a href="#"><span class="active uls-trigger"><i class="fa fa-language" aria-hidden="true"></i>languages</span></a>
@@ -512,7 +512,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agile-its-header">
 				<div class="logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="agileits_search">
 					<form action="#" method="post">
@@ -535,7 +535,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<i class="fa fa-search" aria-hidden="true"> </i>
 						</button>
 					</form>
-				<a class="post-w3layouts-ad" href="post-ad.html">Post Free Ad</a>
+				<a class="post-w3layouts-ad" href="post-ad.php">Post Free Ad</a>
 				</div>	
 				<div class="clearfix"></div>
 			</div>
@@ -545,7 +545,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- breadcrumbs -->
 	<div class="w3layouts-breadcrumbs text-center">
 		<div class="container">
-			<span class="agile-breadcrumbs"><a href="index.html"><i class="fa fa-home home_1"></i></a> / <span>Sitemap</span></span>
+			<span class="agile-breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a> / <span>Sitemap</span></span>
 		</div>
 	</div>
 	<!-- //breadcrumbs -->
@@ -559,99 +559,99 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="sitemap-region">
 						<h4>Furniture</h4>
 						<ul>
-							<li><a href="furnitures.html">Sofa & Dining</a></li>
-							<li><a href="furnitures.html">Other Household Items</a></li>
-							<li><a href="furnitures.html">Beds & Wardrobes</a></li>
-							<li><a href="furnitures.html">Home Decor & Garden</a></li>
-							<li><a href="furnitures.html">Kitchen & Other Appliances</a></li>
-							<li><a href="furnitures.html">Fridge - AC - Washing Machine</a></li>
-							<li class="left-gap"><a href="furnitures.html">Fridges</a></li>
-							<li class="left-gap"><a href="furnitures.html">AC</a></li>
-							<li class="left-gap"><a href="furnitures.html">Washing Machine</a></li>
+							<li><a href="furnitures.php">Sofa & Dining</a></li>
+							<li><a href="furnitures.php">Other Household Items</a></li>
+							<li><a href="furnitures.php">Beds & Wardrobes</a></li>
+							<li><a href="furnitures.php">Home Decor & Garden</a></li>
+							<li><a href="furnitures.php">Kitchen & Other Appliances</a></li>
+							<li><a href="furnitures.php">Fridge - AC - Washing Machine</a></li>
+							<li class="left-gap"><a href="furnitures.php">Fridges</a></li>
+							<li class="left-gap"><a href="furnitures.php">AC</a></li>
+							<li class="left-gap"><a href="furnitures.php">Washing Machine</a></li>
 						</ul>
 					</div>
 					<div class="sitemap-region">
 						<h4>Services</h4>
 						<ul>
-							<li><a href="services.html">Other Services</a></li>
-							<li><a href="services.html">Education & Classes</a></li>
-							<li class="left-gap"><a href="services.html">Tutoring</a></li>
-							<li class="left-gap"><a href="services.html">Other</a></li>
-							<li class="left-gap"><a href="services.html">Computer</a></li>
-							<li class="left-gap"><a href="services.html">Language Classes</a></li>
-							<li class="left-gap"><a href="services.html">Music & Dance</a></li>
-							<li><a href="services.html">Drivers & Taxi</a></li>
-							<li><a href="services.html">Web Development</a></li>
-							<li><a href="services.html">Electronics & Computer Repair</a></li>
-							<li class="left-gap"><a href="services.html">Computer</a></li>
-							<li class="left-gap"><a href="services.html">Home Appliances</a></li>
-							<li class="left-gap"><a href="services.html">Other Electronics</a></li>
-							<li class="left-gap"><a href="services.html">Mobile</a></li>
-							<li><a href="services.html">Health & Beauty</a></li>
-							<li><a href="services.html">Event Services</a></li>
-							<li><a href="services.html">Movers & Packers</a></li>
-							<li><a href="services.html">Maids & Domestic Help</a></li>
+							<li><a href="services.php">Other Services</a></li>
+							<li><a href="services.php">Education & Classes</a></li>
+							<li class="left-gap"><a href="services.php">Tutoring</a></li>
+							<li class="left-gap"><a href="services.php">Other</a></li>
+							<li class="left-gap"><a href="services.php">Computer</a></li>
+							<li class="left-gap"><a href="services.php">Language Classes</a></li>
+							<li class="left-gap"><a href="services.php">Music & Dance</a></li>
+							<li><a href="services.php">Drivers & Taxi</a></li>
+							<li><a href="services.php">Web Development</a></li>
+							<li><a href="services.php">Electronics & Computer Repair</a></li>
+							<li class="left-gap"><a href="services.php">Computer</a></li>
+							<li class="left-gap"><a href="services.php">Home Appliances</a></li>
+							<li class="left-gap"><a href="services.php">Other Electronics</a></li>
+							<li class="left-gap"><a href="services.php">Mobile</a></li>
+							<li><a href="services.php">Health & Beauty</a></li>
+							<li><a href="services.php">Event Services</a></li>
+							<li><a href="services.php">Movers & Packers</a></li>
+							<li><a href="services.php">Maids & Domestic Help</a></li>
 						</ul>
 					</div>
 					<div class="sitemap-region">
 						<h4>Real Estate</h4>
 						<ul>
-							<li><a href="real-estate.html">Land & Plots</a></li>
-							<li class="left-gap"><a href="real-estate.html">Sale</a></li>
-							<li class="left-gap"><a href="real-estate.html">Rent</a></li>
-							<li><a href="real-estate.html">Apartments</a></li>
-							<li class="left-gap"><a href="real-estate.html">Rent</a></li>
-							<li class="left-gap"><a href="real-estate.html">Sale</a></li>
-							<li><a href="real-estate.html">Houses</a></li>
-							<li class="left-gap"><a href="real-estate.html">Rent</a></li>
-							<li class="left-gap"><a href="real-estate.html">Sale</a></li>
-							<li><a href="real-estate.html">Shops - Offices - Commercial Space</a></li>
-							<li class="left-gap"><a href="real-estate.html">Lease</a></li>
-							<li class="left-gap"><a href="real-estate.html">Sale</a></li>
-							<li><a href="real-estate.html">PG & Roommates</a></li>
-							<li><a href="real-estate.html">Vacation Rentals - Guest Houses</a></li>
+							<li><a href="real-estate.php">Land & Plots</a></li>
+							<li class="left-gap"><a href="real-estate.php">Sale</a></li>
+							<li class="left-gap"><a href="real-estate.php">Rent</a></li>
+							<li><a href="real-estate.php">Apartments</a></li>
+							<li class="left-gap"><a href="real-estate.php">Rent</a></li>
+							<li class="left-gap"><a href="real-estate.php">Sale</a></li>
+							<li><a href="real-estate.php">Houses</a></li>
+							<li class="left-gap"><a href="real-estate.php">Rent</a></li>
+							<li class="left-gap"><a href="real-estate.php">Sale</a></li>
+							<li><a href="real-estate.php">Shops - Offices - Commercial Space</a></li>
+							<li class="left-gap"><a href="real-estate.php">Lease</a></li>
+							<li class="left-gap"><a href="real-estate.php">Sale</a></li>
+							<li><a href="real-estate.php">PG & Roommates</a></li>
+							<li><a href="real-estate.php">Vacation Rentals - Guest Houses</a></li>
 						</ul>
 					</div>
 					<div class="sitemap-region">
 						<h4>Bikes</h4>
 						<ul>
-							<li><a href="bikes.html">Motorcycles</a></li>
-							<li><a href="bikes.html">Bajaj</a></li>
-							<li><a href="bikes.html">Hero Honda</a></li>
-							<li><a href="bikes.html">Yamaha</a></li>
-							<li><a href="bikes.html">Royal Enfield</a></li>
-							<li><a href="bikes.html">Honda</a></li>
-							<li><a href="bikes.html">Hero</a></li>
-							<li><a href="bikes.html">TVS</a></li>
-							<li><a href="bikes.html">Suzuki</a></li>
-							<li><a href="bikes.html">Other Brands</a></li>
-							<li><a href="bikes.html">KTM</a></li>
-							<li><a href="bikes.html">Mahindra</a></li>
-							<li><a href="bikes.html">Kawasaki</a></li>
-							<li><a href="bikes.html">Harley Davidson</a></li>
-							<li><a href="bikes.html">Spare Parts</a></li>
-							<li><a href="bikes.html">Scooters</a></li>
-							<li><a href="bikes.html">Honda</a></li>
-							<li><a href="bikes.html">TVS </a></li>
-							<li><a href="bikes.html">Bajaj</a></li>
-							<li><a href="bikes.html">Hero</a></li>
-							<li><a href="bikes.html">Suzuki</a></li>
-							<li><a href="bikes.html">Mahindra</a></li>
-							<li><a href="bikes.html">LML</a></li>
-							<li><a href="bikes.html">Kinetic</a></li>
-							<li><a href="bikes.html">Other Brands</a></li>
-							<li><a href="bikes.html">Yamaha</a></li>
-							<li><a href="bikes.html">Vespa</a></li>
-							<li><a href="bikes.html">Lambretta</a></li>
-							<li><a href="bikes.html">Bicycles</a></li>
-							<li><a href="bikes.html">Hero</a></li>
-							<li><a href="bikes.html">Other Brands</a></li>
-							<li><a href="bikes.html">Hercules</a></li>
-							<li><a href="bikes.html">BSA</a></li>
-							<li><a href="bikes.html">Atlas</a></li>
-							<li><a href="bikes.html">Avon</a></li>
-							<li><a href="bikes.html">Firefox</a></li>
-							<li><a href="bikes.html">Trek</a></li>
+							<li><a href="bikes.php">Motorcycles</a></li>
+							<li><a href="bikes.php">Bajaj</a></li>
+							<li><a href="bikes.php">Hero Honda</a></li>
+							<li><a href="bikes.php">Yamaha</a></li>
+							<li><a href="bikes.php">Royal Enfield</a></li>
+							<li><a href="bikes.php">Honda</a></li>
+							<li><a href="bikes.php">Hero</a></li>
+							<li><a href="bikes.php">TVS</a></li>
+							<li><a href="bikes.php">Suzuki</a></li>
+							<li><a href="bikes.php">Other Brands</a></li>
+							<li><a href="bikes.php">KTM</a></li>
+							<li><a href="bikes.php">Mahindra</a></li>
+							<li><a href="bikes.php">Kawasaki</a></li>
+							<li><a href="bikes.php">Harley Davidson</a></li>
+							<li><a href="bikes.php">Spare Parts</a></li>
+							<li><a href="bikes.php">Scooters</a></li>
+							<li><a href="bikes.php">Honda</a></li>
+							<li><a href="bikes.php">TVS </a></li>
+							<li><a href="bikes.php">Bajaj</a></li>
+							<li><a href="bikes.php">Hero</a></li>
+							<li><a href="bikes.php">Suzuki</a></li>
+							<li><a href="bikes.php">Mahindra</a></li>
+							<li><a href="bikes.php">LML</a></li>
+							<li><a href="bikes.php">Kinetic</a></li>
+							<li><a href="bikes.php">Other Brands</a></li>
+							<li><a href="bikes.php">Yamaha</a></li>
+							<li><a href="bikes.php">Vespa</a></li>
+							<li><a href="bikes.php">Lambretta</a></li>
+							<li><a href="bikes.php">Bicycles</a></li>
+							<li><a href="bikes.php">Hero</a></li>
+							<li><a href="bikes.php">Other Brands</a></li>
+							<li><a href="bikes.php">Hercules</a></li>
+							<li><a href="bikes.php">BSA</a></li>
+							<li><a href="bikes.php">Atlas</a></li>
+							<li><a href="bikes.php">Avon</a></li>
+							<li><a href="bikes.php">Firefox</a></li>
+							<li><a href="bikes.php">Trek</a></li>
 						</ul>
 					</div>
 				</div>
@@ -659,109 +659,109 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="sitemap-region">
 						<h4>Jobs</h4>
 						<ul>
-							<li><a href="jobs.html">Online</a></li>
-							<li><a href="jobs.html">Other Jobs</a></li>
-							<li><a href="jobs.html">Customer Service</a></li>
-							<li><a href="jobs.html">IT</a></li>
-							<li><a href="jobs.html">Marketing</a></li>
-							<li><a href="jobs.html">Sales</a></li>
-							<li><a href="jobs.html">Manufacturing</a></li>
-							<li><a href="jobs.html">Clerical & Administration</a></li>
-							<li><a href="jobs.html">Hotels & Tourism</a></li>
-							<li><a href="jobs.html">Accounting & Finance</a></li>
-							<li><a href="jobs.html">Advertising & PR</a></li>
-							<li><a href="jobs.html">Human Resources</a></li>
-							<li><a href="jobs.html">Education</a></li>
+							<li><a href="jobs.php">Online</a></li>
+							<li><a href="jobs.php">Other Jobs</a></li>
+							<li><a href="jobs.php">Customer Service</a></li>
+							<li><a href="jobs.php">IT</a></li>
+							<li><a href="jobs.php">Marketing</a></li>
+							<li><a href="jobs.php">Sales</a></li>
+							<li><a href="jobs.php">Manufacturing</a></li>
+							<li><a href="jobs.php">Clerical & Administration</a></li>
+							<li><a href="jobs.php">Hotels & Tourism</a></li>
+							<li><a href="jobs.php">Accounting & Finance</a></li>
+							<li><a href="jobs.php">Advertising & PR</a></li>
+							<li><a href="jobs.php">Human Resources</a></li>
+							<li><a href="jobs.php">Education</a></li>
 						</ul>
 					</div>				
 					<div class="sitemap-region">
 						<h4>Cars</h4>
 						<ul>
-							<li><a href="cars.html">Cars</a></li>
-							<li class="left-gap"><a href="cars.html">Maruti Suzuki</a></li>
-							<li class="left-gap"><a href="cars.html">Hyundai</a></li>
-							<li class="left-gap"><a href="cars.html">Tata</a></li>
-							<li class="left-gap"><a href="cars.html">Mahindra</a></li>
-							<li class="left-gap"><a href="cars.html">Honda</a></li>
-							<li class="left-gap"><a href="cars.html">Ford</a></li>
-							<li class="left-gap"><a href="cars.html">Toyota</a></li>
-							<li class="left-gap"><a href="cars.html">Chevrolet</a></li>
-							<li class="left-gap"><a href="cars.html">Skoda</a></li>
-							<li class="left-gap"><a href="cars.html">Volkswagen</a></li>
-							<li class="left-gap"><a href="cars.html">Fiat</a></li>
-							<li class="left-gap"><a href="cars.html">Mitsubishi</a></li>
-							<li class="left-gap"><a href="cars.html">Other Brands</a></li>
-							<li class="left-gap"><a href="cars.html">Mercedes-Benz</a></li>
-							<li class="left-gap"><a href="cars.html">Nissan</a></li>
-							<li class="left-gap"><a href="cars.html">BMW</a></li>
-							<li class="left-gap"><a href="cars.html">Renault</a></li>
-							<li class="left-gap"><a href="cars.html">Hindustan Motors</a></li>
-							<li class="left-gap"><a href="cars.html">Audi</a></li>
-							<li class="left-gap"><a href="cars.html">Mahindra Renault</a></li>
-							<li class="left-gap"><a href="cars.html">Opel</a></li>
-							<li class="left-gap"><a href="cars.html">Daewoo</a></li>
-							<li class="left-gap"><a href="cars.html">Force Motors</a></li>
-							<li class="left-gap"><a href="cars.html">Landrover</a></li>
-							<li class="left-gap"><a href="cars.html">Premier</a></li>
-							<li class="left-gap"><a href="cars.html">Jaguar</a></li>
-							<li class="left-gap"><a href="cars.html">Volvo</a></li>
-							<li class="left-gap"><a href="cars.html">Isuzu</a></li>
-							<li class="left-gap"><a href="cars.html">Mini</a></li>
-							<li class="left-gap"><a href="cars.html">Porsche</a></li>
-							<li class="left-gap"><a href="cars.html">Ssangyong</a></li>
-							<li class="left-gap"><a href="cars.html">Mahindra Reva</a></li>
-							<li class="left-gap"><a href="cars.html">Rolls Royce</a></li>
-							<li class="left-gap"><a href="cars.html">Bentley</a></li>
-							<li class="left-gap"><a href="cars.html">Ferrari</a></li>
-							<li class="left-gap"><a href="cars.html">Lamborghini </a></li>
-							<li><a href="cars.html">Spare Parts</a></li>
-							<li class="left-gap"><a href="cars.html">Car Parts</a></li>
-							<li class="left-gap"><a href="cars.html">Other Parts</a></li>
-							<li class="left-gap"><a href="cars.html">Spare Parts</a></li>
-							<li><a href="cars.html">Commercial Vehicles</a></li>
-							<li><a href="cars.html">Other Vehicles</a></li>
-							<li><a href="cars.html">Motorcycles</a></li>
-							<li class="left-gap"><a href="cars.html">Hero Honda</a></li>
-							<li class="left-gap"><a href="cars.html">Honda</a></li>
-							<li class="left-gap"><a href="cars.html">Bajaj</a></li>
-							<li class="left-gap"><a href="cars.html">TVS</a></li>
-							<li class="left-gap"><a href="cars.html">Royal Enfield</a></li>
-							<li class="left-gap"><a href="cars.html">Suzuki</a></li>
-							<li><a href="cars.html">Scooters</a></li>
-							<li class="left-gap"><a href="cars.html">Honda</a></li>
-							<li class="left-gap"><a href="cars.html">Bajaj</a></li>
-							<li class="left-gap"><a href="cars.html">TVS</a></li>
-							<li class="left-gap"><a href="cars.html">Suzuki</a></li>
-							<li class="left-gap"><a href="cars.html">Kinetic</a></li>
-							<li class="left-gap"><a href="cars.html">Mahindra</a></li>
-							<li><a href="cars.html">Bicycles</a></li>
-							<li class="left-gap"><a href="cars.html">Other Brands</a></li>
-							<li class="left-gap"><a href="cars.html">Hero</a></li>
+							<li><a href="cars.php">Cars</a></li>
+							<li class="left-gap"><a href="cars.php">Maruti Suzuki</a></li>
+							<li class="left-gap"><a href="cars.php">Hyundai</a></li>
+							<li class="left-gap"><a href="cars.php">Tata</a></li>
+							<li class="left-gap"><a href="cars.php">Mahindra</a></li>
+							<li class="left-gap"><a href="cars.php">Honda</a></li>
+							<li class="left-gap"><a href="cars.php">Ford</a></li>
+							<li class="left-gap"><a href="cars.php">Toyota</a></li>
+							<li class="left-gap"><a href="cars.php">Chevrolet</a></li>
+							<li class="left-gap"><a href="cars.php">Skoda</a></li>
+							<li class="left-gap"><a href="cars.php">Volkswagen</a></li>
+							<li class="left-gap"><a href="cars.php">Fiat</a></li>
+							<li class="left-gap"><a href="cars.php">Mitsubishi</a></li>
+							<li class="left-gap"><a href="cars.php">Other Brands</a></li>
+							<li class="left-gap"><a href="cars.php">Mercedes-Benz</a></li>
+							<li class="left-gap"><a href="cars.php">Nissan</a></li>
+							<li class="left-gap"><a href="cars.php">BMW</a></li>
+							<li class="left-gap"><a href="cars.php">Renault</a></li>
+							<li class="left-gap"><a href="cars.php">Hindustan Motors</a></li>
+							<li class="left-gap"><a href="cars.php">Audi</a></li>
+							<li class="left-gap"><a href="cars.php">Mahindra Renault</a></li>
+							<li class="left-gap"><a href="cars.php">Opel</a></li>
+							<li class="left-gap"><a href="cars.php">Daewoo</a></li>
+							<li class="left-gap"><a href="cars.php">Force Motors</a></li>
+							<li class="left-gap"><a href="cars.php">Landrover</a></li>
+							<li class="left-gap"><a href="cars.php">Premier</a></li>
+							<li class="left-gap"><a href="cars.php">Jaguar</a></li>
+							<li class="left-gap"><a href="cars.php">Volvo</a></li>
+							<li class="left-gap"><a href="cars.php">Isuzu</a></li>
+							<li class="left-gap"><a href="cars.php">Mini</a></li>
+							<li class="left-gap"><a href="cars.php">Porsche</a></li>
+							<li class="left-gap"><a href="cars.php">Ssangyong</a></li>
+							<li class="left-gap"><a href="cars.php">Mahindra Reva</a></li>
+							<li class="left-gap"><a href="cars.php">Rolls Royce</a></li>
+							<li class="left-gap"><a href="cars.php">Bentley</a></li>
+							<li class="left-gap"><a href="cars.php">Ferrari</a></li>
+							<li class="left-gap"><a href="cars.php">Lamborghini </a></li>
+							<li><a href="cars.php">Spare Parts</a></li>
+							<li class="left-gap"><a href="cars.php">Car Parts</a></li>
+							<li class="left-gap"><a href="cars.php">Other Parts</a></li>
+							<li class="left-gap"><a href="cars.php">Spare Parts</a></li>
+							<li><a href="cars.php">Commercial Vehicles</a></li>
+							<li><a href="cars.php">Other Vehicles</a></li>
+							<li><a href="cars.php">Motorcycles</a></li>
+							<li class="left-gap"><a href="cars.php">Hero Honda</a></li>
+							<li class="left-gap"><a href="cars.php">Honda</a></li>
+							<li class="left-gap"><a href="cars.php">Bajaj</a></li>
+							<li class="left-gap"><a href="cars.php">TVS</a></li>
+							<li class="left-gap"><a href="cars.php">Royal Enfield</a></li>
+							<li class="left-gap"><a href="cars.php">Suzuki</a></li>
+							<li><a href="cars.php">Scooters</a></li>
+							<li class="left-gap"><a href="cars.php">Honda</a></li>
+							<li class="left-gap"><a href="cars.php">Bajaj</a></li>
+							<li class="left-gap"><a href="cars.php">TVS</a></li>
+							<li class="left-gap"><a href="cars.php">Suzuki</a></li>
+							<li class="left-gap"><a href="cars.php">Kinetic</a></li>
+							<li class="left-gap"><a href="cars.php">Mahindra</a></li>
+							<li><a href="cars.php">Bicycles</a></li>
+							<li class="left-gap"><a href="cars.php">Other Brands</a></li>
+							<li class="left-gap"><a href="cars.php">Hero</a></li>
 						</ul>
 					</div>
 					<div class="sitemap-region">
 						<h4>Pets</h4>
 						<ul>
-							<li><a href="pets.html">Dogs</a></li>
-							<li class="left-gap"><a href="pets.html">Other Breeds</a></li>
-							<li class="left-gap"><a href="pets.html">Labrador</a></li>
-							<li class="left-gap"><a href="pets.html">German Shepherd</a></li>
-							<li class="left-gap"><a href="pets.html">Rottweiler</a></li>
-							<li class="left-gap"><a href="pets.html">Pug</a></li>
-							<li class="left-gap"><a href="pets.html">Mastiff</a></li>
-							<li class="left-gap"><a href="pets.html">Saint Bernard</a></li>
-							<li class="left-gap"><a href="pets.html">Golden Retriever</a></li>
-							<li class="left-gap"><a href="pets.html">Beagle</a></li>
-							<li class="left-gap"><a href="pets.html">Pomeranian</a></li>
-							<li class="left-gap"><a href="pets.html">Doberman</a></li>
-							<li class="left-gap"><a href="pets.html">Husky</a></li>
-							<li class="left-gap"><a href="pets.html">Cocker Spaniel</a></li>
-							<li class="left-gap"><a href="pets.html">Boxer</a></li>
-							<li class="left-gap"><a href="pets.html">Bulldog</a></li>
-							<li class="left-gap"a href="pets.html">Dalmatian</a></li>
-							<li><a href="pets.html">Other Pets</a></li>
-							<li><a href="pets.html">Aquariums</a></li>
-							<li><a href="pets.html">Pet Food & Accessories</a></li>
+							<li><a href="pets.php">Dogs</a></li>
+							<li class="left-gap"><a href="pets.php">Other Breeds</a></li>
+							<li class="left-gap"><a href="pets.php">Labrador</a></li>
+							<li class="left-gap"><a href="pets.php">German Shepherd</a></li>
+							<li class="left-gap"><a href="pets.php">Rottweiler</a></li>
+							<li class="left-gap"><a href="pets.php">Pug</a></li>
+							<li class="left-gap"><a href="pets.php">Mastiff</a></li>
+							<li class="left-gap"><a href="pets.php">Saint Bernard</a></li>
+							<li class="left-gap"><a href="pets.php">Golden Retriever</a></li>
+							<li class="left-gap"><a href="pets.php">Beagle</a></li>
+							<li class="left-gap"><a href="pets.php">Pomeranian</a></li>
+							<li class="left-gap"><a href="pets.php">Doberman</a></li>
+							<li class="left-gap"><a href="pets.php">Husky</a></li>
+							<li class="left-gap"><a href="pets.php">Cocker Spaniel</a></li>
+							<li class="left-gap"><a href="pets.php">Boxer</a></li>
+							<li class="left-gap"><a href="pets.php">Bulldog</a></li>
+							<li class="left-gap"a href="pets.php">Dalmatian</a></li>
+							<li><a href="pets.php">Other Pets</a></li>
+							<li><a href="pets.php">Aquariums</a></li>
+							<li><a href="pets.php">Pet Food & Accessories</a></li>
 						</ul>
 					</div>
 				</div>
@@ -769,105 +769,105 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="sitemap-region">					
 						<h4>Mobiles</h4>
 						<ul>
-							<li><a href="mobiles.html">Mobile Phones</a></li>
-							<li class="left-gap"><a href="mobiles.html">Samsung</a></li>
-							<li class="left-gap"><a href="mobiles.html">Nokia</a></li>
-							<li class="left-gap"><a href="mobiles.html">Other Mobiles</a></li>
-							<li class="left-gap"><a href="mobiles.html">Micromax</a></li>
-							<li class="left-gap"><a href="mobiles.html">iPhone</a></li>
-							<li class="left-gap"><a href="mobiles.html">Sony</a></li>
-							<li class="left-gap"><a href="mobiles.html">HTC</a></li>
-							<li class="left-gap"><a href="mobiles.html">Lenovo</a></li>
-							<li class="left-gap"><a href="mobiles.html">Intex</a></li>
-							<li class="left-gap"><a href="mobiles.html">Motorola</a></li>
-							<li class="left-gap"><a href="mobiles.html">Lava</a></li>
-							<li class="left-gap"><a href="mobiles.html">LG</a></li>
-							<li class="left-gap"><a href="mobiles.html">Mi</a></li>
-							<li class="left-gap"><a href="mobiles.html">BlackBerry</a></li>
-							<li class="left-gap"><a href="mobiles.html">Karbonn</a></li>
-							<li class="left-gap"><a href="mobiles.html">Asus</a></li>
-							<li><a href="mobiles.html">Accessories</a></li>
-							<li class="left-gap"><a href="mobiles.html">Mobile</a></li>
-							<li class="left-gap"><a href="mobiles.html">Tablets</a></li>
-							<li><a href="mobiles.html">Tablets</a></li>
-							<li class="left-gap"><a href="mobiles.html">Samsung</a></li>
-							<li class="left-gap"><a href="mobiles.html">Other Tablets</a></li>
-							<li class="left-gap"><a href="mobiles.html">iPads</a></li>
-							<li class="left-gap"><a href="mobiles.html">iBall</a></li>
-							<li class="left-gap"><a href="mobiles.html">Micromax</a></li>
-							<li class="left-gap"><a href="mobiles.html">Lenovo</a></li>
-							<li class="left-gap"><a href="mobiles.html">Asus</a></li>
-							<li class="left-gap"><a href="mobiles.html">HP</a></li>
-							<li class="left-gap"><a href="mobiles.html">Dell</a></li>
-							<li class="left-gap"><a href="mobiles.html">HCL</a></li>
-							<li class="left-gap"><a href="mobiles.html">Acer</a></li>
-							<li class="left-gap"><a href="mobiles.html">Blackberry</a></li>
-							<li class="left-gap"><a href="mobiles.html">Sony</a></li>
+							<li><a href="mobiles.php">Mobile Phones</a></li>
+							<li class="left-gap"><a href="mobiles.php">Samsung</a></li>
+							<li class="left-gap"><a href="mobiles.php">Nokia</a></li>
+							<li class="left-gap"><a href="mobiles.php">Other Mobiles</a></li>
+							<li class="left-gap"><a href="mobiles.php">Micromax</a></li>
+							<li class="left-gap"><a href="mobiles.php">iPhone</a></li>
+							<li class="left-gap"><a href="mobiles.php">Sony</a></li>
+							<li class="left-gap"><a href="mobiles.php">HTC</a></li>
+							<li class="left-gap"><a href="mobiles.php">Lenovo</a></li>
+							<li class="left-gap"><a href="mobiles.php">Intex</a></li>
+							<li class="left-gap"><a href="mobiles.php">Motorola</a></li>
+							<li class="left-gap"><a href="mobiles.php">Lava</a></li>
+							<li class="left-gap"><a href="mobiles.php">LG</a></li>
+							<li class="left-gap"><a href="mobiles.php">Mi</a></li>
+							<li class="left-gap"><a href="mobiles.php">BlackBerry</a></li>
+							<li class="left-gap"><a href="mobiles.php">Karbonn</a></li>
+							<li class="left-gap"><a href="mobiles.php">Asus</a></li>
+							<li><a href="mobiles.php">Accessories</a></li>
+							<li class="left-gap"><a href="mobiles.php">Mobile</a></li>
+							<li class="left-gap"><a href="mobiles.php">Tablets</a></li>
+							<li><a href="mobiles.php">Tablets</a></li>
+							<li class="left-gap"><a href="mobiles.php">Samsung</a></li>
+							<li class="left-gap"><a href="mobiles.php">Other Tablets</a></li>
+							<li class="left-gap"><a href="mobiles.php">iPads</a></li>
+							<li class="left-gap"><a href="mobiles.php">iBall</a></li>
+							<li class="left-gap"><a href="mobiles.php">Micromax</a></li>
+							<li class="left-gap"><a href="mobiles.php">Lenovo</a></li>
+							<li class="left-gap"><a href="mobiles.php">Asus</a></li>
+							<li class="left-gap"><a href="mobiles.php">HP</a></li>
+							<li class="left-gap"><a href="mobiles.php">Dell</a></li>
+							<li class="left-gap"><a href="mobiles.php">HCL</a></li>
+							<li class="left-gap"><a href="mobiles.php">Acer</a></li>
+							<li class="left-gap"><a href="mobiles.php">Blackberry</a></li>
+							<li class="left-gap"><a href="mobiles.php">Sony</a></li>
 						</ul>
 					</div>
 					<div class="sitemap-region">					
 						<h4>Kids</h4>
 						<ul>
-							<li><a href="kids.html">Furniture And Toys</a></li>
-							<li><a href="kids.html">Accessories</a></li>
-							<li><a href="kids.html">Prams & Walkers</a></li>
+							<li><a href="kids.php">Furniture And Toys</a></li>
+							<li><a href="kids.php">Accessories</a></li>
+							<li><a href="kids.php">Prams & Walkers</a></li>
 						</ul>
 					</div>
 					<div class="sitemap-region">
 						<h4>Fashion</h4>
 						<ul>
-							<li><a href="fashion.html">Accessories</a></li>
-							<li class="left-gap"><a href="fashion.html">Women</a></li>
-							<li class="left-gap"><a href="fashion.html">Men</a></li>
-							<li><a href="fashion.html">Clothes</a></li>
-							<li class="left-gap"><a href="fashion.html">Women</a></li>
-							<li class="left-gap"><a href="fashion.html">Men</a></li>
-							<li><a href="fashion.html">Footwear</a></li>
-							<li class="left-gap"><a href="fashion.html">Men</a></li>
-							<li class="left-gap"><a href="fashion.html">Women</a></li>
+							<li><a href="fashion.php">Accessories</a></li>
+							<li class="left-gap"><a href="fashion.php">Women</a></li>
+							<li class="left-gap"><a href="fashion.php">Men</a></li>
+							<li><a href="fashion.php">Clothes</a></li>
+							<li class="left-gap"><a href="fashion.php">Women</a></li>
+							<li class="left-gap"><a href="fashion.php">Men</a></li>
+							<li><a href="fashion.php">Footwear</a></li>
+							<li class="left-gap"><a href="fashion.php">Men</a></li>
+							<li class="left-gap"><a href="fashion.php">Women</a></li>
 						</ul>
 					</div>
 					<div class="sitemap-region">
 						<h4>Electronics & Appliances</h4>
 						<ul>
-							<li><a href="electronics-appliances.html">Computers & Accessories</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Laptops</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Computers</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Other Accessories</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Internet</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Printers</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Monitors</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Hard Disk</a></li>
-							<li><a href="electronics-appliances.html">Kitchen & Other Appliances</a></li>
-							<li><a href="electronics-appliances.html">TV - Video - Audio</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Video - Audio</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">TV</a></li>
-							<li><a href="electronics-appliances.html">Cameras & Accessories</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Cameras</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Other Accessories</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Lenses</a></li>
-							<li><a href="electronics-appliances.html">Games & Entertainment</a></li>
-							<li><a href="electronics-appliances.html">Fridge - AC - Washing Machine</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Fridges</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">Washing Machine</a></li>
-							<li class="left-gap"><a href="electronics-appliances.html">AC</a></li>
+							<li><a href="electronics-appliances.php">Computers & Accessories</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Laptops</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Computers</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Other Accessories</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Internet</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Printers</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Monitors</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Hard Disk</a></li>
+							<li><a href="electronics-appliances.php">Kitchen & Other Appliances</a></li>
+							<li><a href="electronics-appliances.php">TV - Video - Audio</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Video - Audio</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">TV</a></li>
+							<li><a href="electronics-appliances.php">Cameras & Accessories</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Cameras</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Other Accessories</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Lenses</a></li>
+							<li><a href="electronics-appliances.php">Games & Entertainment</a></li>
+							<li><a href="electronics-appliances.php">Fridge - AC - Washing Machine</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Fridges</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">Washing Machine</a></li>
+							<li class="left-gap"><a href="electronics-appliances.php">AC</a></li>
 						</ul>
 					</div>
 					<div class="sitemap-region">
 						<h4>Books, Sports & Hobbies</h4>
 						<ul>
-							<li><a href="books-sports-hobbies.html">Gym & Fitness</a></li>
-							<li><a href="books-sports-hobbies.html">Other Hobbies</a></li>
-							<li><a href="books-sports-hobbies.html">Musical Instruments</a></li>
-							<li><a href="books-sports-hobbies.html">Books & Magazines</a></li>
-							<li class="left-gap"><a href="books-sports-hobbies.html">Education & Training</a></li>
-							<li class="left-gap"><a href="books-sports-hobbies.html">Competitive Exam</a></li>
-							<li class="left-gap"><a href="books-sports-hobbies.html">Literature & Fiction</a></li>
-							<li class="left-gap"><a href="books-sports-hobbies.html">Professional & Technical</a></li>
-							<li class="left-gap"><a href="books-sports-hobbies.html">Other Books</a></li>
-							<li class="left-gap"><a href="books-sports-hobbies.html">School Books</a></li>
-							<li class="left-gap"><a href="books-sports-hobbies.html">Children</a></li>
-							<li><a href="books-sports-hobbies.html">Sports Equipment</a></li>
+							<li><a href="books-sports-hobbies.php">Gym & Fitness</a></li>
+							<li><a href="books-sports-hobbies.php">Other Hobbies</a></li>
+							<li><a href="books-sports-hobbies.php">Musical Instruments</a></li>
+							<li><a href="books-sports-hobbies.php">Books & Magazines</a></li>
+							<li class="left-gap"><a href="books-sports-hobbies.php">Education & Training</a></li>
+							<li class="left-gap"><a href="books-sports-hobbies.php">Competitive Exam</a></li>
+							<li class="left-gap"><a href="books-sports-hobbies.php">Literature & Fiction</a></li>
+							<li class="left-gap"><a href="books-sports-hobbies.php">Professional & Technical</a></li>
+							<li class="left-gap"><a href="books-sports-hobbies.php">Other Books</a></li>
+							<li class="left-gap"><a href="books-sports-hobbies.php">School Books</a></li>
+							<li class="left-gap"><a href="books-sports-hobbies.php">Children</a></li>
+							<li><a href="books-sports-hobbies.php">Sports Equipment</a></li>
 						</ul>
 					</div>
 				</div>
@@ -888,22 +888,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Help</h4>
 							<ul>
-								<li><a href="howitworks.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
-								<li><a href="sitemap.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
-								<li><a href="faq.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
-								<li><a href="feedback.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
-								<li><a href="contact.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
-								<li><a href="typography.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
-								<li><a href="icons.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
+								<li><a href="howitworks.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
+								<li><a href="sitemap.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
+								<li><a href="faq.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
+								<li><a href="feedback.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
+								<li><a href="contact.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
+								<li><a href="typography.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
+								<li><a href="icons.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Information</h4>
 							<ul>
-								<li><a href="regions.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
-								<li><a href="terms.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
-								<li><a href="popular-search.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
-								<li><a href="privacy.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
+								<li><a href="regions.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
+								<li><a href="terms.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
+								<li><a href="popular-search.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
+								<li><a href="privacy.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
@@ -933,7 +933,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="agileits-footer-bottom text-center">
 			<div class="container">
 				<div class="w3-footer-logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="w3-footer-social-icons">
 					<ul>

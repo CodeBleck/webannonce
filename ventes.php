@@ -566,22 +566,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/immobiliers/salon.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/immobiliers/sofa-salon.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/immobiliers/juvenile2.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/immobiliers/bed.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								
@@ -604,22 +604,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/mobiles/ventes-smartphones.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/mobiles/packtablets.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/mobiles/origine-nokia-x3-02-3g.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/mobiles/logitech-keyboard-ipad-mini-01.png" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								
@@ -643,22 +643,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/electro/smartTV.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/electro/Electromenager-pack.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/electro/panasonic_radiof3500.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/electro/cafetiere-électroménagers.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								
@@ -682,22 +682,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/automobiles/car-mercedes.JPG" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/automobiles/NV200-Packshot.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/automobiles/RAV-4.JPG" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/automobiles/taxi1.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								
@@ -720,22 +720,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/maisons/plan-de-maison-duplex-au-cameroun.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/maisons/FRONT-VIEW.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/maisons/terrains1.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/maisons/Construire-au-Cameroun_4.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								
@@ -759,22 +759,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/cosmetiques/0marche-du-cosmetique.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/cosmetiques/bio-maison-sanzoo.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/cosmetiques/Bouteillescosmetiques.png" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/cosmetiques/coffret_Expressionsdenfants.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								
@@ -797,22 +797,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/animaux/1200px-Chicken_-_melbourne.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/animaux/chien.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/animaux/Lapin_rex.png" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/animaux/elevage-de-porcs.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a> <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								
@@ -834,22 +834,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/fournitures/fournitures-scolaires_livres.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/fournitures/kit-rentree.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/fournitures/kitrentree_topoffice01.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/fournitures/material-escolar.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 							</figure>
 							<div class="sub-categories">
@@ -870,22 +870,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/vestimentaires/gucci-homme-vente-vetement-gucci.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/vestimentaires/vetementfemme.png" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/vestimentaires/vestes.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/vestimentaires/landing_page.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 							</figure>
 							<div class="sub-categories">
@@ -903,22 +903,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/jouets/maxresdefault.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/jouets/bulldozer-teleguide-pour-enfant-jouet-pour-enfant.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/jouets/le-scooter-fille.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/jouets/ordinateur-enfant.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 							</figure>
 							<div class="sub-categories">
@@ -938,22 +938,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 								<div class="category-img col-md-6">
 									<img src="images/bijoux/montreH.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/bijoux/xbracelet-double-chaine-argent.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 								
 								<div class="category-img col-md-6">
 									<img src="images/bijoux/Bijoux_F.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 
 								<div class="category-img col-md-6">
 									<img src="images/bijoux/montre-bijoux-femme-.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads</figcaption>
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
 								</div>
 							</figure>
 							<div class="sub-categories">

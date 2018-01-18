@@ -92,15 +92,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<header>
 		<div class="w3ls-header"><!--header-one--> 
 			<div class="w3ls-header-left">
-				<p><a href="mobileapp.html"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
+				<p><a href="mobileapp.php"><i class="fa fa-download" aria-hidden="true"></i>Download Mobile App </a></p>
 			</div>
 			<div class="w3ls-header-right">
 				<ul>
 					<li class="dropdown head-dpdn">
-						<a href="signin.html" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
+						<a href="signin.php" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> Sign In</a>
 					</li>
 					<li class="dropdown head-dpdn">
-						<a href="help.html"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+						<a href="help.php"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
 					</li>
 					<li class="dropdown head-dpdn">
 						<a href="#"><span class="active uls-trigger"><i class="fa fa-language" aria-hidden="true"></i>languages</span></a>
@@ -512,7 +512,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agile-its-header">
 				<div class="logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="agileits_search">
 					<form action="#" method="post">
@@ -535,7 +535,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<i class="fa fa-search" aria-hidden="true"> </i>
 						</button>
 					</form>
-				<a class="post-w3layouts-ad" href="post-ad.html">Post Free Ad</a>
+				<a class="post-w3layouts-ad" href="post-ad.php">Post Free Ad</a>
 				</div>	
 				<div class="clearfix"></div>
 			</div>
@@ -545,7 +545,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- breadcrumbs -->
 	<div class="w3layouts-breadcrumbs text-center">
 		<div class="container">
-			<span class="agile-breadcrumbs"><a href="index.html"><i class="fa fa-home home_1"></i></a> / <span>Popular Search</span></span>
+			<span class="agile-breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a> / <span>Popular Search</span></span>
 		</div>
 	</div>
 	<!-- //breadcrumbs -->
@@ -555,26 +555,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<h2 class="w3-head">Most popular search phrases</h2>
 				<div class="tags">
 					<p>
-					<a class="tag1" href="single.html">At vero eos</a>
-					<a class="tag2" href="single.html">doloremque</a>
-					<a class="tag3" href="single.html">On the other</a>
-					<a class="tag4" href="single.html">pain was</a>
-					<a class="tag5" href="single.html">rationally encounter</a>
-					<a class="tag6" href="single.html">praesentium voluptatum</a>
-					<a class="tag7" href="single.html">est, omnis</a>
-					<a class="tag8" href="single.html">who are so beguiled</a>
-					<a class="tag9" href="single.html">when nothing</a>
-					<a class="tag10" href="single.html">owing to the</a>
-					<a class="tag11" href="single.html">pains to avoid</a>
-					<a class="tag12" href="single.html">tempora incidunt</a>
-					<a class="tag13" href="single.html">pursues or desires</a>
-					<a class="tag14" href="single.html">Bonorum et</a>
-					<a class="tag15" href="single.html">written by Cicero</a>
-					<a class="tag16" href="single.html">Ipsum passage</a>
-					<a class="tag17" href="single.html">exercitationem ullam</a>
-					<a class="tag18" href="single.html">mistaken idea</a>
-					<a class="tag19" href="single.html">ducimus qui</a>
-					<a class="tag20" href="single.html">holds in these</a>
+					<a class="tag1" href="single.php">At vero eos</a>
+					<a class="tag2" href="single.php">doloremque</a>
+					<a class="tag3" href="single.php">On the other</a>
+					<a class="tag4" href="single.php">pain was</a>
+					<a class="tag5" href="single.php">rationally encounter</a>
+					<a class="tag6" href="single.php">praesentium voluptatum</a>
+					<a class="tag7" href="single.php">est, omnis</a>
+					<a class="tag8" href="single.php">who are so beguiled</a>
+					<a class="tag9" href="single.php">when nothing</a>
+					<a class="tag10" href="single.php">owing to the</a>
+					<a class="tag11" href="single.php">pains to avoid</a>
+					<a class="tag12" href="single.php">tempora incidunt</a>
+					<a class="tag13" href="single.php">pursues or desires</a>
+					<a class="tag14" href="single.php">Bonorum et</a>
+					<a class="tag15" href="single.php">written by Cicero</a>
+					<a class="tag16" href="single.php">Ipsum passage</a>
+					<a class="tag17" href="single.php">exercitationem ullam</a>
+					<a class="tag18" href="single.php">mistaken idea</a>
+					<a class="tag19" href="single.php">ducimus qui</a>
+					<a class="tag20" href="single.php">holds in these</a>
 					</p>
 				</div>
 		</div>
@@ -582,74 +582,74 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="container">
 				<h4>Regions</h4>
 				<ul>
-					<li><a href="regions.html">Alabama</a></li>
-					<li><a href="regions.html">Alaska</a></li>
-					<li><a href="regions.html">Arizona</a></li>
-					<li><a href="regions.html">Arkansas</a></li>
-					<li><a href="regions.html">California</a></li>
-					<li><a href="regions.html">Colorado</a></li>
-					<li><a href="regions.html">Connecticut</a></li>
-					<li><a href="regions.html">Delaware</a></li>
-					<li><a href="regions.html">Florida</a></li>
-					<li><a href="regions.html">Georgia</a></li>
-					<li><a href="regions.html">Hawaii</a></li>
-					<li><a href="regions.html">Idaho</a></li>
-					<li><a href="regions.html">Illinois</a></li>
-					<li><a href="regions.html">Indiana</a></li>
-					<li><a href="regions.html">Iowa</a></li>
-					<li><a href="regions.html">Kansas</a></li>
-					<li><a href="regions.html">Kentucky</a></li>
-					<li><a href="regions.html">Louisiana</a></li>
-					<li><a href="regions.html">Maine</a></li>
-					<li><a href="regions.html">Maryland</a></li>
-					<li><a href="regions.html">Massachusetts</a></li>
-					<li><a href="regions.html">Michigan</a></li>
-					<li><a href="regions.html">Minnesota</a></li>
-					<li><a href="regions.html">Mississippi</a></li>
-					<li><a href="regions.html">Missouri</a></li>
-					<li><a href="regions.html">Montana</a></li>
-					<li><a href="regions.html">Nebraska</a></li>
-					<li><a href="regions.html">Nevada</a></li>
-					<li><a href="regions.html">New Hampshire</a></li>
-					<li><a href="regions.html">New Jersey</a></li>
-					<li><a href="regions.html#">New Mexico</a></li>
-					<li><a href="regions.html">New York</a></li>
-					<li><a href="regions.html">North Carolina</a></li>
-					<li><a href="regions.html">North Dakota</a></li>
-					<li><a href="regions.html">Ohio</a></li>
-					<li><a href="regions.html">Oklahoma</a></li>
-					<li><a href="regions.html">Oregon</a></li>
-					<li><a href="regions.html">Pennsylvania</a></li>
-					<li><a href="regions.html">Rhode Island</a></li>
-					<li><a href="regions.html">South Carolina</a></li>
-					<li><a href="regions.html">South Dakota</a></li>
-					<li><a href="regions.html">Tennessee</a></li>
-					<li><a href="regions.html">Texas</a></li>
-					<li><a href="regions.html">Utah</a></li>
-					<li><a href="regions.html">Vermont</a></li>
-					<li><a href="regions.html">Virginia</a></li>
-					<li><a href="regions.html">Washington</a></li>
-					<li><a href="regions.html">West Virginia</a></li>
-					<li><a href="regions.html">Wisconsin</a></li>
-					<li><a href="regions.html">Wyoming</a></li>
+					<li><a href="regions.php">Alabama</a></li>
+					<li><a href="regions.php">Alaska</a></li>
+					<li><a href="regions.php">Arizona</a></li>
+					<li><a href="regions.php">Arkansas</a></li>
+					<li><a href="regions.php">California</a></li>
+					<li><a href="regions.php">Colorado</a></li>
+					<li><a href="regions.php">Connecticut</a></li>
+					<li><a href="regions.php">Delaware</a></li>
+					<li><a href="regions.php">Florida</a></li>
+					<li><a href="regions.php">Georgia</a></li>
+					<li><a href="regions.php">Hawaii</a></li>
+					<li><a href="regions.php">Idaho</a></li>
+					<li><a href="regions.php">Illinois</a></li>
+					<li><a href="regions.php">Indiana</a></li>
+					<li><a href="regions.php">Iowa</a></li>
+					<li><a href="regions.php">Kansas</a></li>
+					<li><a href="regions.php">Kentucky</a></li>
+					<li><a href="regions.php">Louisiana</a></li>
+					<li><a href="regions.php">Maine</a></li>
+					<li><a href="regions.php">Maryland</a></li>
+					<li><a href="regions.php">Massachusetts</a></li>
+					<li><a href="regions.php">Michigan</a></li>
+					<li><a href="regions.php">Minnesota</a></li>
+					<li><a href="regions.php">Mississippi</a></li>
+					<li><a href="regions.php">Missouri</a></li>
+					<li><a href="regions.php">Montana</a></li>
+					<li><a href="regions.php">Nebraska</a></li>
+					<li><a href="regions.php">Nevada</a></li>
+					<li><a href="regions.php">New Hampshire</a></li>
+					<li><a href="regions.php">New Jersey</a></li>
+					<li><a href="regions.php#">New Mexico</a></li>
+					<li><a href="regions.php">New York</a></li>
+					<li><a href="regions.php">North Carolina</a></li>
+					<li><a href="regions.php">North Dakota</a></li>
+					<li><a href="regions.php">Ohio</a></li>
+					<li><a href="regions.php">Oklahoma</a></li>
+					<li><a href="regions.php">Oregon</a></li>
+					<li><a href="regions.php">Pennsylvania</a></li>
+					<li><a href="regions.php">Rhode Island</a></li>
+					<li><a href="regions.php">South Carolina</a></li>
+					<li><a href="regions.php">South Dakota</a></li>
+					<li><a href="regions.php">Tennessee</a></li>
+					<li><a href="regions.php">Texas</a></li>
+					<li><a href="regions.php">Utah</a></li>
+					<li><a href="regions.php">Vermont</a></li>
+					<li><a href="regions.php">Virginia</a></li>
+					<li><a href="regions.php">Washington</a></li>
+					<li><a href="regions.php">West Virginia</a></li>
+					<li><a href="regions.php">Wisconsin</a></li>
+					<li><a href="regions.php">Wyoming</a></li>
 					<div class="clearfix"></div>
 				</ul>
 				<h4 class="mpcwc">Most popular cities in whole country</h4>
 				<ul>
-					<li><a href="all-classifieds.html">Birmingham</a></li>
-					<li><a href="all-classifieds.html">Anchorage</a></li>
-					<li><a href="all-classifieds.html">Phoenix</a></li>
-					<li><a href="all-classifieds.html">Little Rock</a></li>
-					<li><a href="all-classifieds.html">Los Angeles</a></li>
-					<li><a href="all-classifieds.html">Denver</a></li>
-					<li><a href="all-classifieds.html">Bridgeport</a></li>
-					<li><a href="all-classifieds.html">Wilmington</a></li>
-					<li><a href="all-classifieds.html">Jacksonville</a></li>
-					<li><a href="all-classifieds.html">Atlanta</a></li>
-					<li><a href="all-classifieds.html">Honolulu</a></li>
-					<li><a href="all-classifieds.html">Boise</a></li>
-					<li><a href="all-classifieds.html">Chicago</a></li>
-					<li><a href="all-classifieds.html">Indianapolis</a></li>
+					<li><a href="all-classifieds.php">Birmingham</a></li>
+					<li><a href="all-classifieds.php">Anchorage</a></li>
+					<li><a href="all-classifieds.php">Phoenix</a></li>
+					<li><a href="all-classifieds.php">Little Rock</a></li>
+					<li><a href="all-classifieds.php">Los Angeles</a></li>
+					<li><a href="all-classifieds.php">Denver</a></li>
+					<li><a href="all-classifieds.php">Bridgeport</a></li>
+					<li><a href="all-classifieds.php">Wilmington</a></li>
+					<li><a href="all-classifieds.php">Jacksonville</a></li>
+					<li><a href="all-classifieds.php">Atlanta</a></li>
+					<li><a href="all-classifieds.php">Honolulu</a></li>
+					<li><a href="all-classifieds.php">Boise</a></li>
+					<li><a href="all-classifieds.php">Chicago</a></li>
+					<li><a href="all-classifieds.php">Indianapolis</a></li>
 					<div class="clearfix"></div>
 				</ul>
 			</div>
@@ -659,301 +659,301 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="popular-category">
 					<h4>Mobiles</h4>
 					<ul>
-						<li><a href="mobiles.html">Iphone</a></li>
-						<li><a href="mobiles.html">Samsung</a></li>
-						<li><a href="mobiles.html">Iphone 6</a></li>
-						<li><a href="mobiles.html">Iphone 5s</a></li>
-						<li><a href="mobiles.html">Exchange</a></li>
-						<li><a href="mobiles.html">Nokia</a></li>
-						<li><a href="mobiles.html">Sony</a></li>
-						<li><a href="mobiles.html">Htc</a></li>
-						<li><a href="mobiles.html">I phone</a></li>
-						<li><a href="mobiles.html">Iphone 5</a></li>
-						<li><a href="mobiles.html">Blackberry</a></li>
-						<li><a href="mobiles.html">Cdma</a></li>
-						<li><a href="mobiles.html">Micromax</a></li>
-						<li><a href="mobiles.html">Iphone 4s</a></li>
-						<li><a href="mobiles.html">Lenovo</a></li>
-						<li><a href="mobiles.html">Apple</a></li>
-						<li><a href="mobiles.html">Mi</a></li>
-						<li><a href="mobiles.html">I phone 6</a></li>
-						<li><a href="mobiles.html">I phone 5s</a></li>
-						<li><a href="mobiles.html">Moto</a></li>
+						<li><a href="mobiles.php">Iphone</a></li>
+						<li><a href="mobiles.php">Samsung</a></li>
+						<li><a href="mobiles.php">Iphone 6</a></li>
+						<li><a href="mobiles.php">Iphone 5s</a></li>
+						<li><a href="mobiles.php">Exchange</a></li>
+						<li><a href="mobiles.php">Nokia</a></li>
+						<li><a href="mobiles.php">Sony</a></li>
+						<li><a href="mobiles.php">Htc</a></li>
+						<li><a href="mobiles.php">I phone</a></li>
+						<li><a href="mobiles.php">Iphone 5</a></li>
+						<li><a href="mobiles.php">Blackberry</a></li>
+						<li><a href="mobiles.php">Cdma</a></li>
+						<li><a href="mobiles.php">Micromax</a></li>
+						<li><a href="mobiles.php">Iphone 4s</a></li>
+						<li><a href="mobiles.php">Lenovo</a></li>
+						<li><a href="mobiles.php">Apple</a></li>
+						<li><a href="mobiles.php">Mi</a></li>
+						<li><a href="mobiles.php">I phone 6</a></li>
+						<li><a href="mobiles.php">I phone 5s</a></li>
+						<li><a href="mobiles.php">Moto</a></li>
 					</ul>
 				</div>
 				<div class="popular-category">
 					<h4>Electronics & Appliances</h4>
 					<ul>
-						<li><a href="electronics-appliances.html">Laptop</a></li>
-						<li><a href="electronics-appliances.html">Dj</a></li>
-						<li><a href="electronics-appliances.html">Tv</a></li>
-						<li><a href="electronics-appliances.html">Projector</a></li>
-						<li><a href="electronics-appliances.html">Led tv</a></li>
-						<li><a href="electronics-appliances.html">Speakers</a></li>
-						<li><a href="electronics-appliances.html">Home theater</a></li>
-						<li><a href="electronics-appliances.html">Laptops</a></li>
-						<li><a href="electronics-appliances.html">Printer</a></li>
-						<li><a href="electronics-appliances.html">Speaker</a></li>
-						<li><a href="electronics-appliances.html">Led</a></li>
-						<li><a href="electronics-appliances.html">Amplifier</a></li>
-						<li><a href="electronics-appliances.html">Generator</a></li>
-						<li><a href="electronics-appliances.html">Music system</a></li>
-						<li><a href="electronics-appliances.html">Washing machine</a></li>
-						<li><a href="electronics-appliances.html">Camera</a></li>
-						<li><a href="electronics-appliances.html">Sony</a></li>
-						<li><a href="electronics-appliances.html">Fridge</a></li>
-						<li><a href="electronics-appliances.html">Cpu</a></li>
-						<li><a href="electronics-appliances.html">Ac</a></li>
+						<li><a href="electronics-appliances.php">Laptop</a></li>
+						<li><a href="electronics-appliances.php">Dj</a></li>
+						<li><a href="electronics-appliances.php">Tv</a></li>
+						<li><a href="electronics-appliances.php">Projector</a></li>
+						<li><a href="electronics-appliances.php">Led tv</a></li>
+						<li><a href="electronics-appliances.php">Speakers</a></li>
+						<li><a href="electronics-appliances.php">Home theater</a></li>
+						<li><a href="electronics-appliances.php">Laptops</a></li>
+						<li><a href="electronics-appliances.php">Printer</a></li>
+						<li><a href="electronics-appliances.php">Speaker</a></li>
+						<li><a href="electronics-appliances.php">Led</a></li>
+						<li><a href="electronics-appliances.php">Amplifier</a></li>
+						<li><a href="electronics-appliances.php">Generator</a></li>
+						<li><a href="electronics-appliances.php">Music system</a></li>
+						<li><a href="electronics-appliances.php">Washing machine</a></li>
+						<li><a href="electronics-appliances.php">Camera</a></li>
+						<li><a href="electronics-appliances.php">Sony</a></li>
+						<li><a href="electronics-appliances.php">Fridge</a></li>
+						<li><a href="electronics-appliances.php">Cpu</a></li>
+						<li><a href="electronics-appliances.php">Ac</a></li>
 					</ul>
 				</div>
 				<div class="popular-category">
 					<h4>Cars</h4>
 					<ul>
-						<li><a href="cars.html">Innova</a></li>
-						<li><a href="cars.html">Scorpio</a></li>
-						<li><a href="cars.html">Jeep</a></li>
-						<li><a href="cars.html">Alto</a></li>
-						<li><a href="cars.html">Maruti 800</a></li>
-						<li><a href="cars.html">Bolero</a></li>
-						<li><a href="cars.html">Zen</a></li>
-						<li><a href="cars.html">Honda city</a></li>
-						<li><a href="cars.html">Delhi</a></li>
-						<li><a href="cars.html">Omni</a></li>
-						<li><a href="cars.html">Tavera</a></li>
-						<li><a href="cars.html">Indica</a></li>
-						<li><a href="cars.html">Santro</a></li>
-						<li><a href="cars.html">Bmw</a></li>
-						<li><a href="cars.html">Mumbai</a></li>
-						<li><a href="cars.html">Tata sumo</a></li>
-						<li><a href="cars.html">Kerala</a></li>
-						<li><a href="cars.html">Swift vdi</a></li>
-						<li><a href="cars.html">Fortuner</a></li>
+						<li><a href="cars.php">Innova</a></li>
+						<li><a href="cars.php">Scorpio</a></li>
+						<li><a href="cars.php">Jeep</a></li>
+						<li><a href="cars.php">Alto</a></li>
+						<li><a href="cars.php">Maruti 800</a></li>
+						<li><a href="cars.php">Bolero</a></li>
+						<li><a href="cars.php">Zen</a></li>
+						<li><a href="cars.php">Honda city</a></li>
+						<li><a href="cars.php">Delhi</a></li>
+						<li><a href="cars.php">Omni</a></li>
+						<li><a href="cars.php">Tavera</a></li>
+						<li><a href="cars.php">Indica</a></li>
+						<li><a href="cars.php">Santro</a></li>
+						<li><a href="cars.php">Bmw</a></li>
+						<li><a href="cars.php">Mumbai</a></li>
+						<li><a href="cars.php">Tata sumo</a></li>
+						<li><a href="cars.php">Kerala</a></li>
+						<li><a href="cars.php">Swift vdi</a></li>
+						<li><a href="cars.php">Fortuner</a></li>
 					</ul>
 				</div>
 				<div class="popular-category">
 					<h4>Bikes</h4>
 					<ul>
-						<li><a href="bikes.html">Bullet</a></li>
-						<li><a href="bikes.html">Royal enfield</a></li>
-						<li><a href="bikes.html">R15</a></li>
-						<li><a href="bikes.html">Fz</a></li>
-						<li><a href="bikes.html">Activa</a></li>
-						<li><a href="bikes.html">Pulsar</a></li>
-						<li><a href="bikes.html">Yamaha</a></li>
-						<li><a href="bikes.html">Mumbai</a></li>
-						<li><a href="bikes.html">Ktm</a></li>
-						<li><a href="bikes.html">Pulsar 220</a></li>
-						<li><a href="bikes.html">Bangalore</a></li>
-						<li><a href="bikes.html">Rx</a></li>
-						<li><a href="bikes.html">Pune</a></li>
-						<li><a href="bikes.html">Apache</a></li>
-						<li><a href="bikes.html">Harley davidson</a></li>
-						<li><a href="bikes.html">Delhi</a></li>
-						<li><a href="bikes.html">Kolkata</a></li>
-						<li><a href="bikes.html">Hyderabad</a></li>
-						<li><a href="bikes.html">Karizma</a></li>
-						<li><a href="bikes.html">Unicorn</a></li>
+						<li><a href="bikes.php">Bullet</a></li>
+						<li><a href="bikes.php">Royal enfield</a></li>
+						<li><a href="bikes.php">R15</a></li>
+						<li><a href="bikes.php">Fz</a></li>
+						<li><a href="bikes.php">Activa</a></li>
+						<li><a href="bikes.php">Pulsar</a></li>
+						<li><a href="bikes.php">Yamaha</a></li>
+						<li><a href="bikes.php">Mumbai</a></li>
+						<li><a href="bikes.php">Ktm</a></li>
+						<li><a href="bikes.php">Pulsar 220</a></li>
+						<li><a href="bikes.php">Bangalore</a></li>
+						<li><a href="bikes.php">Rx</a></li>
+						<li><a href="bikes.php">Pune</a></li>
+						<li><a href="bikes.php">Apache</a></li>
+						<li><a href="bikes.php">Harley davidson</a></li>
+						<li><a href="bikes.php">Delhi</a></li>
+						<li><a href="bikes.php">Kolkata</a></li>
+						<li><a href="bikes.php">Hyderabad</a></li>
+						<li><a href="bikes.php">Karizma</a></li>
+						<li><a href="bikes.php">Unicorn</a></li>
 					</ul>
 				</div>
 				<div class="popular-category">
 					<h4>Furniture</h4>
 					<ul>
-						<li><a href="furnitures.html">Sofa</a></li>
-						<li><a href="furnitures.html">Bed</a></li>
-						<li><a href="furnitures.html">Dining table</a></li>
-						<li><a href="furnitures.html">Sofa set</a></li>
-						<li><a href="furnitures.html">Almirah</a></li>
-						<li><a href="furnitures.html">Table</a></li>
-						<li><a href="furnitures.html">Sofa cum bed</a></li>
-						<li><a href="furnitures.html">Chair</a></li>
-						<li><a href="furnitures.html">Double bed</a></li>
-						<li><a href="furnitures.html">Computer table</a></li>
-						<li><a href="furnitures.html">Antique</a></li>
-						<li><a href="furnitures.html">Chairs</a></li>
-						<li><a href="furnitures.html">Study table</a></li>
-						<li><a href="furnitures.html">Office table</a></li>
-						<li><a href="furnitures.html">Dressing table</a></li>
-						<li><a href="furnitures.html">Tv stand</a></li>
-						<li><a href="furnitures.html">Mumbai</a></li>
-						<li><a href="furnitures.html">Wardrobe</a></li>
-						<li><a href="furnitures.html">Cupboard</a></li>
-						<li><a href="furnitures.html">Pune</a></li>
+						<li><a href="furnitures.php">Sofa</a></li>
+						<li><a href="furnitures.php">Bed</a></li>
+						<li><a href="furnitures.php">Dining table</a></li>
+						<li><a href="furnitures.php">Sofa set</a></li>
+						<li><a href="furnitures.php">Almirah</a></li>
+						<li><a href="furnitures.php">Table</a></li>
+						<li><a href="furnitures.php">Sofa cum bed</a></li>
+						<li><a href="furnitures.php">Chair</a></li>
+						<li><a href="furnitures.php">Double bed</a></li>
+						<li><a href="furnitures.php">Computer table</a></li>
+						<li><a href="furnitures.php">Antique</a></li>
+						<li><a href="furnitures.php">Chairs</a></li>
+						<li><a href="furnitures.php">Study table</a></li>
+						<li><a href="furnitures.php">Office table</a></li>
+						<li><a href="furnitures.php">Dressing table</a></li>
+						<li><a href="furnitures.php">Tv stand</a></li>
+						<li><a href="furnitures.php">Mumbai</a></li>
+						<li><a href="furnitures.php">Wardrobe</a></li>
+						<li><a href="furnitures.php">Cupboard</a></li>
+						<li><a href="furnitures.php">Pune</a></li>
 					</ul>
 				</div>
 				<div class="popular-category">
 					<h4>Pets</h4>
 					<ul>
-						<li><a href="pets.html">Cow</a></li>
-						<li><a href="pets.html">Cows</a></li>
-						<li><a href="pets.html">Goat</a></li>
-						<li><a href="pets.html">Cat</a></li>
-						<li><a href="pets.html">Aseel</a></li>
-						<li><a href="pets.html">Horse</a></li>
-						<li><a href="pets.html">Pigeons</a></li>
-						<li><a href="pets.html">Pigeon</a></li>
-						<li><a href="pets.html">Goats</a></li>
-						<li><a href="pets.html">Cats</a></li>
-						<li><a href="pets.html">Birds</a></li>
-						<li><a href="pets.html">Rottweiler</a></li>
-						<li><a href="pets.html">Rabbit</a></li>
-						<li><a href="pets.html">Pug</a></li>
-						<li><a href="pets.html">Pitbull</a></li>
-						<li><a href="pets.html">German shepherd</a></li>
-						<li><a href="pets.html">Buffalo</a></li>
-						<li><a href="pets.html">Labrador</a></li>
-						<li><a href="pets.html">Dog</a></li>
-						<li><a href="pets.html">Hens</a></li>
+						<li><a href="pets.php">Cow</a></li>
+						<li><a href="pets.php">Cows</a></li>
+						<li><a href="pets.php">Goat</a></li>
+						<li><a href="pets.php">Cat</a></li>
+						<li><a href="pets.php">Aseel</a></li>
+						<li><a href="pets.php">Horse</a></li>
+						<li><a href="pets.php">Pigeons</a></li>
+						<li><a href="pets.php">Pigeon</a></li>
+						<li><a href="pets.php">Goats</a></li>
+						<li><a href="pets.php">Cats</a></li>
+						<li><a href="pets.php">Birds</a></li>
+						<li><a href="pets.php">Rottweiler</a></li>
+						<li><a href="pets.php">Rabbit</a></li>
+						<li><a href="pets.php">Pug</a></li>
+						<li><a href="pets.php">Pitbull</a></li>
+						<li><a href="pets.php">German shepherd</a></li>
+						<li><a href="pets.php">Buffalo</a></li>
+						<li><a href="pets.php">Labrador</a></li>
+						<li><a href="pets.php">Dog</a></li>
+						<li><a href="pets.php">Hens</a></li>
 					</ul>
 				</div>
 				<div class="popular-category">
 					<h4>Books, Sports & Hobbies</h4>
 					<ul>
-						<li><a href="books-sports-hobbies.html">Coin</a></li>
-						<li><a href="books-sports-hobbies.html">Books</a></li>
-						<li><a href="books-sports-hobbies.html">Bat</a></li>
-						<li><a href="books-sports-hobbies.html">Football</a></li>
-						<li><a href="books-sports-hobbies.html">Treadmill</a></li>
-						<li><a href="books-sports-hobbies.html">Guitar</a></li>
-						<li><a href="books-sports-hobbies.html">Coins</a></li>
-						<li><a href="books-sports-hobbies.html">Moradabad</a></li>
-						<li><a href="books-sports-hobbies.html">Cycle</a></li>
-						<li><a href="books-sports-hobbies.html">Antique</a></li>
-						<li><a href="books-sports-hobbies.html">Gym</a></li>
-						<li><a href="books-sports-hobbies.html">Carrom board</a></li>
-						<li><a href="books-sports-hobbies.html">Book</a></li>
-						<li><a href="books-sports-hobbies.html">Shoes</a></li>
-						<li><a href="books-sports-hobbies.html">Cricket bat</a></li>
-						<li><a href="books-sports-hobbies.html">Sport</a></li>
-						<li><a href="books-sports-hobbies.html">East india</a></li>
-						<li><a href="books-sports-hobbies.html">Skates</a></li>
-						<li><a href="books-sports-hobbies.html">Cricket bats</a></li>
-						<li><a href="books-sports-hobbies.html">Sports</a></li>
+						<li><a href="books-sports-hobbies.php">Coin</a></li>
+						<li><a href="books-sports-hobbies.php">Books</a></li>
+						<li><a href="books-sports-hobbies.php">Bat</a></li>
+						<li><a href="books-sports-hobbies.php">Football</a></li>
+						<li><a href="books-sports-hobbies.php">Treadmill</a></li>
+						<li><a href="books-sports-hobbies.php">Guitar</a></li>
+						<li><a href="books-sports-hobbies.php">Coins</a></li>
+						<li><a href="books-sports-hobbies.php">Moradabad</a></li>
+						<li><a href="books-sports-hobbies.php">Cycle</a></li>
+						<li><a href="books-sports-hobbies.php">Antique</a></li>
+						<li><a href="books-sports-hobbies.php">Gym</a></li>
+						<li><a href="books-sports-hobbies.php">Carrom board</a></li>
+						<li><a href="books-sports-hobbies.php">Book</a></li>
+						<li><a href="books-sports-hobbies.php">Shoes</a></li>
+						<li><a href="books-sports-hobbies.php">Cricket bat</a></li>
+						<li><a href="books-sports-hobbies.php">Sport</a></li>
+						<li><a href="books-sports-hobbies.php">East india</a></li>
+						<li><a href="books-sports-hobbies.php">Skates</a></li>
+						<li><a href="books-sports-hobbies.php">Cricket bats</a></li>
+						<li><a href="books-sports-hobbies.php">Sports</a></li>
 					</ul>
 				</div>	
 				<div class="popular-category">
 					<h4>Fashion</h4>
 					<ul>
-						<li><a href="fashion.html">Watch</a></li>
-						<li><a href="fashion.html">Watches</a></li>
-						<li><a href="fashion.html">Mumbai</a></li>
-						<li><a href="fashion.html">Shoes</a></li>
-						<li><a href="fashion.html">Jewellery</a></li>
-						<li><a href="fashion.html">Bag</a></li>
-						<li><a href="fashion.html">Saree</a></li>
-						<li><a href="fashion.html">Jacket</a></li>
-						<li><a href="fashion.html">Hyderabad</a></li>
-						<li><a href="fashion.html">Kolkata</a></li>
-						<li><a href="fashion.html">Kerala</a></li>
-						<li><a href="fashion.html">Delhi</a></li>
-						<li><a href="fashion.html">Bra</a></li>
-						<li><a href="fashion.html">Bags</a></li>
-						<li><a href="fashion.html">Ahmedabad</a></li>
-						<li><a href="fashion.html">Bangalore</a></li>
-						<li><a href="fashion.html">Sarees</a></li>
-						<li><a href="fashion.html">Sunglasses</a></li>
-						<li><a href="fashion.html">Gold</a></li>
-						<li><a href="fashion.html">Nike</a></li>
+						<li><a href="fashion.php">Watch</a></li>
+						<li><a href="fashion.php">Watches</a></li>
+						<li><a href="fashion.php">Mumbai</a></li>
+						<li><a href="fashion.php">Shoes</a></li>
+						<li><a href="fashion.php">Jewellery</a></li>
+						<li><a href="fashion.php">Bag</a></li>
+						<li><a href="fashion.php">Saree</a></li>
+						<li><a href="fashion.php">Jacket</a></li>
+						<li><a href="fashion.php">Hyderabad</a></li>
+						<li><a href="fashion.php">Kolkata</a></li>
+						<li><a href="fashion.php">Kerala</a></li>
+						<li><a href="fashion.php">Delhi</a></li>
+						<li><a href="fashion.php">Bra</a></li>
+						<li><a href="fashion.php">Bags</a></li>
+						<li><a href="fashion.php">Ahmedabad</a></li>
+						<li><a href="fashion.php">Bangalore</a></li>
+						<li><a href="fashion.php">Sarees</a></li>
+						<li><a href="fashion.php">Sunglasses</a></li>
+						<li><a href="fashion.php">Gold</a></li>
+						<li><a href="fashion.php">Nike</a></li>
 					</ul>
 				</div>
 				<div class="popular-category">
 					<h4>Kids</h4>
 					<ul>
-						<li><a href="kids.html">Car</a></li>
-						<li><a href="kids.html">Cycle</a></li>
-						<li><a href="kids.html">Mumbai</a></li>
-						<li><a href="kids.html">Toys</a></li>
-						<li><a href="kids.html">Bike</a></li>
-						<li><a href="kids.html">High chair</a></li>
-						<li><a href="kids.html">Delhi</a></li>
-						<li><a href="kids.html">Cycles</a></li>
-						<li><a href="kids.html">Pune</a></li>
-						<li><a href="kids.html">Stroller</a></li>
-						<li><a href="kids.html">Hyderabad</a></li>
-						<li><a href="kids.html">Cars</a></li>
-						<li><a href="kids.html">Walker</a></li>
-						<li><a href="kids.html">Tricycle</a></li>
-						<li><a href="kids.html">Baby walker</a></li>
-						<li><a href="kids.html">Car seat</a></li>
-						<li><a href="kids.html">Cradle</a></li>
-						<li><a href="kids.html">Kids cycle</a></li>
-						<li><a href="kids.html">Kolkata baby</a></li>
-						<li><a href="kids.html">Battery car</a></li>
+						<li><a href="kids.php">Car</a></li>
+						<li><a href="kids.php">Cycle</a></li>
+						<li><a href="kids.php">Mumbai</a></li>
+						<li><a href="kids.php">Toys</a></li>
+						<li><a href="kids.php">Bike</a></li>
+						<li><a href="kids.php">High chair</a></li>
+						<li><a href="kids.php">Delhi</a></li>
+						<li><a href="kids.php">Cycles</a></li>
+						<li><a href="kids.php">Pune</a></li>
+						<li><a href="kids.php">Stroller</a></li>
+						<li><a href="kids.php">Hyderabad</a></li>
+						<li><a href="kids.php">Cars</a></li>
+						<li><a href="kids.php">Walker</a></li>
+						<li><a href="kids.php">Tricycle</a></li>
+						<li><a href="kids.php">Baby walker</a></li>
+						<li><a href="kids.php">Car seat</a></li>
+						<li><a href="kids.php">Cradle</a></li>
+						<li><a href="kids.php">Kids cycle</a></li>
+						<li><a href="kids.php">Kolkata baby</a></li>
+						<li><a href="kids.php">Battery car</a></li>
 					</ul>
 				</div>
 				<div class="popular-category">
 					<h4>Services</h4>
 					<ul>
-						<li><a href="services.html">Vip numbers</a></li>
-						<li><a href="services.html">Fancy number</a></li>
-						<li><a href="services.html">Insurance</a></li>
-						<li><a href="services.html">Rent a car</a></li>
-						<li><a href="services.html">Massage</a></li>
-						<li><a href="services.html">Driver</a></li>
-						<li><a href="services.html">Fancy numbers</a></li>
-						<li><a href="services.html">Service</a></li>
-						<li><a href="services.html">Vip number</a></li>
-						<li><a href="services.html">Business</a></li>
-						<li><a href="services.html">Loans</a></li>
-						<li><a href="services.html">Cook</a></li>
-						<li><a href="services.html">Distributors</a></li>
-						<li><a href="services.html">Travel</a></li>
-						<li><a href="services.html">Services</a></li>
-						<li><a href="services.html">Pop up calls</a></li>
-						<li><a href="services.html">Icloud</a></li>
-						<li><a href="services.html">Visa</a></li>
-						<li><a href="services.html">Kerala rent car</a></li>
-						<li><a href="services.html">Partners</a></li>
+						<li><a href="services.php">Vip numbers</a></li>
+						<li><a href="services.php">Fancy number</a></li>
+						<li><a href="services.php">Insurance</a></li>
+						<li><a href="services.php">Rent a car</a></li>
+						<li><a href="services.php">Massage</a></li>
+						<li><a href="services.php">Driver</a></li>
+						<li><a href="services.php">Fancy numbers</a></li>
+						<li><a href="services.php">Service</a></li>
+						<li><a href="services.php">Vip number</a></li>
+						<li><a href="services.php">Business</a></li>
+						<li><a href="services.php">Loans</a></li>
+						<li><a href="services.php">Cook</a></li>
+						<li><a href="services.php">Distributors</a></li>
+						<li><a href="services.php">Travel</a></li>
+						<li><a href="services.php">Services</a></li>
+						<li><a href="services.php">Pop up calls</a></li>
+						<li><a href="services.php">Icloud</a></li>
+						<li><a href="services.php">Visa</a></li>
+						<li><a href="services.php">Kerala rent car</a></li>
+						<li><a href="services.php">Partners</a></li>
 					</ul>
 				</div>	
 				<div class="popular-category">
 					<h4>Jobs</h4>
 					<ul>
-						<li><a href="jobs.html">Driver</a></li>
-						<li><a href="jobs.html">Fresher</a></li>
-						<li><a href="jobs.html">Driver job</a></li>
-						<li><a href="jobs.html">Delivery boy</a></li>
-						<li><a href="jobs.html">Kolkata</a></li>
-						<li><a href="jobs.html">Part time</a></li>
-						<li><a href="jobs.html">Teacher</a></li>
-						<li><a href="jobs.html">Driver jobs</a></li>
-						<li><a href="jobs.html">Office boy</a></li>
-						<li><a href="jobs.html">Data entry</a></li>
-						<li><a href="jobs.html">Delhi</a></li>
-						<li><a href="jobs.html">Computer operator</a></li>
-						<li><a href="jobs.html">Data entry</a></li>
-						<li><a href="jobs.html">Graphic designer</a></li>
-						<li><a href="jobs.html">Receptionist</a></li>
-						<li><a href="jobs.html">Mumbai</a></li>
-						<li><a href="jobs.html">Part time job</a></li>
-						<li><a href="jobs.html">Work from home</a></li>
-						<li><a href="jobs.html">Accounting finance</a></li>
-						<li><a href="jobs.html">Cook</a></li>
-						<li><a href="jobs.html">Airport	</a></li>
+						<li><a href="jobs.php">Driver</a></li>
+						<li><a href="jobs.php">Fresher</a></li>
+						<li><a href="jobs.php">Driver job</a></li>
+						<li><a href="jobs.php">Delivery boy</a></li>
+						<li><a href="jobs.php">Kolkata</a></li>
+						<li><a href="jobs.php">Part time</a></li>
+						<li><a href="jobs.php">Teacher</a></li>
+						<li><a href="jobs.php">Driver jobs</a></li>
+						<li><a href="jobs.php">Office boy</a></li>
+						<li><a href="jobs.php">Data entry</a></li>
+						<li><a href="jobs.php">Delhi</a></li>
+						<li><a href="jobs.php">Computer operator</a></li>
+						<li><a href="jobs.php">Data entry</a></li>
+						<li><a href="jobs.php">Graphic designer</a></li>
+						<li><a href="jobs.php">Receptionist</a></li>
+						<li><a href="jobs.php">Mumbai</a></li>
+						<li><a href="jobs.php">Part time job</a></li>
+						<li><a href="jobs.php">Work from home</a></li>
+						<li><a href="jobs.php">Accounting finance</a></li>
+						<li><a href="jobs.php">Cook</a></li>
+						<li><a href="jobs.php">Airport	</a></li>
 					</ul>
 				</div>	
 				<div class="popular-category">
 					<h4>Real Estate</h4>
 					<ul>
-						<li><a href="real-estate.html">House for sale</a></li>
-						<li><a href="real-estate.html">Rent</a></li>
-						<li><a href="real-estate.html">Wayanad</a></li>
-						<li><a href="real-estate.html">Thodupuzha</a></li>
-						<li><a href="real-estate.html">Kothamangalam</a></li>
-						<li><a href="real-estate.html">Muvattupuzha</a></li>
-						<li><a href="real-estate.html">Pala</a></li>
-						<li><a href="real-estate.html">Sale</a></li>
-						<li><a href="real-estate.html">Agriculture land</a></li>
-						<li><a href="real-estate.html">House for rent</a></li>
-						<li><a href="real-estate.html">Irinjalakuda</a></li>
-						<li><a href="real-estate.html">Kottayam</a></li>
-						<li><a href="real-estate.html">Powai</a></li>
-						<li><a href="real-estate.html">Changanacherry</a></li>
-						<li><a href="real-estate.html">Aluva</a></li>
-						<li><a href="real-estate.html">Shop</a></li>
-						<li><a href="real-estate.html">Land</a></li>
-						<li><a href="real-estate.html">House</a></li>
-						<li><a href="real-estate.html">Hyderabad</a></li>
-						<li><a href="real-estate.html">Pathanamthitta</a></li>
+						<li><a href="real-estate.php">House for sale</a></li>
+						<li><a href="real-estate.php">Rent</a></li>
+						<li><a href="real-estate.php">Wayanad</a></li>
+						<li><a href="real-estate.php">Thodupuzha</a></li>
+						<li><a href="real-estate.php">Kothamangalam</a></li>
+						<li><a href="real-estate.php">Muvattupuzha</a></li>
+						<li><a href="real-estate.php">Pala</a></li>
+						<li><a href="real-estate.php">Sale</a></li>
+						<li><a href="real-estate.php">Agriculture land</a></li>
+						<li><a href="real-estate.php">House for rent</a></li>
+						<li><a href="real-estate.php">Irinjalakuda</a></li>
+						<li><a href="real-estate.php">Kottayam</a></li>
+						<li><a href="real-estate.php">Powai</a></li>
+						<li><a href="real-estate.php">Changanacherry</a></li>
+						<li><a href="real-estate.php">Aluva</a></li>
+						<li><a href="real-estate.php">Shop</a></li>
+						<li><a href="real-estate.php">Land</a></li>
+						<li><a href="real-estate.php">House</a></li>
+						<li><a href="real-estate.php">Hyderabad</a></li>
+						<li><a href="real-estate.php">Pathanamthitta</a></li>
 					</ul>
 				</div>					
 				<div class="clearfix"></div>
@@ -974,22 +974,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Help</h4>
 							<ul>
-								<li><a href="howitworks.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
-								<li><a href="sitemap.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
-								<li><a href="faq.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
-								<li><a href="feedback.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
-								<li><a href="contact.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
-								<li><a href="typography.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
-								<li><a href="icons.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
+								<li><a href="howitworks.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>How it Works</a></li>						
+								<li><a href="sitemap.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Sitemap</a></li>
+								<li><a href="faq.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Faq</a></li>
+								<li><a href="feedback.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Feedback</a></li>
+								<li><a href="contact.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Contact</a></li>
+								<li><a href="typography.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Short codes</a></li>
+								<li><a href="icons.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Icons Page</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
 							<h4 class="footer-head">Information</h4>
 							<ul>
-								<li><a href="regions.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
-								<li><a href="terms.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
-								<li><a href="popular-search.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
-								<li><a href="privacy.html"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
+								<li><a href="regions.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Locations Map</a></li>	
+								<li><a href="terms.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Terms of Use</a></li>
+								<li><a href="popular-search.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Popular searches</a></li>	
+								<li><a href="privacy.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Privacy Policy</a></li>	
 							</ul>
 						</div>
 						<div class="col-md-3 wthree-footer-grid">
@@ -1019,7 +1019,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="agileits-footer-bottom text-center">
 			<div class="container">
 				<div class="w3-footer-logo">
-					<h1><a href="index.html"><span>Re</span>sale-v2</a></h1>
+					<h1><a href="index.php"><span>Re</span>sale-v2</a></h1>
 				</div>
 				<div class="w3-footer-social-icons">
 					<ul>

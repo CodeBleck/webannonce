@@ -2286,14 +2286,30 @@ span.total strong {
 .category {
     padding: 20px;
     border-bottom: 1px solid #eee;
+
+
 }
 .category-img {
 	float:left;
-	width:25%;
+	/*width:45%;*/
 	text-align: center;
+  box-shadow: 0px 2px 4px #d9e2ff;
+ margin-bottom: 10px;
+ padding: 10px;
 }
 .category-img img {
-	width:75%;
+	width:100%;
+  
+}
+.sub-categories li
+{
+  color: white;
+}
+figcaption
+{
+  color: #f14e62;
+  font-weight: bold;
+  margin-top: 20px;
 }
 .category-info{
 	float:left;
@@ -3480,6 +3496,12 @@ h3.rate {
     margin: 5px 0;
     font-size: 13px;
     line-height: 30px;
+}
+
+.empl
+{
+  text-align: justify;
+  
 }
 /*-- //single-page --*/
 
