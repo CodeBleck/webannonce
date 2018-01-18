@@ -589,10 +589,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 							<div class="sub-categories">
 								<ul>
-									<li><a href="furnitures.php">Sofa & Dining</a></li>
-									<li><a href="furnitures.php">Beds & Wardrobes</a></li>
-									<li><a href="furnitures.php">Home Decor & Garden</a></li>
-									<li><a href="furnitures.php">Other Household Items</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Sofa & Dining</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Beds & Wardrobes</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Home Decor & Garden</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Other Household Items</a></li>
 								</ul>
 							</div>
 						</div>
@@ -625,9 +625,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="mobiles.php">mobile phones</a></li>
-									<li><a href="mobiles.php">Tablets</a></li>
-									<li><a href="mobiles.php">Accessories</a></li>
+									<li class="btn btn-info"><a href="mobiles.php">mobile phones</a></li>
+									<li class="btn btn-info"><a href="mobiles.php">Tablets</a></li>
+									<li class="btn btn-info"><a href="mobiles.php">Accessories</a></li>
 								</ul>
 							</div>
 							
@@ -663,12 +663,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="electronics-appliances.php">Computers & accessories</a></li>
-									<li><a href="electronics-appliances.php">Tv - video - audio</a></li>
-									<li><a href="electronics-appliances.php">Cameras & accessories</a></li>
-									<li><a href="electronics-appliances.php">Games & Entertainment</a></li>
-									<li><a href="electronics-appliances.php">Fridge - AC - Washing Machine</a></li>
-									<li><a href="electronics-appliances.php">Kitchen & Other Appliances</a></li>
+									<li class="btn btn-info"><a href="electronics-appliances.php">Computers & accessories</a></li>
+									<li class="btn btn-info"><a href="electronics-appliances.php">Tv - video - audio</a></li>
+									<li class="btn btn-info"><a href="electronics-appliances.php">Cameras & accessories</a></li>
+									<li class="btn btn-info"><a href="electronics-appliances.php">Games & Entertainment</a></li>
+									<li class="btn btn-info"><a href="electronics-appliances.php">Fridge - AC - Washing Machine</a></li>
+									<li class="btn btn-info"><a href="electronics-appliances.php">Kitchen & Other Appliances</a></li>
 								</ul>
 							</div>
 						</div>
@@ -702,9 +702,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="cars.php">Commercial Vehicles</a></li>
-									<li><a href="cars.php">Other Vehicles</a></li>
-									<li><a href="cars.php">Spare Parts</a></li>
+									<li class="btn btn-info"><a href="cars.php">Commercial Vehicles</a></li>
+									<li class="btn btn-info"><a href="cars.php">Other Vehicles</a></li>
+									<li class="btn btn-info"><a href="cars.php">Spare Parts</a></li>
 								</ul>
 							</div>
 						</div>
@@ -738,12 +738,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="real-estate.php">Houses</a></li>
-									<li><a href="real-estate.php">Apartments</a></li>
-									<li><a href="real-estate.php">PG & Roommates</a></li>
-									<li><a href="real-estate.php">Land & Plots</a></li>
-									<li><a href="real-estate.php">Shops - Offices - Commercial Space</a></li>
-									<li><a href="real-estate.php">Vacation Rentals - Guest Houses</a></li>
+									<li class="btn btn-info"><a href="real-estate.php">Houses</a></li>
+									<li class="btn btn-info"><a href="real-estate.php">Apartments</a></li>
+									<li class="btn btn-info"><a href="real-estate.php">PG & Roommates</a></li>
+									<li class="btn btn-info"><a href="real-estate.php">Land & Plots</a></li>
+									<li class="btn btn-info"><a href="real-estate.php">Shops - Offices - Commercial Space</a></li>
+									<li class="btn btn-info"><a href="real-estate.php">Vacation Rentals - Guest Houses</a></li>
 								</ul>
 							</div>
 						</div>
@@ -777,10 +777,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="bikes.php">Motorcycles</a></li>
-									<li><a href="bikes.php">Scooters</a></li>
-									<li><a href="bikes.php">Bicycles</a></li>
-									<li><a href="bikes.php">Spare Parts</a></li>
+									<li class="btn btn-info"><a href="bikes.php">Motorcycles</a></li>
+									<li class="btn btn-info"><a href="bikes.php">Scooters</a></li>
+									<li class="btn btn-info"><a href="bikes.php">Bicycles</a></li>
+									<li class="btn btn-info"><a href="bikes.php">Spare Parts</a></li>
 								</ul>
 							</div>
 						</div>
@@ -815,10 +815,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="pets.php">Dogs</a></li>
-									<li><a href="pets.php">Aquariums</a></li>
-									<li><a href="pets.php">Pet Food & Accessories</a></li>
-									<li><a href="pets.php">Other Pets</a></li>
+									<li class="btn btn-info"><a href="pets.php">Dogs</a></li>
+									<li class="btn btn-info"><a href="pets.php">Aquariums</a></li>
+									<li class="btn btn-info"><a href="pets.php">Pet Food & Accessories</a></li>
+									<li class="btn btn-info"><a href="pets.php">Other Pets</a></li>
 								</ul>
 							</div>
 						</div>
@@ -850,11 +850,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="books-sports-hobbies.php">Books & Magazines</a></li>
-									<li><a href="books-sports-hobbies.php">Musical Instruments</a></li>
-									<li><a href="books-sports-hobbies.php">Sports Equipment</a></li>
-									<li><a href="books-sports-hobbies.php">Gym & Fitness</a></li>
-									<li><a href="books-sports-hobbies.php">Other Hobbies</a></li>
+									<li class="btn btn-info"><a href="books-sports-hobbies.php">Books & Magazines</a></li>
+									<li class="btn btn-info"><a href="books-sports-hobbies.php">Musical Instruments</a></li>
+									<li class="btn btn-info"><a href="books-sports-hobbies.php">Sports Equipment</a></li>
+									<li class="btn btn-info"><a href="books-sports-hobbies.php">Gym & Fitness</a></li>
+									<li class="btn btn-info"><a href="books-sports-hobbies.php">Other Hobbies</a></li>
 								</ul>
 							</div>
 						</div>
@@ -886,9 +886,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="fashion.php">Clothes</a></li>
-									<li><a href="fashion.php">Footwear</a></li>
-									<li><a href="fashion.php">Accessories</a></li>
+									<li class="btn btn-info"><a href="fashion.php">Clothes</a></li>
+									<li class="btn btn-info"><a href="fashion.php">Footwear</a></li>
+									<li class="btn btn-info"><a href="fashion.php">Accessories</a></li>
 								</ul>
 							</div>
 						</div>
@@ -919,9 +919,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="kids.php">Furniture And Toys</a></li>
-									<li><a href="kids.php">Prams & Walkers</a></li>
-									<li><a href="kids.php">Accessories</a></li>
+									<li class="btn btn-info"><a href="kids.php">Furniture And Toys</a></li>
+									<li class="btn btn-info"><a href="kids.php">Prams & Walkers</a></li>
+									<li class="btn btn-info"><a href="kids.php">Accessories</a></li>
 								</ul>
 							</div>
 						</div>
@@ -954,15 +954,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li><a href="services.php">Education & Classes</a></li>
-									<li><a href="services.php">Web Development</a></li>
-									<li><a href="services.php">Electronics & Computer Repair</a></li>
-									<li><a href="services.php">Maids & Domestic Help</a></li>
-									<li><a href="services.php">Health & Beauty</a></li>
-									<li><a href="services.php">Movers & Packers</a></li>
-									<li><a href="services.php">Drivers & Taxi</a></li>
-									<li><a href="services.php">Event Services</a></li>
-									<li><a href="services.php">Other Services</a></li>
+									<li class="btn btn-info"><a href="services.php">Education & Classes</a></li>
+									<li class="btn btn-info"><a href="services.php">Web Development</a></li>
+									<li class="btn btn-info"><a href="services.php">Electronics & Computer Repair</a></li>
+									<li class="btn btn-info"><a href="services.php">Maids & Domestic Help</a></li>
+									<li class="btn btn-info"><a href="services.php">Health & Beauty</a></li>
+									<li class="btn btn-info"><a href="services.php">Movers & Packers</a></li>
+									<li class="btn btn-info"><a href="services.php">Drivers & Taxi</a></li>
+									<li class="btn btn-info"><a href="services.php">Event Services</a></li>
+									<li class="btn btn-info"><a href="services.php">Other Services</a></li>
 								</ul>
 							</div>
 						</div>
