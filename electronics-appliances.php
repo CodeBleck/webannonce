@@ -1092,12 +1092,12 @@ var elem=$('#container ul');
 						</li>
 						<li role="presentation" class="next">
 						  <a href="#profile" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile">
-							<span class="text">Ads with Photos</span>
+							<span class="text">Electroniques</span>
 						  </a>
 						</li>
 						<li role="presentation">
 						  <a href="#samsa" role="tab" id="samsa-tab" data-toggle="tab" aria-controls="samsa">
-							<span class="text">Company</span>
+							<span class="text">Electromenagers</span>
 						  </a>
 						</li>
 					  </ul>

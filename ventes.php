@@ -589,10 +589,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 							<div class="sub-categories">
 								<ul>
-									<li class="btn btn-info"><a href="furnitures.php">Sofa & Dining</a></li>
-									<li class="btn btn-info"><a href="furnitures.php">Beds & Wardrobes</a></li>
-									<li class="btn btn-info"><a href="furnitures.php">Home Decor & Garden</a></li>
-									<li class="btn btn-info"><a href="furnitures.php">Other Household Items</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Bureau</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Salon</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Cuisine</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Chambre</a></li>
+									<li class="btn btn-info"><a href="furnitures.php">Decorations</a></li>
 								</ul>
 							</div>
 						</div>
@@ -625,9 +626,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li class="btn btn-info"><a href="mobiles.php">mobile phones</a></li>
+									<li class="btn btn-info"><a href="mobiles.php">Telephones Tactiles</a></li>
+									<li class="btn btn-info"><a href="mobiles.php">Telephones Claviers</a></li>
 									<li class="btn btn-info"><a href="mobiles.php">Tablets</a></li>
-									<li class="btn btn-info"><a href="mobiles.php">Accessories</a></li>
+									<li class="btn btn-info"><a href="mobiles.php">Accessoires</a></li>
 								</ul>
 							</div>
 							
@@ -702,9 +704,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</figure>
 							<div class="sub-categories">
 								<ul>
-									<li class="btn btn-info"><a href="cars.php">Commercial Vehicles</a></li>
-									<li class="btn btn-info"><a href="cars.php">Other Vehicles</a></li>
-									<li class="btn btn-info"><a href="cars.php">Spare Parts</a></li>
+									<li class="btn btn-info"><a href="cars.php">Vehicules Legers</a></li>
+									<li class="btn btn-info"><a href="cars.php">Motos</a></li>
+									<li class="btn btn-info"><a href="cars.php">Bus</a></li>
+									<li class="btn btn-info"><a href="cars.php">Camions</a></li>
+									<li class="btn btn-info"><a href="cars.php">Accessoires</a></li>
 								</ul>
 							</div>
 						</div>
