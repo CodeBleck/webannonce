@@ -2284,32 +2284,19 @@ span.total strong {
     font-weight: normal;
 }
 .category {
-    padding: 10px;
+    padding: 20px;
     border-bottom: 1px solid #eee;
 }
 .category-img {
-	/*float:left;
-	width: 50%;
-  height: 40%;*/
+	float:left;
+	width:25%;
 	text-align: center;
-  margin-bottom: 5%;
-  box-shadow: 5px 5px 5px #ff725b;
-}
-figcaption
-{
-  color: #54abae;
-  font-weight: bold;
-  margin-top: 10px;
 }
 .category-img img {
-	width: 100%;
-  height: 70%;
-  border-radius: 2px;
-  margin-bottom: 10px;
-  box-shadow: 2px 2px 2px #888888;
+	width:75%;
 }
 .category-info{
-	
+	float:left;
 	width:30%;
 }
 .category-info h4 {

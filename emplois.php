@@ -129,11 +129,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <form class="form-horizontal" action="#" method="get">
 										<div class="form-group">
 											<select id="basic2" class="show-tick form-control" multiple>
-												<optgroup label="Popular Cities">
-													<option selected style="display:none;color:#eee;">Select City</option>
-													<option>Birmingham</option>
-													<option>Anchorage</option>
-													<option>Phoenix</option>
+												<optgroup label="Ville Populaire">
+													<option selected style="display:none;color:#eee;">Selectionner votre ville</option>
+													<option>Douala</option>
+													<option>Yaounde</option>
+													<!--<option>Phoenix</option>
 													<option>Little Rock</option>
 													<option>Los Angeles</option>
 													<option>Denver</option>
@@ -144,22 +144,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 													<option>Honolulu</option>
 													<option>Boise</option>
 													<option>Chicago</option>
-													<option>Indianapolis</option>
+													<option>Indianapolis</option>-->
 												</optgroup>
-													<optgroup label="Alabama">
-														<option>Birmingham</option>
-														<option>Montgomery</option>
-														<option>Mobile</option>
-														<option>Huntsville</option>
-														<option>Tuscaloosa</option>
+													<optgroup label="Douala">
+														<option>Akwa</option>
+														<option>Bounamoussadi</option>
+														<option>Bonandjo</option>
+														<option>Bonapriso</option>
+														<option>Logpom</option>
+														<option>Deido</option>
 													</optgroup>
-													<optgroup label="Alaska">
+													<!--<optgroup label="Alaska">
 														<option>Anchorage</option>
 														<option>Fairbanks</option>
 														<option>Juneau</option>
 														<option>Sitka</option>
 														<option>Ketchikan</option>
-													</optgroup>
+													</optgroup>-->
 													<optgroup label="Arizona">
 														<option>Phoenix</option>
 														<option>Tucson</option>
@@ -578,40 +579,116 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<a class="w3ls-ads" href="all-classifieds.html">View all Ads</a>
 					</div>
 					<div class="resp-tabs-container hor_1" id="a1">
-						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>All USA</strong> (Select your city to see local ads)</span>
+						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>Tous le CAMEROUN</strong> (Selectionner votre localiter)</span>
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat1.png" title="image" alt="" />
+						<!--<div class="container">-->
+							<div class="category container">
+								<div class="row" >
+									<div class="col-md-6" style="border: 1px solid #DDCFCF">
+										<a>Chauffeur PL et SPL</a>
+										<p>17.01.2018 | N.C.
+											Nous recherchons des Chauffeurs PL et SPL que nous transmettrons à nos clients dans le cadre de leurs futures campagnes de recrutement...
+											Région de : Douala</p>
+									</div>
+								
 								</div>
-								<div class="category-info">
+									<div class="category ">
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Responsable de Département Logistique (H/F)</a>
+												<p>16.01.2018 | ACTION CONTRE LA FAIM
+												Missions :- Assurer la gestion de la logistique- Mettre en œuvre et garantir la performance de la chaîne d’approvisionnement- Mettre...
+												Région de : Yaoundé</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>RESPONSABLE ACHATS REGION CEDEAO</a>
+												<p>10.01.2018 | FED AFRICA
+
+													Missions :1) Organisation et Management* Rédiger, mettre à jour et veiller au respect des process achats.* Manager et encadrer ses équipes...
+													Région de : International</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>DIRECTEUR LOGISTIQUE</a>
+												<p>10.01.2018 | FED AFRICA
+													Missions :Commercial:Collecter les besoins pour l'élaboration du budget.Négocier les mises à disposition des produits.Veiller au...
+													Région de : International</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>DIRECTEUR TECHNIQUE</a>
+													<p>08.01.2018 | ACTION CONTRE LA FAIM
+														Missions :Gérer la logistique de la capitale;Gestion des équipements selon le partage des tâches avec le Coordinateur Logistique;Encadrer l...
+														Région de : Yaoundé</p>
+										</div>
+									</div>
+									
+									
+								<!--<div class="category-info">
 									<h4>Mobiles</h4>
 									<span>5,12,850 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+						</div>
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="mobiles.html">mobile phones</a></li>
 									<li><a href="mobiles.html">Tablets</a></li>
 									<li><a href="mobiles.html">Accessories</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--achat transport-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat2.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">
+								<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Responsable de Département Logistique (H/F)</a>
+												<p>16.01.2018 | ACTION CONTRE LA FAIM
+												Missions :- Assurer la gestion de la logistique- Mettre en œuvre et garantir la performance de la chaîne d’approvisionnement- Mettre...
+												Région de : Yaoundé</p>
+										</div>
+							  </div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>RESPONSABLE ACHATS REGION CEDEAO</a>
+												<p>10.01.2018 | FED AFRICA
+
+													Missions :1) Organisation et Management* Rédiger, mettre à jour et veiller au respect des process achats.* Manager et encadrer ses équipes...
+													Région de : International</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>DIRECTEUR LOGISTIQUE</a>
+												<p>10.01.2018 | FED AFRICA
+													Missions :Commercial:Collecter les besoins pour l'élaboration du budget.Négocier les mises à disposition des produits.Veiller au...
+													Région de : International</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>DIRECTEUR TECHNIQUE</a>
+													<p>08.01.2018 | ACTION CONTRE LA FAIM
+														Missions :Gérer la logistique de la capitale;Gestion des équipements selon le partage des tâches avec le Coordinateur Logistique;Encadrer l...
+														Région de : Yaoundé</p>
+										</div>
+									</div>
+								<!--<div class="category-info">
 									<h4>Electronics & Appliances</h4>
 									<span>2,01,850 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="electronics-appliances.html">Computers & accessories</a></li>
 									<li><a href="electronics-appliances.html">Tv - video - audio</a></li>
@@ -620,104 +697,259 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<li><a href="electronics-appliances.html">Fridge - AC - Washing Machine</a></li>
 									<li><a href="electronics-appliances.html">Kitchen & Other Appliances</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--commercial ventes-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat3.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">				
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Ingénieur Technico-Commercial</a>
+												<p>Nous recrutons pour le compte de notre client qui opère dans le secteur de l'industrie des Ingénieurs Technico-Commerciaux.Nous...
+													Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Contrôleur de Gestion</a>
+												<p>17.01.2018 | UNION CAMEROUNAISE DES BRASSERIES DU CAMEROUN -UCB
+													Missions :Lead key marketing strategy projects including brand architecture, visual identity development and namingDevelop an 18 month, 24...
+													Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>REGIONAL SALES MANAGER</a>
+												<p>17.01.2018 | UNION CAMEROUNAISE DES BRASSERIES DU CAMEROUN -UCB
+												Missions :Business Development – You will be tasked with developing and growing new markets through active prospecting of...
+												Région de : Douall</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>RESPONSABLE RH (H/F) – YAOUNDÉ</a>
+													<p>Missions :Rattaché(e) à la Direction des RH, vous aurez pour principale mission la détermination des besoins en RH relatifs aux différentes...
+													Région de : Yaoundé</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Cars</h4>
 									<span>1,98,080 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="cars.html">Commercial Vehicles</a></li>
 									<li><a href="cars.html">Other Vehicles</a></li>
 									<li><a href="cars.html">Spare Parts</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--gestioin comptabilites-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat4.png" title="image" alt="" />
+							<div class="category container">
+								<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Développeur Informatique Microsoft .NET (H/F)</a>
+												<p>17.01.2018 | RH RECRUTEMENT
+													Nous recherchons des profils / CVs des Développeurs Informatique Microsoft .NET (H/F) que nous transmettrons à nos clients dans le...
+													Région de : Ebolowa</p>
+										</div>
+							  </div>
+							  
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Full Stack Web Developer</a>
+												<p>16.01.2018 | ETERNAL COMPANY LIMITED
+													Missions :The general tasks assigned to this role consist in:• Designing the overall architecture of web applications.•...
+													Région de : Douala</p>
+										</div>
 								</div>
-								<div class="category-info">
+									
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Consultant SAP Modules FI, CO, SD, MM, BI, CRM, HR (H/F)</a>
+												<p>16.01.2018 | N.C.
+													Nous recherchons des Consultants SAP Modules FI, CO, SD, MM, BI, CRM, HR (H/F) que nous transmettrons à nos clients dans le cadre de...
+													Région de : Douala</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Assistante Administrative</a>
+													<p>15.01.2018 | ECONSULTING INTERNATIONAL
+														Econsulting International recrute pour ses besoins une Assistante Administrative.En plus des connaissances dans le traitement administratif...
+														Région de : Yaoundé</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Bikes</h4>
 									<span>6,17,568 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="bikes.html">Motorcycles</a></li>
 									<li><a href="bikes.html">Scooters</a></li>
 									<li><a href="bikes.html">Bicycles</a></li>
 									<li><a href="bikes.html">Spare Parts</a></li>
 								</ul>
+							</div>-->
 							</div>
-						</div>
+						</div> <!--informatique et nouvelle technologie-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat5.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Brand Manager</a>
+												<p>17.01.2018 | UNION CAMEROUNAISE DES BRASSERIES DU CAMEROUN -UCB
+													Missions :Lead key marketing strategy projects including brand architecture, visual identity development and namingDevelop an 18 month, 24...
+													Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Coordinateur H/F Bureau Douala, Gestion de Programme</a>
+												<p>17.01.2018 | PLAN CAMEROON
+												Missions :Sous la supervision du Directeur du Programme social Plan/UNHCR,  le/la Coordonnateur/Coordonnatrice de bureau est Chargé(e...
+												Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>IFS COMPETENCY MANAGER</a>
+												<p>12.01.2018 | ADRH APAVE
+													Reporting to IT Director, the incumbent will be in charge of implementing IFS Applications 9 across Head Office in Europe and subsidiaries...
+													Région de : Douala</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Directeur d'Exploitation H/F</a>
+													<p>12.01.2018 | ADRH APAVE
+														Missions :Management industrielle et logistiqueConcevoir et organiser la chaîne logistiqueÉtudier la faisabilité de réalisation des...
+														Région de : Douala</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Furniture</h4>
 									<span>1,05,168 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="furnitures.html">Sofa & Dining</a></li>
 									<li><a href="furnitures.html">Beds & Wardrobes</a></li>
 									<li><a href="furnitures.html">Home Decor & Garden</a></li>
 									<li><a href="furnitures.html">Other Household Items</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--mangement,direction-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat6.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Stagiaire Marketing et Communication - Douala</a>
+												<p>17.01.2018 | VAIRIFIED
+													Missions :Le stagiaire marketing et communication est en charge des missions suivantes :Développement du portefeuille client et...
+													Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>TECHNICIEN STAGIAIRE - AUDIOVISUELS - CADREUR / MONTEUR VIDÉOS</a>
+												<p>16.01.2018 | DESANNE SAS
+													Nous recrutons 02 Techniciens Stagiaires - Audiovisuels - Cadreurs / Monteurs Vidéos.Vous intégrez une équipe projet de taille humaine....
+													Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Hôtesse d'Accueil</a>
+												<p>16.01.2018 | STAR AGENCY EVENTS
+													Dans le but de constituer son équipe, STAR AGENCY EVENTS recherche des Hôtesses d'Accueil pour ses prestations auprès des clients...
+													Région de : Yaoundé</p>
+										</div>
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Cadre Commercial</a>
+													<p>15.01.2018 | SCI BLUE OCEAN PROPERTIES
+													LA SCI BLUE OCEAN recrute des Cadres Commerciaux.Missions :Division ventes classiquesImplémenter et contrôler l’exécution de la...
+													Région de : Douala - Yaoundé & International</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Pets</h4>
 									<span>1,77,816 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="pets.html">Dogs</a></li>
 									<li><a href="pets.html">Aquariums</a></li>
 									<li><a href="pets.html">Pet Food & Accessories</a></li>
 									<li><a href="pets.html">Other Pets</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--maketing et communication -->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat7.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Projects Coordinator for the Cash Based Transfer, General Food</a>
+												<p>17.01.2018 | PLAN CAMEROON
+													This project will be implemented in the Far North region and East Region targeting about Refugees and IDPs respectively in Kousseri, Mora...
+													Région de : Bertoua - Garoua & Ngaoundéré</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Project Coordinator for the Blanket Supplementary Feeding Program (BSF</a>
+												<p>17.01.2018 | PLAN CAMEROON
+												This project will be implemented with Blanket Supplementary Feeding Program (BSFP) in the Far North region targeting beneficiaries 6 to 23...
+												Région de : Garoua & Ngaoundéré</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Account Assistant for the Cash Based Transfer, Multipurpose Cash B</a>
+											<p>17.01.2018 | PLAN CAMEROON
+												We recruit 04 Accounts Assistant for the Cash Based Transfer, Multipurpose Cash B.This project will be implemented in the Far North region...
+												Région de : Bafoussam - Bamenda - Bertoua - Garoua & Ngaoundéré</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Point Focal Secours Distribution</a>
+													<p>15.01.2018 | COMITÉ INTERNATIONAL DE LA CROIX-ROUGE
+														Missions :Représenter la Coordination Centrale auprès des autorités et partenaires dans sa zone de compétence ;Gérer à bon escient les...
+														Région de : Maroua & Ngaoundéré</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Books, Sports & Hobbies</h4>
 									<span>9,58,458 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="books-sports-hobbies.html">Books & Magazines</a></li>
 									<li><a href="books-sports-hobbies.html">Musical Instruments</a></li>
@@ -725,61 +957,154 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<li><a href="books-sports-hobbies.html">Gym & Fitness</a></li>
 									<li><a href="books-sports-hobbies.html">Other Hobbies</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--metiers de la sante et du social-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat8.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Assistant des Programmes du Projet au sein des Unités des Programme</a>
+												<p>17.01.2018 | PLAN CAMEROON
+													Dans le cadre du Projet « Don de l’Espoir » financé par la Fondation Don de l’Espoir à travers Plan...
+													Région de : Bamenda - Bertoua - Garoua & Ngaoundéré</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Assistant Protection et SGBV, Protection de l'Enfant</a>
+												<p>17.01.2018 | PLAN CAMEROON
+													Le titulaire travaillera en étroite collaboration avec les responsables de toutes les composantes du programme ainsi qu'avec les...
+													Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Responsable de la Communication</a>
+												<p>17.01.2018 | NEW AFRICA PAYMENTS
+													MissionAu sein de la Direction Marketing et Communication, vous aurez pour missions de/d’:Mettre en œuvre le plan de...
+													Région de : Douala</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Chargé d’Accueil (H/F)</a>
+													<p>17.01.2018 | RH RECRUTEMENT
+														Nous recherchons des profils / CVs des Chargés d’Accueil (H/F) que nous transmettrons à nos clients dans le cadre de leurs futures...
+														Région de : Garoua</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Fashion</h4>
 									<span>3,52,345 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="fashion.html">Clothes</a></li>
 									<li><a href="fashion.html">Footwear</a></li>
 									<li><a href="fashion.html">Accessories</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--metiers des services -->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat9.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Opérateur / Opératrice de Saisie</a>
+												<p>18.01.2018 | N.C.
+													Nous recherchons des profils / CVs des Opérateurs / Opératrices de Saisie que nous transmettrons à nos clients dans le cadre de leurs...
+													Région de : Garoua</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Métreur (H/F)</a>
+												<p>16.01.2018 | N.C.
+													Nous recherchons des profils / CVs des Métreurs (H/F) que nous transmettrons à nos clients dans le cadre de leurs futures campagnes de...
+													Région de : Garoua</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Cadre Commercial</a>
+												<p>15.01.2018 | SCI BLUE OCEAN PROPERTIES
+													LA SCI BLUE OCEAN recrute des Cadres Commerciaux.Missions :Division ventes classiquesImplémenter et contrôler l’exécution de la...
+													Région de : Douala - Yaoundé & International</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Ingénieur Génie Civil du BTP</a>
+													<p>15.01.2018 | LOGISTICS SARL
+														ENTREPRISE : Logistics SarlPour le développement de notre entreprise, nous recherchons un/une (02) Ingénieurs Génie Civil du BTP/...
+														Région de : Yaoundé</p>
+											</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Kids</h4>
 									<span>8,45,298 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="kids.html">Furniture And Toys</a></li>
 									<li><a href="kids.html">Prams & Walkers</a></li>
 									<li><a href="kids.html">Accessories</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--metiers BTP-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat10.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Chef de quart</a>
+												<p>17.01.2018 | ATLANTIC COCOA CORPORATION
+													Une importante entreprise du milieu agroalimentaire, dans le cadre du développement de ses activités au Cameroun recrute : Quatre...
+													Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Ingénieur Technico-Commercial</a>
+												<p>16.01.2018 | RH RECRUTEMENT
+													Nous recherchons des profils / CVs des Ingénieurs Technico-Commerciaux que nous transmettrons à nos clients dans le cadre de leurs...
+													Région de : Garoua</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Technicien Mécanique (H/F)</a>
+												<p>12.01.2018 | N.C.
+													Nous recherchons des profils / CVs des Techniciens Mécaniques (H/F) que nous transmettrons à nos clients dans le cadre de leurs...
+													Région de : Garoua</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>COORDINATEUR QUALITÉ H/F – DOUALA</a>
+													<p>10.01.2018 | MELT GROUP
+														Missions :Rattaché(e) à la Direction des Opérations à Douala, vos principales missions porteront sur :Le maintien à jour du système...
+														Région de : Douala</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Services</h4>
 									<span>7,58,867 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="services.html">Education & Classes</a></li>
 									<li><a href="services.html">Web Development</a></li>
@@ -791,21 +1116,52 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<li><a href="services.html">Event Services</a></li>
 									<li><a href="services.html">Other Services</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--production maintenance-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat11.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Chargé / Chargée de Suivi et Évaluation</a>
+												<p>13.12.2017 | DANISH REFUGEE COUNCIL
+												Le Conseil Danois pour les Réfugiés (DRC) est une organisation privée, indépendante, à but non lucratif fondée en 1956 par un consortium de...
+												Région de : Ngaoundéré</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>POINT FOCAL SÉCURITÉ</a>
+												<p>13.12.2017 | DANISH REFUGEE COUNCIL
+													Missions :Conduit l’analyse de risques de l’environnement opérationnel, et diffuse les alertes « Sécurité » aux...
+													Région de : Ngaoundéré</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Project Coordinator for the Blanket Supplementary Feeding Program (BSF</a>
+												<p>17.01.2018 | PLAN CAMEROON
+													This project will be implemented with Blanket Supplementary Feeding Program (BSFP) in the Far North region targeting beneficiaries 6 to 23...
+													Région de : Garoua & Ngaoundéré</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Coordinateur H/F Bureau Douala, Gestion de Programme</a>
+													<p>17.01.2018 | PLAN CAMEROON
+														Missions :Sous la supervision du Directeur du Programme social Plan/UNHCR,  le/la Coordonnateur/Coordonnatrice de bureau est Chargé(e...
+														Région de : Douala</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Jobs</h4>
 									<span>5,74,547 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="jobs.html">Customer Service</a></li>
 									<li><a href="jobs.html">IT</a></li>
@@ -822,21 +1178,52 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<li><a href="jobs.html">Part - Time</a></li>
 									<li><a href="jobs.html">Other Jobs</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div>  <!--gestion des project-->
 						<div>
-							<div class="category">
-								<div class="category-img">
-									<img src="images/cat12.png" title="image" alt="" />
-								</div>
-								<div class="category-info">
+							<div class="category container">	
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Moniteur Programme – Protection</a>
+												<p>05.12.2017 | DANISH REFUGEE COUNCIL
+													Missions :Sous la supervision directe du superviseur de protection, les moniteurs de protection sont chargés de la mise en œuvre directe du...
+													Région de : Ngaoundéré</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>RESPONSABLE RH (H/F) – YAOUNDÉ</a>
+												<p>17.01.2018 | MELT GROUP
+													Missions :Rattaché(e) à la Direction des RH, vous aurez pour principale mission la détermination des besoins en RH relatifs aux différentes...
+													Région de : Yaoundé</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Enseignant Expérimenté d'anglais professionnel</a>
+												<p>16.01.2018 | NOCEA GROUP
+													Nous recrutons des Enseignants Expérimentés d'anglais professionnel (préparation au TOEFL, Etc. et d'allemand préparation ZDAF...
+													Région de : Yaoundé</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Enseignant d'Anglais et d'Allemand</a>
+													<p>15.01.2018 | NOCEA GROUP
+														Nous recrutons des Enseignants d'Anglais et d'Allemand. 
+														Région de : Yaoundé</p>
+											</div>
+									</div>
+								
+								<!--<div class="category-info">
 									<h4>Real Estate</h4>
 									<span>98,156 Ads</span>
 									<a href="all-classifieds.html">View all Ads</a>
-								</div>
+								</div>-->
 								<div class="clearfix"></div>
 							</div>
-							<div class="sub-categories">
+							<!--<div class="sub-categories">
 								<ul>
 									<li><a href="real-estate.html">Houses</a></li>
 									<li><a href="real-estate.html">Apartments</a></li>
@@ -845,8 +1232,116 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<li><a href="real-estate.html">Shops - Offices - Commercial Space</a></li>
 									<li><a href="real-estate.html">Vacation Rentals - Guest Houses</a></li>
 								</ul>
-							</div>
-						</div>
+							</div>-->
+						</div> <!--RH,juridictioin-->
+						<div>
+							<div class="category container">	
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Opérateur / Opératrice de Saisie</a>
+												<p>18.01.2018 | N.C.
+													Nous recherchons des profils / CVs des Opérateurs / Opératrices de Saisie que nous transmettrons à nos clients dans le cadre de leurs...
+													Région de : Garoua</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Assistant des Programmes du Projet au sein des Unités des Programme</a>
+												<p>17.01.2018 | PLAN CAMEROON
+													Dans le cadre du Projet « Don de l’Espoir » financé par la Fondation Don de l’Espoir à travers Plan...
+													Région de : Bamenda - Bertoua - Garoua & Ngaoundéré</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Assistant Protection et SGBV, Protection de l'Enfant</a>
+												<p>17.01.2018 | PLAN CAMEROON
+													Le titulaire travaillera en étroite collaboration avec les responsables de toutes les composantes du programme ainsi qu'avec les...
+													Région de : Douala</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Chargé d’Accueil (H/F)</a>
+													<p>17.01.2018 | RH RECRUTEMENT
+														Nous recherchons des profils / CVs des Chargés d’Accueil (H/F) que nous transmettrons à nos clients dans le cadre de leurs futures...
+														Région de : Garoua</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
+									<h4>Real Estate</h4>
+									<span>98,156 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>-->
+								<div class="clearfix"></div>
+							</div> <!-- secretariat artisanal-->
+							<!--<div class="sub-categories">
+								<ul>
+									<li><a href="real-estate.html">Houses</a></li>
+									<li><a href="real-estate.html">Apartments</a></li>
+									<li><a href="real-estate.html">PG & Roommates</a></li>
+									<li><a href="real-estate.html">Land & Plots</a></li>
+									<li><a href="real-estate.html">Shops - Offices - Commercial Space</a></li>
+									<li><a href="real-estate.html">Vacation Rentals - Guest Houses</a></li>
+								</ul>
+							</div>-->
+						</div>  <!-- secretariat artisanal-->
+						<div>
+							<div class="category container">	
+									<div class="row">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Technicien Polyvalent (Ménage, Cuisine, Repassage) H/F</a>
+												<p>05.01.2018 | SHLIFE SAS
+													Missions :Entretien habituel d’un local classiquePrendre en compte les consignes de l’employeurLe respect des normes d’...
+													Région de : Yaoundé</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Menagère/ Bali</a>
+												<p>29.12.2017 | MAYE | SELF-EMPLOYMENT
+													Savoir faire le menagemaitrise de la cuisine africaine et occidentaleBonne gestion du budget de la ration alimentaireBonne gouvernante
+													Région de : Douala</p>
+										</div>
+									</div>
+									<div class="row" style="margin-top: 20px">
+										<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+											<a>Directeur / Directrice d'Hôtel</a>
+												<p>27.12.2017 | RH RECRUTEMENT
+													Nous recherchons des profils / CVs des Directeurs / Directrices d'Hôtel que nous transmettrons à nos clients dans le cadre de...
+													Région de : Douala</p>
+										</div>
+										
+									</div>
+										<div class="row" style="margin-top: 20px">
+											<div class="col-md-6 " style="border: 1px solid #DDCFCF">
+												<a>Réceptionniste Structure d’Hébergement</a>
+													<p>22.12.2017 | SOREPCO
+													Missions :- Assurer l'accueil des clients à l'hôtel tout au long du séjour et leur fournir toute information nécessaire au bon...
+													Région de : Douala</p>
+										</div>
+									</div>
+								
+								<!--<div class="category-info">
+									<h4>Real Estate</h4>
+									<span>98,156 Ads</span>
+									<a href="all-classifieds.html">View all Ads</a>
+								</div>-->
+								<div class="clearfix"></div>
+							</div> <!-- secretariat artisanal-->
+							<!--<div class="sub-categories">
+								<ul>
+									<li><a href="real-estate.html">Houses</a></li>
+									<li><a href="real-estate.html">Apartments</a></li>
+									<li><a href="real-estate.html">PG & Roommates</a></li>
+									<li><a href="real-estate.html">Land & Plots</a></li>
+									<li><a href="real-estate.html">Shops - Offices - Commercial Space</a></li>
+									<li><a href="real-estate.html">Vacation Rentals - Guest Houses</a></li>
+								</ul>
+							</div>-->
+						</div> <!--tourisme et hotelerie-->
 					</div>
 					<div class="clearfix"></div>
 				</div>

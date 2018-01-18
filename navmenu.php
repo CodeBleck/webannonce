@@ -1,4 +1,4 @@
-<nav class="menu" style="overflow-y: auto; overflow-x: hidden; height: inherit;">
+<nav class="menu" style="overflow: auto">
 					<div class="icon-list nav-tabs">
 						<div class="row" >
 							<div class="col-md-12">
@@ -8,22 +8,20 @@
 									</a>
 								</li>
 							</div>
-							<div class="collapse col-md-12 " id="vente">
-									<ul class="list-unstyled">
-										<li><a href="ventes.php#parentVerticalTab1">Immobiliers</a></li>
-										<li><a href="ventes.php#parentVerticalTab2">Mobiles</a></li>
-										<li><a href="ventes.php#parentVerticalTab3">Electroniques & Electromenenagers</a></li>
-
-										<li><a href="ventes.php#parentVerticalTab4">Automobiles</a></li>
-										<li><a href="ventes.php#parentVerticalTab5">Maisons et terrains</a></li>
-										<li><a href="ventes.php#parentVerticalTab6">Cosmetiques</a></li>
-										
-										<li><a href="ventes.php#parentVerticalTab7">Animaux domestiques</a></li>
-										<li><a href="ventes.php#parentVerticalTab8">Fournitures scolaires</a></li>
-										<li><a href="ventes.php#parentVerticalTab9">Vestmentaires</a></li>
-										<li><a href="ventes.php#parentVerticalTab10">Jouets</a></li>
-										<li><a href="ventes.php#parentVerticalTab11">Bijoux</a></li>
-										
+							<div class="collapse-in in col-md-12 " id="vente">
+									<ul class="list-unstyled ">
+										<li><a href="#">Immobiliers</a></li>
+										<li><a href="#">Electroniques</a></li>
+										<li><a href="#">Automobiles</a></li>
+										<li><a href="#">Cosmetiques</a></li>
+										<li><a href="#">Bijoux</a></li>
+										<li><a href="#">Animaux domestiques</a></li>
+										<li><a href="#">Fournitures scolaires</a></li>
+										<li><a href="#">Vestmentaires</a></li>
+										<li><a href="#">Jouets</a></li>
+										<li><a href="#">Electromeneagers</a></li>
+										<li><a href="#">Jobs</a></li>
+										<li><a href="#">Maisons et terrains</a></li>
 									</ul>
 							</div>
 						</div>
@@ -36,13 +34,13 @@
 									</a>
 								</li>
 							</div>
-							<div class="collapse-in col-md-12" id="location">
-								<ul class="list-unstyled">
-									<li><a href="locations.php#parentVerticalTab1">Maisons</a></li>
-									<li><a href="locations.php#parentVerticalTab2">Vehicules</a></li>
-									<li><a href="locations.php#parentVerticalTab3">Terrains</a></li>
-									<li><a href="locations.php#parentVerticalTab4">Salles</a></li>
-									<li><a href="locations.php#parentVerticalTab5">Chaises</a></li>
+							<div class="collpse-in col-md-12" id="location">
+								<ul >
+									<li><a href="#">Electronique</a></li>
+									<li><a href="#">Immobiliers</a></li>
+									<li><a href="#">Vestimentaires</a></li>
+									<li><a href="#">Cosmetiques</a></li>
+									<li><a href="#">Bijoux</a></li>
 								</ul>
 							</div>
 						</div>
@@ -55,9 +53,8 @@
 									</a>
 								</li>
 							</div>
-
 							<div class="collpse-in col-md-12" id="emploi">
-								<ul class="list-unstyled">
+								<ul >
 									<li><a href="emplois.php#parentVerticalTab1">Achat,transport,Logistique</a></li>
 									<li><a href="emplois.php#parentVerticalTab2">Commercial,Ventes</a></li>
 									<li><a href="emplois.php#parentVerticalTab3">Gestions,comptabilites,finnances</a></li>
@@ -72,7 +69,6 @@
 									<li><a href="emplois.php#parentVerticalTab12">RH,juridique,formation</a></li>
 									<li><a href="emplois.php#parentVerticalTab13">secretariat artisanale</a></li>
 									<li><a href="emplois.php#parentVerticalTab14">Tourisme,hoteleries,restauration</a></li>
-
 								</ul>
 							</div>
 						</div>
@@ -85,8 +81,8 @@
 								</a>
 							</li>
 							</div>
-							<div  class="collapse-in col-md-12" id="formation">
-								<ul class="list-unstyled">
+							<div  class="collpse-in col-md-12" id="formation">
+								<ul >
 									<li><a href="#">Electronique</a></li>
 									<li><a href="#">Immobiliers</a></li>
 									<li><a href="#">Vestimentaires</a></li>
