@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-<nav class="menu" style="overflow: auto">
-					<div class="icon-list nav-tabs">
-=======
+
 <nav class="menu" style="overflow-y: auto; overflow-x: hidden; height: inherit;">
 					<div class="icon-list nav-tabs" id="accordion">
->>>>>>> b9980042fe5749862a3213ea63803664a6acd419
+
 						<div class="row" >
 							<div class="col-md-12">
 							<div>
@@ -39,15 +36,7 @@
 									</a>
 								</li>
 							</div>
-<<<<<<< HEAD
-							<div class="collpse-in col-md-12" id="location">
-								<ul >
-									<li><a href="#">Electronique</a></li>
-									<li><a href="#">Immobiliers</a></li>
-									<li><a href="#">Vestimentaires</a></li>
-									<li><a href="#">Cosmetiques</a></li>
-									<li><a href="#">Bijoux</a></li>
-=======
+
 							<div class="collapse col-md-12" id="location">
 								<ul class="list-unstyled">
 									<li ><a href="locations.php#parentVerticalTab1">Maisons</a></li>
@@ -55,7 +44,7 @@
 									<li><a href="locations.php#parentVerticalTab3">Terrains</a></li>
 									<li><a href="locations.php#parentVerticalTab4">Salles</a></li>
 									<li><a href="locations.php#parentVerticalTab5">Chaises</a></li>
->>>>>>> b9980042fe5749862a3213ea63803664a6acd419
+
 								</ul>
 							</div>
 						</div>
@@ -68,14 +57,9 @@
 									</a>
 								</li>
 							</div>
-<<<<<<< HEAD
-							<div class="collpse-in col-md-12" id="emploi">
-								<ul >
-=======
 
 							<div class="collapse col-md-12" id="emploi">
 								<ul class="list-unstyled">
->>>>>>> b9980042fe5749862a3213ea63803664a6acd419
 									<li><a href="emplois.php#parentVerticalTab1">Achat,transport,Logistique</a></li>
 									<li><a href="emplois.php#parentVerticalTab2">Commercial,Ventes</a></li>
 									<li><a href="emplois.php#parentVerticalTab3">Gestions,comptabilites,finnances</a></li>
@@ -102,13 +86,9 @@
 								</a>
 							</li>
 							</div>
-<<<<<<< HEAD
-							<div  class="collpse-in col-md-12" id="formation">
-								<ul >
-=======
+
 							<div  class="collapse col-md-12" id="formation">
 								<ul class="list-unstyled">
->>>>>>> b9980042fe5749862a3213ea63803664a6acd419
 									<li><a href="#">Electronique</a></li>
 									<li><a href="#">Immobiliers</a></li>
 									<li><a href="#">Vestimentaires</a></li>
