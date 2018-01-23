@@ -1,12 +1,12 @@
 
 <nav class="menu" style="overflow-y: auto; overflow-x: hidden; height: inherit;">
-					<div class="icon-list nav-tabs" id="accordion">
+					<div class="icon-list nav-tabs" >
 
 						<div class="row" >
 							<div class="col-md-12">
 							<div>
 								<li >
-									<a  aria-expanded="false" href="#vente" data-toggle="collapse" data-parent="#accordion" ><i><img src="images/icons/ventes.png"></i><span>VENTES</span>  <span style="margin-left: 20px"  class="caret"></span>
+									<a  aria-expanded="false" href="#vente" data-toggle="collapse" ><i><img src="images/icons/ventes.png"></i><span>VENTES</span>  <span style="margin-left: 20px"  class="caret"></span>
 									</a>
 								</li>
 							</div>
@@ -32,7 +32,7 @@
 							<div class="col-md-12">
 							<div>
 								<li  >
-									<a  aria-expanded="false" href="#location" data-parent="#accordion" data-toggle="collapse" ><i><img src="images/icons/locations.png"></i><span>LOCATIONS</span>  <span style="margin-left: 20px"  class="caret"></span></b>
+									<a  aria-expanded="false" href="#location"  data-toggle="collapse"><i><img src="images/icons/locations.png"></i><span>LOCATIONS</span>  <span style="margin-left: 20px"  class="caret"></span></b>
 									</a>
 								</li>
 							</div>
@@ -53,7 +53,7 @@
 							<div class="col-md-12">
 							<div>
 								<li >
-									<a aria-expanded="false" href="#emploi" data-parent="#accordion" data-toggle="collapse"  ><i><img src="images/icons/emplois.png"></i><span>EMPLOIS</span>  <span style="margin-left: 20px" class="caret"  ></span>
+									<a aria-expanded="false" href="#emploi" data-toggle="collapse"  ><i><img src="images/icons/emplois.png"></i><span>EMPLOIS</span>  <span style="margin-left: 20px" class="caret"  ></span>
 									</a>
 								</li>
 							</div>
@@ -82,7 +82,7 @@
 							<div class="col-md-12">
 							<div>
 							<li  >
-								<a  aria-expanded="false" href="#formation" data-parent="#accordion" data-toggle="collapse" ><i><img src="images/icons/formations.png"></i><span>FORMATIONS</span>  <span style="margin-left: 20px" class="caret" ></span>
+								<a  aria-expanded="false" href="#formation" data-toggle="collapse" ><i><img src="images/icons/formations.png"></i><span>FORMATIONS</span>  <span style="margin-left: 20px" class="caret" ></span>
 								</a>
 							</li>
 							</div>
