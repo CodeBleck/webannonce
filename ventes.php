@@ -12,6 +12,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link rel="stylesheet" href="css/bootstrap-select.css"><!-- bootstrap-select-CSS -->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" /><!-- style.css -->
 <link rel="stylesheet" href="css/font-awesome.min.css" /><!-- fontawesome-CSS -->
+<link rel="stylesheet" href="css/animate.css" />
 <link rel="stylesheet" href="css/menu_sideslide.css" type="text/css" media="all"><!-- Navigation-CSS -->
 <!-- meta tags -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -62,6 +63,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script src="js/jquery.uls.languagefilter.js"></script>
 <script src="js/jquery.uls.regionfilter.js"></script>
 <script src="js/jquery.uls.core.js"></script>
+
+
 <script>
 			$( document ).ready( function() {
 				$( '.uls-trigger' ).uls( {
@@ -173,18 +176,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div id="parentVerticalTab">
 					<div class="agileits-tab_nav">
 					<ul class="resp-tabs-list hor_1">
-						<li>Immobiliers</li>
-						<li>Mobiles</li>
-						<li>Electroniques & Electromenenagers</li>
-						<li>Automobiles</li>
-						<li>Maisons et terrains</li>
-						<li>Cosmetiques</li>
+						<li class="mvente">Immobiliers</li>
+						<li class="mvente">Mobiles</li>
+						<li class="mvente">Electroniques & Electromenenagers</li>
+						<li class="mvente">Automobiles</li>
+						<li class="mvente">Maisons et terrains</li>
+						<li class="mvente">Cosmetiques</li>
 						
-						<li>Animaux domestiques</li>
-						<li>Fournitures scolaires</li>
-						<li>Vestmentaires</li>
-						<li>Jouets</li>
-						<li>Bijoux</li>
+						<li class="mvente">Animaux domestiques</li>
+						<li class="mvente">Fournitures scolaires</li>
+						<li class="mvente">Vestmentaires</li>
+						<li class="mvente">Jouets</li>
+						<li class="mvente">Bijoux</li>
 						
 					</ul>
 						<a class="w3ls-ads" href="all-classifieds.php">View all Ads</a>
@@ -196,28 +199,28 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/immobiliers/salon.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/immobiliers/salon.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-										<img src="images/immobiliers/sofa-salon.jpg" title="image" alt="" />
+										<img class="fadeimg" src="images/immobiliers/sofa-salon.jpg" title="image" alt="" />
 										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 									
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/immobiliers/juvenile2.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/immobiliers/juvenile2.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/immobiliers/bed.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/immobiliers/bed.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
@@ -240,27 +243,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/mobiles/ventes-smartphones.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/mobiles/ventes-smartphones.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/mobiles/packtablets.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/mobiles/packtablets.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/mobiles/origine-nokia-x3-02-3g.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/mobiles/origine-nokia-x3-02-3g.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/mobiles/logitech-keyboard-ipad-mini-01.png" title="image" alt="" />
+									<img class="fadeimg1" src="images/mobiles/logitech-keyboard-ipad-mini-01.png" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
@@ -284,27 +287,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/electro/smartTV.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/electro/smartTV.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/electro/Electromenager-pack.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/electro/Electromenager-pack.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/electro/panasonic_radiof3500.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/electro/panasonic_radiof3500.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/electro/cafetiere-électroménagers.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/electro/cafetiere-électroménagers.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
@@ -328,27 +331,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/automobiles/car-mercedes.JPG" title="image" alt="" />
+									<img class="fadeimg" src="images/automobiles/car-mercedes.JPG" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/automobiles/NV200-Packshot.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/automobiles/NV200-Packshot.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/automobiles/RAV-4.JPG" title="image" alt="" />
+									<img class="fadeimg1" src="images/automobiles/RAV-4.JPG" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/automobiles/taxi1.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/automobiles/taxi1.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
@@ -371,27 +374,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/maisons/plan-de-maison-duplex-au-cameroun.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/maisons/plan-de-maison-duplex-au-cameroun.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/maisons/FRONT-VIEW.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/maisons/FRONT-VIEW.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/maisons/terrains1.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/maisons/terrains1.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/maisons/Construire-au-Cameroun_4.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/maisons/Construire-au-Cameroun_4.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
@@ -415,27 +418,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/cosmetiques/0marche-du-cosmetique.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/cosmetiques/0marche-du-cosmetique.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/cosmetiques/bio-maison-sanzoo.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/cosmetiques/bio-maison-sanzoo.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/cosmetiques/Bouteillescosmetiques.png" title="image" alt="" />
+									<img class="fadeimg1" src="images/cosmetiques/Bouteillescosmetiques.png" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/cosmetiques/coffret_Expressionsdenfants.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/cosmetiques/coffret_Expressionsdenfants.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
@@ -458,27 +461,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/animaux/1200px-Chicken_-_melbourne.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/animaux/1200px-Chicken_-_melbourne.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/animaux/chien.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/animaux/chien.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/animaux/Lapin_rex.png" title="image" alt="" />
+									<img class="fadeimg1" src="images/animaux/Lapin_rex.png" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/animaux/elevage-de-porcs.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/animaux/elevage-de-porcs.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a> <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
@@ -500,27 +503,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/fournitures/fournitures-scolaires_livres.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/fournitures/fournitures-scolaires_livres.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/fournitures/kit-rentree.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/fournitures/kit-rentree.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/fournitures/kitrentree_topoffice01.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/fournitures/kitrentree_topoffice01.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/fournitures/material-escolar.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/fournitures/material-escolar.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 							</figure>
@@ -541,27 +544,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/vestimentaires/gucci-homme-vente-vetement-gucci.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/vestimentaires/gucci-homme-vente-vetement-gucci.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/vestimentaires/vetementfemme.png" title="image" alt="" />
+									<img class="fadeimg" src="images/vestimentaires/vetementfemme.png" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/vestimentaires/vestes.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/vestimentaires/vestes.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/vestimentaires/landing_page.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/vestimentaires/landing_page.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 							</figure>
@@ -579,27 +582,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/jouets/maxresdefault.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/jouets/maxresdefault.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/jouets/bulldozer-teleguide-pour-enfant-jouet-pour-enfant.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/jouets/bulldozer-teleguide-pour-enfant-jouet-pour-enfant.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/jouets/le-scooter-fille.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/jouets/le-scooter-fille.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/jouets/ordinateur-enfant.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/jouets/ordinateur-enfant.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 							</figure>
@@ -619,27 +622,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/bijoux/montreH.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/bijoux/montreH.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/bijoux/xbracelet-double-chaine-argent.jpg" title="image" alt="" />
+									<img class="fadeimg" src="images/bijoux/xbracelet-double-chaine-argent.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/bijoux/Bijoux_F.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/bijoux/Bijoux_F.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
+								<div class="category-img col-md-3">
 									<a href="single.php">
-									<img src="images/bijoux/montre-bijoux-femme-.jpg" title="image" alt="" />
+									<img class="fadeimg1" src="images/bijoux/montre-bijoux-femme-.jpg" title="image" alt="" />
 									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 							</figure>
@@ -797,5 +800,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</script>
 			<!-- start-smoth-scrolling -->
 		<!-- //here ends scrolling icon -->
+		<script src="js/wa.js"></script>
 </body>
 </html>
