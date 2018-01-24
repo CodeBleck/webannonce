@@ -12,6 +12,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link rel="stylesheet" href="css/bootstrap-select.css"><!-- bootstrap-select-CSS -->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" /><!-- style.css -->
 <link rel="stylesheet" href="css/font-awesome.min.css" /><!-- fontawesome-CSS -->
+<link rel="stylesheet" href="css/animate.css" />
 <link rel="stylesheet" href="css/menu_sideslide.css" type="text/css" media="all"><!-- Navigation-CSS -->
 <!-- meta tags -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -62,6 +63,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script src="js/jquery.uls.languagefilter.js"></script>
 <script src="js/jquery.uls.regionfilter.js"></script>
 <script src="js/jquery.uls.core.js"></script>
+
+
 <script>
 			$( document ).ready( function() {
 				$( '.uls-trigger' ).uls( {
@@ -128,375 +131,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="modal-body">
 									 <form class="form-horizontal" action="#" method="get">
 										<div class="form-group">
-											<select id="basic2" class="show-tick form-control" multiple>
-												<optgroup label="Popular Cities">
-													<option selected style="display:none;color:#eee;">Select City</option>
-													<option>Birmingham</option>
-													<option>Anchorage</option>
-													<option>Phoenix</option>
-													<option>Little Rock</option>
-													<option>Los Angeles</option>
-													<option>Denver</option>
-													<option>Bridgeport</option>
-													<option>Wilmington</option>
-													<option>Jacksonville</option>
-													<option>Atlanta</option>
-													<option>Honolulu</option>
-													<option>Boise</option>
-													<option>Chicago</option>
-													<option>Indianapolis</option>
-												</optgroup>
-													<optgroup label="Alabama">
-														<option>Birmingham</option>
-														<option>Montgomery</option>
-														<option>Mobile</option>
-														<option>Huntsville</option>
-														<option>Tuscaloosa</option>
-													</optgroup>
-													<optgroup label="Alaska">
-														<option>Anchorage</option>
-														<option>Fairbanks</option>
-														<option>Juneau</option>
-														<option>Sitka</option>
-														<option>Ketchikan</option>
-													</optgroup>
-													<optgroup label="Arizona">
-														<option>Phoenix</option>
-														<option>Tucson</option>
-														<option>Mesa</option>
-														<option>Chandler</option>
-														<option>Glendale</option>
-													</optgroup>
-													<optgroup label="Arkansas">
-														<option>Little Rock</option>
-														<option>Fort Smith</option>
-														<option>Fayetteville</option>
-														<option>Springdale</option>
-														<option>Jonesboro</option>
-													</optgroup>
-													<optgroup label="California">
-														<option>Los Angeles</option>
-														<option>San Diego</option>
-														<option>San Jose</option>
-														<option>San Francisco</option>
-														<option>Fresno</option>
-													</optgroup>
-													<optgroup label="Colorado">
-														<option>Denver</option>
-														<option>Colorado</option>
-														<option>Aurora</option>
-														<option>Fort Collins</option>
-														<option>Lakewood</option>
-													</optgroup>
-													<optgroup label="Connecticut">
-														<option>Bridgeport</option>
-														<option>New Haven</option>
-														<option>Hartford</option>
-														<option>Stamford</option>
-														<option>Waterbury</option>
-													</optgroup>
-													<optgroup label="Delaware">
-														<option>Wilmington</option>
-														<option>Dover</option>
-														<option>Newark</option>
-														<option>Bear</option>
-														<option>Middletown</option>
-													</optgroup>
-													<optgroup label="Florida">
-														<option>Jacksonville</option>
-														<option>Miami</option>
-														<option>Tampa</option>
-														<option>St. Petersburg</option>
-														<option>Orlando</option>
-													</optgroup>
-													<optgroup label="Georgia">
-														<option>Atlanta</option>
-														<option>Augusta</option>
-														<option>Columbus</option>
-														<option>Savannah</option>
-														<option>Athens</option>
-													</optgroup>
-													<optgroup label="Hawaii">
-														<option>Honolulu</option>
-														<option>Pearl City</option>
-														<option>Hilo</option>
-														<option>Kailua</option>
-														<option>Waipahu</option>
-													</optgroup>
-													<optgroup label="Idaho">
-														<option>Boise</option>
-														<option>Nampa</option>
-														<option>Meridian</option>
-														<option>Idaho Falls</option>
-														<option>Pocatello</option>
-													</optgroup>
-													<optgroup label="Illinois">
-														<option>Chicago</option>
-														<option>Aurora</option>
-														<option>Rockford</option>
-														<option>Joliet</option>
-														<option>Naperville</option>
-													</optgroup>
-													<optgroup label="Indiana">
-														<option>Indianapolis</option>
-														<option>Fort Wayne</option>
-														<option>Evansville</option>
-														<option>South Bend</option>
-														<option>Hammond</option>														       
-													</optgroup>
-													<optgroup label="Iowa">
-														<option>Des Moines</option>
-														<option>Cedar Rapids</option>
-														<option>Davenport</option>
-														<option>Sioux City</option>
-														<option>Waterloo</option>       													
-													</optgroup>
-													<optgroup label="Kansas">
-														<option>Wichita</option>
-														<option>Overland Park</option>
-														<option>Kansas City</option>
-														<option>Topeka</option>
-														<option>Olathe  </option>            													
-													</optgroup>
-													<optgroup label="Kentucky">
-														<option>Louisville</option>
-														<option>Lexington</option>
-														<option>Bowling Green</option>
-														<option>Owensboro</option>
-														<option>Covington</option>        														
-													</optgroup>
-													<optgroup label="Louisiana">
-														<option>New Orleans</option>
-														<option>Baton Rouge</option>
-														<option>Shreveport</option>
-														<option>Metairie</option>
-														<option>Lafayette</option>          														
-													</optgroup>
-													<optgroup label="Maine">
-														<option>Portland</option>
-														<option>Lewiston</option>
-														<option>Bangor</option>
-														<option>South Portland</option>
-														<option>Auburn</option>         														
-													</optgroup>
-													<optgroup label="Maryland">
-														<option>Baltimore</option>
-														<option>Frederick</option>
-														<option>Rockville</option>
-														<option>Gaithersburg</option>
-														<option>Bowie</option>         														
-													</optgroup>
-													<optgroup label="Massachusetts">
-														<option>Boston</option>
-														<option>Worcester</option>
-														<option>Springfield</option>
-														<option>Lowell</option>
-														<option>Cambridge</option>  
-													</optgroup>
-													<optgroup label="Michigan">
-														<option>Detroit</option>
-														<option>Grand Rapids</option>
-														<option>Warren</option>
-														<option>Sterling Heights</option>
-														<option>Lansing</option> 
-													</optgroup>
-													<optgroup label="Minnesota">
-														<option>Minneapolis</option>
-														<option>St. Paul</option>
-														<option>Rochester</option>
-														<option>Duluth</option>
-														<option>Bloomington</option>      														
-													</optgroup>
-													<optgroup label="Mississippi">
-														<option>Jackson</option>
-														<option>Gulfport</option>
-														<option>Southaven</option>
-														<option>Hattiesburg</option>
-														<option>Biloxi</option>         														
-													</optgroup>
-													<optgroup label="Missouri">
-														<option>Kansas City</option>
-														<option>St. Louis</option>
-														<option>Springfield</option>
-														<option>Independence</option>
-														<option>Columbia</option>            														
-													</optgroup>
-													<optgroup label="Montana">
-														<option>Billings</option>
-														<option>Missoula</option>
-														<option>Great Falls</option>
-														<option>Bozeman</option>
-														<option>Butte-Silver Bow</option>         														
-													</optgroup>
-													<optgroup label="Nebraska">
-														<option>Omaha</option>
-														<option>Lincoln</option>
-														<option>Bellevue</option>
-														<option>Grand Island</option>
-														<option>Kearney</option>        													
-													</optgroup>
-													<optgroup label="Nevada">
-														<option>Las Vegas</option>
-														<option>Henderson</option>
-														<option>North Las Vegas</option>
-														<option>Reno</option>
-														<option>Sunrise Manor</option>            													
-													</optgroup>
-													<optgroup label="New Hampshire">
-														<option>Manchesters</option>
-														<option>Nashua</option>
-														<option>Concord</option>
-														<option>Dover</option>
-														<option>Rochester</option>              													
-													</optgroup>
-													<optgroup label="New Jersey">
-														<option>Newark</option>
-														<option>Jersey City</option>
-														<option>Paterson</option>
-														<option>Elizabeth</option>
-														<option>Edison</option> 
-													</optgroup>
-													<optgroup label="New Mexico">
-														<option>Albuquerque</option>
-														<option>Las Cruces</option>
-														<option>Rio Rancho</option>
-														<option>Santa Fe</option>
-														<option>Roswell</option>       
-													</optgroup>
-													<optgroup label="New York">
-														<option>New York</option>
-														<option>Buffalo</option>
-														<option>Rochester</option>
-														<option>Yonkers</option>
-														<option>Syracuse</option>        														
-													</optgroup>
-													<optgroup label="North Carolina">
-														<option>Charlotte</option>
-														<option>Raleigh</option>
-														<option>Greensboro</option>
-														<option>Winston-Salem</option>
-														<option>Durham</option>          														
-													</optgroup>
-													<optgroup label="North Dakota">
-														<option>Fargo</option>
-														<option>Bismarck</option>
-														<option>Grand Forks</option>
-														<option>Minot</option>
-														<option>West Fargo</option>
-													</optgroup>
-													<optgroup label="Ohio">
-														<option>Columbus</option>
-														<option>Cleveland</option>
-														<option>Cincinnati</option>
-														<option>Toledo</option>
-														<option>Akron</option>      
-													</optgroup>
-													<optgroup label="Oklahoma">
-														<option>Oklahoma City</option>
-														<option>Tulsa</option>
-														<option>Norman</option>
-														<option>Broken Arrow</option>
-														<option>Lawton</option>        														
-													</optgroup>
-													<optgroup label="Oregon">
-														<option>Portland</option>
-														<option>Eugene</option>
-														<option>Salem</option>
-														<option>Gresham</option>
-														<option>Hillsboro</option>          														
-													</optgroup>
-													<optgroup label="Pennsylvania">
-														<option>Philadelphia</option>
-														<option>Pittsburgh</option>
-														<option>Allentown</option>
-														<option>Erie</option>
-														<option>Reading</option>         														
-													</optgroup>
-													<optgroup label="Rhode Island">
-														<option>Providence</option>
-														<option>Warwick</option>
-														<option>Cranston</option>
-														<option>Pawtucket</option>
-														<option>East Providence</option>   
-													</optgroup>
-													<optgroup label="South Carolina">
-														<option>Columbia</option>
-														<option>Charleston</option>
-														<option>North Charleston</option>
-														<option>Mount Pleasant</option>
-														<option>Rock Hill</option> 
-													</optgroup>
-													<optgroup label="South Dakota">
-														<option>Sioux Falls</option>
-														<option>Rapid City</option>
-														<option>Aberdeen</option>
-														<option>Brookings</option>
-														<option>Watertown</option> 
-													</optgroup>
-													<optgroup label="Tennessee">
-														<option>Memphis</option>
-														<option>Nashville</option>
-														<option>Knoxville</option>
-														<option>Chattanooga</option>
-														<option>Clarksville</option>       
-													</optgroup>
-													<optgroup label="Texas">
-														<option>Houston</option>
-														<option>San Antonio</option>
-														<option>Dallas</option>
-														<option>Austin</option>
-														<option>Fort Worth</option>   
-													</optgroup>
-													<optgroup label="Utah">
-														<option>Salt Lake City</option>
-														<option>West Valley City</option>
-														<option>Provo</option>
-														<option>West Jordan</option>
-														<option>Orem</option>   
-													</optgroup>	
-													<optgroup label="Vermont">
-														<option>Burlington</option>
-														<option>Essex</option>
-														<option>South Burlington</option>
-														<option>Colchester</option>
-														<option>Rutland</option>   
-													</optgroup>
-													<optgroup label="Virginia">
-														<option>Virginia Beach</option>
-														<option>Norfolk</option>
-														<option>Chesapeake</option>
-														<option>Arlington</option>
-														<option>Richmond</option> 
-													</optgroup>	
-													<optgroup label="Washington">
-														<option>Seattle</option>
-														<option>Spokane</option>
-														<option>Tacoma</option>
-														<option>Vancouver</option>
-														<option>Bellevue</option> 
-													</optgroup>	
-													<optgroup label="West Virginia">
-														<option>Charleston</option>
-														<option>Huntington</option>
-														<option>Parkersburg</option>
-														<option>Morgantown</option>
-														<option>Wheeling</option> 
-													</optgroup>	
-													<optgroup label="Wisconsin">
-														<option>Milwaukee</option>
-														<option>Madison</option>
-														<option>Green Bay</option>
-														<option>Kenosha</option>
-														<option>Racine</option>
-													</optgroup>
-													<optgroup label="Wyoming">
-														<option>Cheyenne</option>
-														<option>Casper</option>
-														<option>Laramie</option>
-														<option>Gillette</option>
-														<option>Rock Springs</option>
-													</optgroup>	
-											</select>
+											<!-- select  location -->
 										</div>
 									  </form>    
 								</div>
@@ -541,18 +176,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div id="parentVerticalTab">
 					<div class="agileits-tab_nav">
 					<ul class="resp-tabs-list hor_1">
-						<li>Immobiliers</li>
-						<li>Mobiles</li>
-						<li>Electroniques & Electromenenagers</li>
-						<li>Automobiles</li>
-						<li>Maisons et terrains</li>
-						<li>Cosmetiques</li>
+						<li class="mvente">Immobiliers</li>
+						<li class="mvente">Mobiles</li>
+						<li class="mvente">Electroniques & Electromenenagers</li>
+						<li class="mvente">Automobiles</li>
+						<li class="mvente">Maisons et terrains</li>
+						<li class="mvente">Cosmetiques</li>
 						
-						<li>Animaux domestiques</li>
-						<li>Fournitures scolaires</li>
-						<li>Vestmentaires</li>
-						<li>Jouets</li>
-						<li>Bijoux</li>
+						<li class="mvente">Animaux domestiques</li>
+						<li class="mvente">Fournitures scolaires</li>
+						<li class="mvente">Vestmentaires</li>
+						<li class="mvente">Jouets</li>
+						<li class="mvente">Bijoux</li>
 						
 					</ul>
 						<a class="w3ls-ads" href="all-classifieds.php">View all Ads</a>
@@ -560,28 +195,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="resp-tabs-container hor_1">
 						<span class="active total" style="display:block;" data-toggle="modal" data-target="#myModal"><strong>CAMEROUN</strong> (Selectionner votre ville)</span>
 						<div>
-							<h3>IMMOBILIERS</h3> <a href="all-classifieds.php">View all Ads</a>
+							<h3>IMMOBILIERS</h3> <a class="btn btn-info" href="furnitures.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/immobiliers/salon.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/immobiliers/salon.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/immobiliers/sofa-salon.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+										<img class="fadeimg" src="images/immobiliers/sofa-salon.jpg" title="image" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
+									
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/immobiliers/juvenile2.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/immobiliers/juvenile2.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/immobiliers/bed.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/immobiliers/bed.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
 								
@@ -599,27 +239,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 						<div>
 							<h3>SMARTPHONES & TABLETS</h3>
+							<a class="btn btn-info" href="mobiles.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/mobiles/ventes-smartphones.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/mobiles/ventes-smartphones.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/mobiles/packtablets.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/mobiles/packtablets.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/mobiles/origine-nokia-x3-02-3g.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/mobiles/origine-nokia-x3-02-3g.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/mobiles/logitech-keyboard-ipad-mini-01.png" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/mobiles/logitech-keyboard-ipad-mini-01.png" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
 								
@@ -638,27 +283,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							
 							<h3>ELECTRONIQUE & ELECTROMENAGERS</h3>
+							<a class="btn btn-info" href="electronics-appliances.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/electro/smartTV.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/electro/smartTV.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/electro/Electromenager-pack.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/electro/Electromenager-pack.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/electro/panasonic_radiof3500.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/electro/panasonic_radiof3500.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/electro/cafetiere-électroménagers.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/electro/cafetiere-électroménagers.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
 								
@@ -677,27 +327,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							
 							<h3>AUTOMOBILES</h3>
+							<a class="btn btn-info" href="cars.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/automobiles/car-mercedes.JPG" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/automobiles/car-mercedes.JPG" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/automobiles/NV200-Packshot.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/automobiles/NV200-Packshot.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/automobiles/RAV-4.JPG" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/automobiles/RAV-4.JPG" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/automobiles/taxi1.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/automobiles/taxi1.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
 								
@@ -715,27 +370,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							
 							<h3>MAISONS ET TERRAINS</h3>
+							<a class="btn btn-info" href="real-estate.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/maisons/plan-de-maison-duplex-au-cameroun.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/maisons/plan-de-maison-duplex-au-cameroun.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/maisons/FRONT-VIEW.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/maisons/FRONT-VIEW.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/maisons/terrains1.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/maisons/terrains1.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/maisons/Construire-au-Cameroun_4.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/maisons/Construire-au-Cameroun_4.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
 								
@@ -754,27 +414,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							
 							<h3>COSMETIQUES</h3>
+							<a class="btn btn-info" href="cosmetiques.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/cosmetiques/0marche-du-cosmetique.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/cosmetiques/0marche-du-cosmetique.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/cosmetiques/bio-maison-sanzoo.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/cosmetiques/bio-maison-sanzoo.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/cosmetiques/Bouteillescosmetiques.png" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/cosmetiques/Bouteillescosmetiques.png" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/cosmetiques/coffret_Expressionsdenfants.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/cosmetiques/coffret_Expressionsdenfants.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
 								
@@ -792,27 +457,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							
 							<h3>ANIMAUX DOMESTIQUES</h3>
+							<a class="btn btn-info" href="pets.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/animaux/1200px-Chicken_-_melbourne.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/animaux/1200px-Chicken_-_melbourne.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/animaux/chien.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/animaux/chien.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/animaux/Lapin_rex.png" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/animaux/Lapin_rex.png" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/animaux/elevage-de-porcs.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a> <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/animaux/elevage-de-porcs.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a> <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
 								
@@ -829,27 +499,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							
 							<h3>LIBRAIRIES</h3>
+							<a class="btn btn-info" href="books-sports-hobbies.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/fournitures/fournitures-scolaires_livres.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/fournitures/fournitures-scolaires_livres.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/fournitures/kit-rentree.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/fournitures/kit-rentree.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/fournitures/kitrentree_topoffice01.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/fournitures/kitrentree_topoffice01.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/fournitures/material-escolar.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/fournitures/material-escolar.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 							</figure>
 							<div class="sub-categories">
@@ -865,27 +540,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							
 							<h3>FASHION & MODE</h3>
+							<a class="btn btn-info" href="fashion.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/vestimentaires/gucci-homme-vente-vetement-gucci.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/vestimentaires/gucci-homme-vente-vetement-gucci.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/vestimentaires/vetementfemme.png" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/vestimentaires/vetementfemme.png" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/vestimentaires/vestes.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/vestimentaires/vestes.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/vestimentaires/landing_page.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/vestimentaires/landing_page.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 							</figure>
 							<div class="sub-categories">
@@ -898,27 +578,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 						<div>
 							<h3>JOUETS</h3>
+							<a class="btn btn-info" href="kids.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/jouets/maxresdefault.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/jouets/maxresdefault.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/jouets/bulldozer-teleguide-pour-enfant-jouet-pour-enfant.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/jouets/bulldozer-teleguide-pour-enfant-jouet-pour-enfant.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/jouets/le-scooter-fille.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/jouets/le-scooter-fille.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/jouets/ordinateur-enfant.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/jouets/ordinateur-enfant.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 							</figure>
 							<div class="sub-categories">
@@ -933,27 +618,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div>
 							
 							<h3>BIJOUTERIE</h3>
+							<a class="btn btn-info" href="bijoux.php">View all</a>
 							<hr>
 							<figure class="category row">
 
-								<div class="category-img col-md-6">
-									<img src="images/bijoux/montreH.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/bijoux/montreH.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/bijoux/xbracelet-double-chaine-argent.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg" src="images/bijoux/xbracelet-double-chaine-argent.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 								
-								<div class="category-img col-md-6">
-									<img src="images/bijoux/Bijoux_F.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/bijoux/Bijoux_F.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 
-								<div class="category-img col-md-6">
-									<img src="images/bijoux/montre-bijoux-femme-.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<div class="category-img col-md-3">
+									<a href="single.php">
+									<img class="fadeimg1" src="images/bijoux/montre-bijoux-femme-.jpg" title="image" alt="" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption></a>
 								</div>
 							</figure>
 							<div class="sub-categories">
@@ -1110,5 +800,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</script>
 			<!-- start-smoth-scrolling -->
 		<!-- //here ends scrolling icon -->
+		<script src="js/wa.js"></script>
 </body>
 </html>
