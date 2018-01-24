@@ -577,23 +577,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="category row">
 
 								<div class="category-img col-md-3">
-									<img src="images/r4.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/r4.jpg" title="maison" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/r5.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/r5.jpg" title="maison" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/r6.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/r6.jpg" title="maison" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 
 								<div class="category-img col-md-3">
-									<img src="images/r7.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/r7.jpg" title="maison" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								
@@ -617,23 +625,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="category row">
 
 								<div class="category-img col-md-3">
-									<img src="images/c23.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/c23.jpg" title="camion" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/c4.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/c4.jpg" title="voiture" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/c8.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/c8.jpg" title="bus" alt="" height="135" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 
 								<div class="category-img col-md-3">
-									<img src="images/bk11.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/bk11.jpg" title="moto" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								
@@ -659,23 +675,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="category row">
 
 								<div class="category-img col-md-3">
-									<img src="images/t1.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/t1.jpg" title="terrain" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/t4.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+									<img src="images/t4.jpg" title="terrain" alt="" height="125" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+								</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/t2.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/t2.jpg" title="terrain" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 
 								<div class="category-img col-md-3">
-									<img src="images/t3.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+								<a href="single.php">
+									<img src="images/t3.jpg" title="terrain" alt="" height="125" />
+									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+								</a>
 								</div>
 								
 								
@@ -699,23 +723,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="category row">
 
 								<div class="category-img col-md-3">
-									<img src="images/salles/s1.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/salles/s1.jpg" title="salle" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/salles/s2.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/salles/s2.jpg" title="salle" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/salles/s3.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/salles/s3.jpg" title="salle" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 
 								<div class="category-img col-md-3">
-									<img src="images/salles/s4.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/salles/s4.jpg" title="salle" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								
@@ -740,23 +772,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="category row">
 
 								<div class="category-img col-md-3">
-									<img src="images/fr1.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/fr1.jpg" title="Chaises" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/fr6.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/fr6.jpg" title="Chaises" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								<div class="category-img col-md-3">
-									<img src="images/fr13.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/fr13.jpg" title="chaises" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 
 								<div class="category-img col-md-3">
-									<img src="images/fr5.jpg" title="image" alt="" />
-									<figcaption>1,05,168 Ads <a class="btn btn-success right" href="3">Buy</a></figcaption>
+									<a href="single.php">
+										<img src="images/fr5.jpg" title="chaises" alt="" />
+										<figcaption>1,05,168 Ads <a class="btn btn-success right" href="single.php">Buy</a></figcaption>
+									</a>
 								</div>
 								
 								

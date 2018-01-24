@@ -113,7 +113,7 @@
 							<div class="col-md-12">
 								<div>
 									<li  >
-										<a href="#"  ><i><img src="images/icons/visit-card.png"></i><span>CONTACTEZ NOUS</span>  
+										<a href="contact.php"  ><i><img src="images/icons/visit-card.png"></i><span>CONTACTEZ NOUS</span>  
 										</a>
 									</li>
 								</div>
